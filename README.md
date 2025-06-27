@@ -1,7 +1,7 @@
 
-# SustituMedIA 🏥💊
+# Sistemas Experto Medicamentos 🏥💊
 
-**SustituMedIA** es un sistema experto de sustitución de medicamentos que, a partir de reglas clínicas y composición farmacológica, sugiere alternativas terapéuticas seguras y explicables.
+Es un sistema experto de sustitución de medicamentos que, a partir de reglas clínicas y composición farmacológica, sugiere alternativas terapéuticas seguras y explicables.
 
 ---
 
