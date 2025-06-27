@@ -99,4 +99,4 @@ Si quieres modificar o volver a compilar:
 
 ---
 
-¡Listo! Con esto cualquiera podrá descargar el exe y probar tu sistema sin complicaciones.
+¡Listo! Con esto cualquiera podrá descargar el exe y probar tu sistema sin complicaciones
