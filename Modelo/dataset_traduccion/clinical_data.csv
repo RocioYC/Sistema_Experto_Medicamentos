@@ -1,0 +1,1001 @@
+patient_id,clinical_notes,diagnoses,medications
+1,"Patient reports headache, shortness of breath, fatigue. Diagnosed with Bronchitis. Prescribed Amoxicillin.",Bronchitis,Amoxicillin
+2,"Patient reports shortness of breath, fatigue, headache. Diagnosed with Heart Disease, Anemia. Prescribed Metoprolol.","Heart Disease, Anemia",Metoprolol
+3,"Patient reports back pain, nausea, chest pain. Diagnosed with Obesity. Prescribed Lisinopril.",Obesity,Lisinopril
+4,"Patient reports headache. Diagnosed with Anemia, Hypertension. Prescribed Paracetamol.","Anemia, Hypertension",Paracetamol
+5,"Patient reports shortness of breath. Diagnosed with Hypertension. Prescribed Ventolin, Amoxicillin.",Hypertension,"Ventolin, Amoxicillin"
+6,"Patient reports nausea. Diagnosed with Chronic Pain. Prescribed Ciprofloxacin, Atorvastatin.",Chronic Pain,"Ciprofloxacin, Atorvastatin"
+7,"Patient reports back pain, shortness of breath, cough. Diagnosed with Migraine. Prescribed Aspirin, Amoxicillin.",Migraine,"Aspirin, Amoxicillin"
+8,Patient reports fever. Diagnosed with Arthritis. Prescribed Ventolin.,Arthritis,Ventolin
+9,"Patient reports nausea, fever, chest pain. Diagnosed with Chronic Pain, Hypertension. Prescribed Ventolin.","Chronic Pain, Hypertension",Ventolin
+10,"Patient reports dizziness, fever. Diagnosed with Asthma, Anemia. Prescribed Aspirin.","Asthma, Anemia",Aspirin
+11,"Patient reports fatigue. Diagnosed with Arthritis, Asthma. Prescribed Ventolin, Aspirin.","Arthritis, Asthma","Ventolin, Aspirin"
+12,"Patient reports fatigue, fever, sore throat. Diagnosed with Arthritis. Prescribed Ibuprofen, Atorvastatin.",Arthritis,"Ibuprofen, Atorvastatin"
+13,"Patient reports dizziness, chest pain. Diagnosed with Diabetes, Chronic Pain. Prescribed Amoxicillin, Ciprofloxacin.","Diabetes, Chronic Pain","Amoxicillin, Ciprofloxacin"
+14,"Patient reports fatigue, nausea, headache. Diagnosed with Arthritis, Diabetes. Prescribed Amoxicillin, Lisinopril.","Arthritis, Diabetes","Amoxicillin, Lisinopril"
+15,"Patient reports chest pain, cough, shortness of breath. Diagnosed with Obesity, Asthma. Prescribed Metoprolol.","Obesity, Asthma",Metoprolol
+16,"Patient reports cough, nausea. Diagnosed with Arthritis. Prescribed Metformin.",Arthritis,Metformin
+17,"Patient reports back pain, sore throat, dizziness. Diagnosed with Bronchitis, Migraine. Prescribed Ibuprofen, Aspirin.","Bronchitis, Migraine","Ibuprofen, Aspirin"
+18,"Patient reports cough, fatigue, fever. Diagnosed with Anemia, Bronchitis. Prescribed Ciprofloxacin, Metoprolol.","Anemia, Bronchitis","Ciprofloxacin, Metoprolol"
+19,"Patient reports nausea, fever. Diagnosed with Diabetes, Arthritis. Prescribed Amoxicillin.","Diabetes, Arthritis",Amoxicillin
+20,"Patient reports fever. Diagnosed with Heart Disease, Diabetes. Prescribed Amoxicillin, Paracetamol.","Heart Disease, Diabetes","Amoxicillin, Paracetamol"
+21,"Patient reports nausea, shortness of breath. Diagnosed with Asthma, Bronchitis. Prescribed Amoxicillin, Lisinopril.","Asthma, Bronchitis","Amoxicillin, Lisinopril"
+22,"Patient reports dizziness, shortness of breath, headache. Diagnosed with Anemia. Prescribed Metformin.",Anemia,Metformin
+23,"Patient reports fatigue, chest pain. Diagnosed with Anemia. Prescribed Ciprofloxacin, Aspirin.",Anemia,"Ciprofloxacin, Aspirin"
+24,"Patient reports sore throat, nausea. Diagnosed with Obesity. Prescribed Paracetamol, Metformin.",Obesity,"Paracetamol, Metformin"
+25,"Patient reports shortness of breath. Diagnosed with Diabetes. Prescribed Paracetamol, Ventolin.",Diabetes,"Paracetamol, Ventolin"
+26,"Patient reports headache, dizziness, shortness of breath. Diagnosed with Chronic Pain, Heart Disease. Prescribed Atorvastatin, Metformin.","Chronic Pain, Heart Disease","Atorvastatin, Metformin"
+27,"Patient reports dizziness, shortness of breath. Diagnosed with Asthma. Prescribed Paracetamol.",Asthma,Paracetamol
+28,"Patient reports fever. Diagnosed with Obesity, Bronchitis. Prescribed Lisinopril, Amoxicillin.","Obesity, Bronchitis","Lisinopril, Amoxicillin"
+29,"Patient reports cough. Diagnosed with Asthma. Prescribed Aspirin, Metoprolol.",Asthma,"Aspirin, Metoprolol"
+30,"Patient reports fever, dizziness. Diagnosed with Hypertension, Diabetes. Prescribed Metoprolol, Ibuprofen.","Hypertension, Diabetes","Metoprolol, Ibuprofen"
+31,"Patient reports headache, shortness of breath. Diagnosed with Anemia, Heart Disease. Prescribed Metoprolol.","Anemia, Heart Disease",Metoprolol
+32,"Patient reports back pain, nausea. Diagnosed with Arthritis. Prescribed Atorvastatin.",Arthritis,Atorvastatin
+33,"Patient reports back pain, fever, nausea. Diagnosed with Bronchitis. Prescribed Ventolin, Lisinopril.",Bronchitis,"Ventolin, Lisinopril"
+34,"Patient reports cough, nausea. Diagnosed with Obesity, Arthritis. Prescribed Metoprolol.","Obesity, Arthritis",Metoprolol
+35,"Patient reports back pain, nausea, fatigue. Diagnosed with Hypertension. Prescribed Lisinopril, Metoprolol.",Hypertension,"Lisinopril, Metoprolol"
+36,"Patient reports cough. Diagnosed with Heart Disease, Obesity. Prescribed Ciprofloxacin.","Heart Disease, Obesity",Ciprofloxacin
+37,"Patient reports cough. Diagnosed with Diabetes, Bronchitis. Prescribed Metformin.","Diabetes, Bronchitis",Metformin
+38,"Patient reports chest pain, fatigue. Diagnosed with Hypertension, Anemia. Prescribed Metoprolol, Atorvastatin.","Hypertension, Anemia","Metoprolol, Atorvastatin"
+39,"Patient reports fever. Diagnosed with Hypertension. Prescribed Aspirin, Paracetamol.",Hypertension,"Aspirin, Paracetamol"
+40,"Patient reports headache, nausea, dizziness. Diagnosed with Diabetes, Bronchitis. Prescribed Metoprolol.","Diabetes, Bronchitis",Metoprolol
+41,Patient reports fever. Diagnosed with Anemia. Prescribed Lisinopril.,Anemia,Lisinopril
+42,"Patient reports sore throat, fatigue, dizziness. Diagnosed with Asthma. Prescribed Ventolin.",Asthma,Ventolin
+43,"Patient reports fatigue, nausea, fever. Diagnosed with Obesity, Chronic Pain. Prescribed Metformin.","Obesity, Chronic Pain",Metformin
+44,"Patient reports dizziness, chest pain. Diagnosed with Migraine, Arthritis. Prescribed Metformin.","Migraine, Arthritis",Metformin
+45,"Patient reports dizziness, cough, headache. Diagnosed with Heart Disease. Prescribed Ciprofloxacin.",Heart Disease,Ciprofloxacin
+46,"Patient reports chest pain, sore throat, back pain. Diagnosed with Diabetes. Prescribed Atorvastatin.",Diabetes,Atorvastatin
+47,"Patient reports dizziness, shortness of breath, back pain. Diagnosed with Hypertension, Obesity. Prescribed Amoxicillin, Lisinopril.","Hypertension, Obesity","Amoxicillin, Lisinopril"
+48,"Patient reports nausea, sore throat, back pain. Diagnosed with Arthritis. Prescribed Metoprolol, Ciprofloxacin.",Arthritis,"Metoprolol, Ciprofloxacin"
+49,"Patient reports back pain, sore throat, cough. Diagnosed with Obesity. Prescribed Atorvastatin, Metformin.",Obesity,"Atorvastatin, Metformin"
+50,"Patient reports fever. Diagnosed with Hypertension, Anemia. Prescribed Atorvastatin, Ibuprofen.","Hypertension, Anemia","Atorvastatin, Ibuprofen"
+51,"Patient reports fever, chest pain. Diagnosed with Anemia. Prescribed Atorvastatin, Amoxicillin.",Anemia,"Atorvastatin, Amoxicillin"
+52,"Patient reports shortness of breath, dizziness. Diagnosed with Chronic Pain. Prescribed Ventolin, Lisinopril.",Chronic Pain,"Ventolin, Lisinopril"
+53,"Patient reports shortness of breath. Diagnosed with Anemia. Prescribed Metoprolol, Metformin.",Anemia,"Metoprolol, Metformin"
+54,"Patient reports sore throat, chest pain, shortness of breath. Diagnosed with Migraine, Arthritis. Prescribed Ibuprofen, Metoprolol.","Migraine, Arthritis","Ibuprofen, Metoprolol"
+55,"Patient reports sore throat. Diagnosed with Asthma. Prescribed Aspirin, Ciprofloxacin.",Asthma,"Aspirin, Ciprofloxacin"
+56,"Patient reports shortness of breath, dizziness. Diagnosed with Bronchitis, Obesity. Prescribed Atorvastatin, Lisinopril.","Bronchitis, Obesity","Atorvastatin, Lisinopril"
+57,"Patient reports back pain, dizziness, fever. Diagnosed with Hypertension. Prescribed Metformin.",Hypertension,Metformin
+58,"Patient reports back pain. Diagnosed with Chronic Pain. Prescribed Metformin, Aspirin.",Chronic Pain,"Metformin, Aspirin"
+59,"Patient reports fever, shortness of breath, dizziness. Diagnosed with Diabetes. Prescribed Ventolin.",Diabetes,Ventolin
+60,"Patient reports chest pain, nausea. Diagnosed with Heart Disease. Prescribed Ventolin.",Heart Disease,Ventolin
+61,"Patient reports back pain, chest pain. Diagnosed with Diabetes. Prescribed Metformin, Ciprofloxacin.",Diabetes,"Metformin, Ciprofloxacin"
+62,"Patient reports headache, nausea, shortness of breath. Diagnosed with Bronchitis, Arthritis. Prescribed Metoprolol, Amoxicillin.","Bronchitis, Arthritis","Metoprolol, Amoxicillin"
+63,"Patient reports cough, headache, dizziness. Diagnosed with Hypertension, Chronic Pain. Prescribed Amoxicillin, Ventolin.","Hypertension, Chronic Pain","Amoxicillin, Ventolin"
+64,"Patient reports headache, sore throat, cough. Diagnosed with Chronic Pain. Prescribed Amoxicillin, Aspirin.",Chronic Pain,"Amoxicillin, Aspirin"
+65,"Patient reports headache, nausea. Diagnosed with Hypertension. Prescribed Ventolin.",Hypertension,Ventolin
+66,"Patient reports fever, dizziness, back pain. Diagnosed with Diabetes. Prescribed Metoprolol, Ibuprofen.",Diabetes,"Metoprolol, Ibuprofen"
+67,"Patient reports cough, back pain. Diagnosed with Asthma. Prescribed Ibuprofen, Metformin.",Asthma,"Ibuprofen, Metformin"
+68,"Patient reports sore throat, dizziness, chest pain. Diagnosed with Bronchitis, Obesity. Prescribed Metformin, Amoxicillin.","Bronchitis, Obesity","Metformin, Amoxicillin"
+69,"Patient reports sore throat. Diagnosed with Diabetes. Prescribed Metoprolol, Metformin.",Diabetes,"Metoprolol, Metformin"
+70,"Patient reports chest pain. Diagnosed with Chronic Pain. Prescribed Amoxicillin, Ciprofloxacin.",Chronic Pain,"Amoxicillin, Ciprofloxacin"
+71,Patient reports cough. Diagnosed with Chronic Pain. Prescribed Ciprofloxacin.,Chronic Pain,Ciprofloxacin
+72,"Patient reports nausea. Diagnosed with Bronchitis, Diabetes. Prescribed Aspirin, Paracetamol.","Bronchitis, Diabetes","Aspirin, Paracetamol"
+73,"Patient reports headache, chest pain. Diagnosed with Chronic Pain. Prescribed Paracetamol.",Chronic Pain,Paracetamol
+74,Patient reports back pain. Diagnosed with Anemia. Prescribed Paracetamol.,Anemia,Paracetamol
+75,"Patient reports sore throat, fatigue. Diagnosed with Hypertension. Prescribed Ventolin.",Hypertension,Ventolin
+76,"Patient reports fatigue, chest pain. Diagnosed with Anemia. Prescribed Amoxicillin, Lisinopril.",Anemia,"Amoxicillin, Lisinopril"
+77,"Patient reports headache, cough, nausea. Diagnosed with Heart Disease, Obesity. Prescribed Paracetamol, Ventolin.","Heart Disease, Obesity","Paracetamol, Ventolin"
+78,"Patient reports cough. Diagnosed with Chronic Pain. Prescribed Lisinopril, Metformin.",Chronic Pain,"Lisinopril, Metformin"
+79,"Patient reports fever. Diagnosed with Obesity, Bronchitis. Prescribed Atorvastatin, Aspirin.","Obesity, Bronchitis","Atorvastatin, Aspirin"
+80,"Patient reports fever, chest pain. Diagnosed with Heart Disease. Prescribed Ibuprofen, Metoprolol.",Heart Disease,"Ibuprofen, Metoprolol"
+81,"Patient reports nausea, fever, headache. Diagnosed with Diabetes, Heart Disease. Prescribed Ibuprofen, Amoxicillin.","Diabetes, Heart Disease","Ibuprofen, Amoxicillin"
+82,"Patient reports headache, fatigue, dizziness. Diagnosed with Obesity. Prescribed Atorvastatin, Paracetamol.",Obesity,"Atorvastatin, Paracetamol"
+83,"Patient reports chest pain, headache. Diagnosed with Bronchitis. Prescribed Ventolin, Metformin.",Bronchitis,"Ventolin, Metformin"
+84,"Patient reports cough, dizziness, fatigue. Diagnosed with Diabetes. Prescribed Atorvastatin, Aspirin.",Diabetes,"Atorvastatin, Aspirin"
+85,"Patient reports sore throat, headache. Diagnosed with Migraine, Diabetes. Prescribed Lisinopril, Ventolin.","Migraine, Diabetes","Lisinopril, Ventolin"
+86,"Patient reports headache, back pain. Diagnosed with Obesity. Prescribed Amoxicillin.",Obesity,Amoxicillin
+87,"Patient reports nausea, dizziness. Diagnosed with Diabetes. Prescribed Paracetamol.",Diabetes,Paracetamol
+88,"Patient reports sore throat, nausea. Diagnosed with Chronic Pain, Anemia. Prescribed Ventolin, Lisinopril.","Chronic Pain, Anemia","Ventolin, Lisinopril"
+89,"Patient reports sore throat, shortness of breath. Diagnosed with Heart Disease. Prescribed Metformin.",Heart Disease,Metformin
+90,"Patient reports headache, chest pain. Diagnosed with Chronic Pain. Prescribed Metformin.",Chronic Pain,Metformin
+91,"Patient reports shortness of breath, fever. Diagnosed with Asthma. Prescribed Amoxicillin.",Asthma,Amoxicillin
+92,"Patient reports dizziness, headache, cough. Diagnosed with Migraine, Hypertension. Prescribed Metoprolol.","Migraine, Hypertension",Metoprolol
+93,"Patient reports shortness of breath, back pain, fever. Diagnosed with Bronchitis, Diabetes. Prescribed Ibuprofen.","Bronchitis, Diabetes",Ibuprofen
+94,"Patient reports cough. Diagnosed with Bronchitis, Hypertension. Prescribed Paracetamol, Aspirin.","Bronchitis, Hypertension","Paracetamol, Aspirin"
+95,"Patient reports fatigue, nausea. Diagnosed with Hypertension. Prescribed Amoxicillin.",Hypertension,Amoxicillin
+96,"Patient reports back pain, sore throat. Diagnosed with Bronchitis. Prescribed Metformin, Ibuprofen.",Bronchitis,"Metformin, Ibuprofen"
+97,"Patient reports chest pain, fever, dizziness. Diagnosed with Heart Disease. Prescribed Atorvastatin.",Heart Disease,Atorvastatin
+98,"Patient reports fatigue, back pain. Diagnosed with Arthritis, Obesity. Prescribed Aspirin, Atorvastatin.","Arthritis, Obesity","Aspirin, Atorvastatin"
+99,"Patient reports chest pain, fever, fatigue. Diagnosed with Asthma, Diabetes. Prescribed Paracetamol.","Asthma, Diabetes",Paracetamol
+100,Patient reports fever. Diagnosed with Chronic Pain. Prescribed Atorvastatin.,Chronic Pain,Atorvastatin
+101,"Patient reports back pain, fatigue, headache. Diagnosed with Asthma. Prescribed Metformin.",Asthma,Metformin
+102,"Patient reports nausea. Diagnosed with Anemia. Prescribed Paracetamol, Lisinopril.",Anemia,"Paracetamol, Lisinopril"
+103,"Patient reports cough, fever, dizziness. Diagnosed with Migraine. Prescribed Metformin.",Migraine,Metformin
+104,"Patient reports back pain, sore throat. Diagnosed with Chronic Pain, Obesity. Prescribed Metoprolol, Ibuprofen.","Chronic Pain, Obesity","Metoprolol, Ibuprofen"
+105,"Patient reports dizziness, chest pain. Diagnosed with Migraine. Prescribed Atorvastatin, Ciprofloxacin.",Migraine,"Atorvastatin, Ciprofloxacin"
+106,"Patient reports fever, fatigue. Diagnosed with Hypertension, Heart Disease. Prescribed Ciprofloxacin, Metoprolol.","Hypertension, Heart Disease","Ciprofloxacin, Metoprolol"
+107,"Patient reports headache, fatigue, nausea. Diagnosed with Migraine. Prescribed Paracetamol, Amoxicillin.",Migraine,"Paracetamol, Amoxicillin"
+108,"Patient reports cough, sore throat. Diagnosed with Migraine. Prescribed Paracetamol, Lisinopril.",Migraine,"Paracetamol, Lisinopril"
+109,"Patient reports headache, fatigue. Diagnosed with Obesity, Diabetes. Prescribed Metformin, Lisinopril.","Obesity, Diabetes","Metformin, Lisinopril"
+110,"Patient reports sore throat, chest pain, fever. Diagnosed with Hypertension, Diabetes. Prescribed Lisinopril.","Hypertension, Diabetes",Lisinopril
+111,"Patient reports nausea, fatigue, sore throat. Diagnosed with Anemia, Migraine. Prescribed Lisinopril.","Anemia, Migraine",Lisinopril
+112,"Patient reports sore throat, shortness of breath. Diagnosed with Chronic Pain. Prescribed Metformin, Paracetamol.",Chronic Pain,"Metformin, Paracetamol"
+113,Patient reports shortness of breath. Diagnosed with Bronchitis. Prescribed Metformin.,Bronchitis,Metformin
+114,"Patient reports fever, fatigue, chest pain. Diagnosed with Heart Disease, Diabetes. Prescribed Ciprofloxacin.","Heart Disease, Diabetes",Ciprofloxacin
+115,"Patient reports nausea, fever. Diagnosed with Migraine. Prescribed Lisinopril, Ibuprofen.",Migraine,"Lisinopril, Ibuprofen"
+116,"Patient reports fever. Diagnosed with Arthritis, Bronchitis. Prescribed Metformin, Ciprofloxacin.","Arthritis, Bronchitis","Metformin, Ciprofloxacin"
+117,"Patient reports fever, nausea. Diagnosed with Anemia. Prescribed Aspirin, Ventolin.",Anemia,"Aspirin, Ventolin"
+118,"Patient reports fever, sore throat. Diagnosed with Asthma. Prescribed Ciprofloxacin.",Asthma,Ciprofloxacin
+119,"Patient reports headache. Diagnosed with Heart Disease. Prescribed Metoprolol, Paracetamol.",Heart Disease,"Metoprolol, Paracetamol"
+120,"Patient reports cough, back pain, fever. Diagnosed with Obesity. Prescribed Ibuprofen.",Obesity,Ibuprofen
+121,"Patient reports nausea. Diagnosed with Diabetes, Migraine. Prescribed Paracetamol, Amoxicillin.","Diabetes, Migraine","Paracetamol, Amoxicillin"
+122,"Patient reports fever, sore throat. Diagnosed with Asthma. Prescribed Atorvastatin.",Asthma,Atorvastatin
+123,"Patient reports back pain. Diagnosed with Hypertension. Prescribed Atorvastatin, Ciprofloxacin.",Hypertension,"Atorvastatin, Ciprofloxacin"
+124,"Patient reports fatigue, shortness of breath, dizziness. Diagnosed with Migraine, Obesity. Prescribed Ventolin, Paracetamol.","Migraine, Obesity","Ventolin, Paracetamol"
+125,Patient reports back pain. Diagnosed with Obesity. Prescribed Metformin.,Obesity,Metformin
+126,"Patient reports fever, cough, fatigue. Diagnosed with Anemia, Bronchitis. Prescribed Metformin, Atorvastatin.","Anemia, Bronchitis","Metformin, Atorvastatin"
+127,"Patient reports back pain, cough. Diagnosed with Arthritis. Prescribed Ciprofloxacin.",Arthritis,Ciprofloxacin
+128,"Patient reports fatigue, nausea, chest pain. Diagnosed with Arthritis, Anemia. Prescribed Ibuprofen.","Arthritis, Anemia",Ibuprofen
+129,Patient reports back pain. Diagnosed with Diabetes. Prescribed Atorvastatin.,Diabetes,Atorvastatin
+130,"Patient reports headache, back pain. Diagnosed with Asthma. Prescribed Lisinopril.",Asthma,Lisinopril
+131,"Patient reports fever. Diagnosed with Bronchitis, Migraine. Prescribed Ciprofloxacin.","Bronchitis, Migraine",Ciprofloxacin
+132,Patient reports fever. Diagnosed with Migraine. Prescribed Ibuprofen.,Migraine,Ibuprofen
+133,"Patient reports dizziness, shortness of breath. Diagnosed with Arthritis, Diabetes. Prescribed Amoxicillin, Lisinopril.","Arthritis, Diabetes","Amoxicillin, Lisinopril"
+134,"Patient reports chest pain, sore throat. Diagnosed with Migraine. Prescribed Ventolin, Ibuprofen.",Migraine,"Ventolin, Ibuprofen"
+135,"Patient reports cough, fatigue. Diagnosed with Chronic Pain, Heart Disease. Prescribed Amoxicillin.","Chronic Pain, Heart Disease",Amoxicillin
+136,Patient reports nausea. Diagnosed with Heart Disease. Prescribed Lisinopril.,Heart Disease,Lisinopril
+137,"Patient reports fatigue. Diagnosed with Migraine. Prescribed Metoprolol, Atorvastatin.",Migraine,"Metoprolol, Atorvastatin"
+138,"Patient reports fatigue, sore throat, headache. Diagnosed with Chronic Pain, Hypertension. Prescribed Aspirin, Ventolin.","Chronic Pain, Hypertension","Aspirin, Ventolin"
+139,"Patient reports sore throat. Diagnosed with Migraine, Bronchitis. Prescribed Metformin, Metoprolol.","Migraine, Bronchitis","Metformin, Metoprolol"
+140,"Patient reports dizziness, cough, shortness of breath. Diagnosed with Obesity, Diabetes. Prescribed Paracetamol.","Obesity, Diabetes",Paracetamol
+141,"Patient reports fatigue, headache, back pain. Diagnosed with Asthma, Arthritis. Prescribed Lisinopril, Ciprofloxacin.","Asthma, Arthritis","Lisinopril, Ciprofloxacin"
+142,"Patient reports back pain. Diagnosed with Hypertension, Anemia. Prescribed Metformin.","Hypertension, Anemia",Metformin
+143,"Patient reports fatigue. Diagnosed with Asthma, Chronic Pain. Prescribed Atorvastatin, Ventolin.","Asthma, Chronic Pain","Atorvastatin, Ventolin"
+144,"Patient reports back pain, fever, headache. Diagnosed with Anemia, Asthma. Prescribed Aspirin.","Anemia, Asthma",Aspirin
+145,"Patient reports fever. Diagnosed with Bronchitis. Prescribed Ventolin, Metformin.",Bronchitis,"Ventolin, Metformin"
+146,"Patient reports sore throat. Diagnosed with Heart Disease, Migraine. Prescribed Ciprofloxacin, Ventolin.","Heart Disease, Migraine","Ciprofloxacin, Ventolin"
+147,"Patient reports fever, cough. Diagnosed with Diabetes, Anemia. Prescribed Ventolin, Aspirin.","Diabetes, Anemia","Ventolin, Aspirin"
+148,"Patient reports headache, fatigue. Diagnosed with Heart Disease. Prescribed Metformin, Ibuprofen.",Heart Disease,"Metformin, Ibuprofen"
+149,"Patient reports back pain, cough, fever. Diagnosed with Asthma, Obesity. Prescribed Ventolin, Ibuprofen.","Asthma, Obesity","Ventolin, Ibuprofen"
+150,"Patient reports sore throat, cough. Diagnosed with Hypertension, Obesity. Prescribed Amoxicillin, Atorvastatin.","Hypertension, Obesity","Amoxicillin, Atorvastatin"
+151,"Patient reports fever, chest pain, back pain. Diagnosed with Hypertension. Prescribed Aspirin, Ciprofloxacin.",Hypertension,"Aspirin, Ciprofloxacin"
+152,"Patient reports cough. Diagnosed with Chronic Pain, Asthma. Prescribed Aspirin.","Chronic Pain, Asthma",Aspirin
+153,"Patient reports fever, fatigue, shortness of breath. Diagnosed with Migraine, Hypertension. Prescribed Amoxicillin.","Migraine, Hypertension",Amoxicillin
+154,"Patient reports dizziness, chest pain. Diagnosed with Chronic Pain. Prescribed Atorvastatin.",Chronic Pain,Atorvastatin
+155,"Patient reports chest pain, sore throat. Diagnosed with Obesity. Prescribed Ventolin.",Obesity,Ventolin
+156,"Patient reports dizziness, headache, shortness of breath. Diagnosed with Obesity. Prescribed Ciprofloxacin, Aspirin.",Obesity,"Ciprofloxacin, Aspirin"
+157,"Patient reports dizziness. Diagnosed with Anemia, Asthma. Prescribed Aspirin, Metoprolol.","Anemia, Asthma","Aspirin, Metoprolol"
+158,"Patient reports headache, shortness of breath, nausea. Diagnosed with Migraine. Prescribed Amoxicillin, Metformin.",Migraine,"Amoxicillin, Metformin"
+159,"Patient reports headache, fever, fatigue. Diagnosed with Heart Disease. Prescribed Atorvastatin, Ciprofloxacin.",Heart Disease,"Atorvastatin, Ciprofloxacin"
+160,"Patient reports chest pain. Diagnosed with Obesity, Chronic Pain. Prescribed Metformin, Ciprofloxacin.","Obesity, Chronic Pain","Metformin, Ciprofloxacin"
+161,"Patient reports back pain. Diagnosed with Hypertension. Prescribed Ibuprofen, Aspirin.",Hypertension,"Ibuprofen, Aspirin"
+162,"Patient reports fever, chest pain, sore throat. Diagnosed with Chronic Pain. Prescribed Aspirin.",Chronic Pain,Aspirin
+163,"Patient reports headache, fatigue, sore throat. Diagnosed with Obesity, Chronic Pain. Prescribed Metformin, Atorvastatin.","Obesity, Chronic Pain","Metformin, Atorvastatin"
+164,"Patient reports cough, fever. Diagnosed with Bronchitis, Obesity. Prescribed Ventolin, Amoxicillin.","Bronchitis, Obesity","Ventolin, Amoxicillin"
+165,Patient reports shortness of breath. Diagnosed with Arthritis. Prescribed Ciprofloxacin.,Arthritis,Ciprofloxacin
+166,"Patient reports shortness of breath, dizziness, fever. Diagnosed with Anemia, Chronic Pain. Prescribed Ibuprofen, Metoprolol.","Anemia, Chronic Pain","Ibuprofen, Metoprolol"
+167,"Patient reports headache, nausea. Diagnosed with Asthma. Prescribed Ibuprofen, Paracetamol.",Asthma,"Ibuprofen, Paracetamol"
+168,"Patient reports chest pain, fever, sore throat. Diagnosed with Bronchitis, Migraine. Prescribed Ibuprofen, Metformin.","Bronchitis, Migraine","Ibuprofen, Metformin"
+169,"Patient reports sore throat, back pain. Diagnosed with Hypertension. Prescribed Aspirin, Paracetamol.",Hypertension,"Aspirin, Paracetamol"
+170,"Patient reports fatigue. Diagnosed with Obesity, Anemia. Prescribed Metoprolol.","Obesity, Anemia",Metoprolol
+171,"Patient reports dizziness, chest pain. Diagnosed with Chronic Pain. Prescribed Metoprolol.",Chronic Pain,Metoprolol
+172,"Patient reports dizziness, fatigue, chest pain. Diagnosed with Obesity. Prescribed Ibuprofen.",Obesity,Ibuprofen
+173,"Patient reports shortness of breath, chest pain. Diagnosed with Asthma, Chronic Pain. Prescribed Ibuprofen.","Asthma, Chronic Pain",Ibuprofen
+174,"Patient reports chest pain, cough, sore throat. Diagnosed with Chronic Pain, Asthma. Prescribed Metformin.","Chronic Pain, Asthma",Metformin
+175,"Patient reports chest pain. Diagnosed with Arthritis, Asthma. Prescribed Metoprolol, Aspirin.","Arthritis, Asthma","Metoprolol, Aspirin"
+176,Patient reports dizziness. Diagnosed with Chronic Pain. Prescribed Atorvastatin.,Chronic Pain,Atorvastatin
+177,"Patient reports shortness of breath, back pain, cough. Diagnosed with Chronic Pain, Heart Disease. Prescribed Metformin, Ciprofloxacin.","Chronic Pain, Heart Disease","Metformin, Ciprofloxacin"
+178,Patient reports dizziness. Diagnosed with Bronchitis. Prescribed Lisinopril.,Bronchitis,Lisinopril
+179,"Patient reports cough, headache, fever. Diagnosed with Bronchitis. Prescribed Metformin.",Bronchitis,Metformin
+180,"Patient reports fever, sore throat, shortness of breath. Diagnosed with Obesity, Heart Disease. Prescribed Atorvastatin.","Obesity, Heart Disease",Atorvastatin
+181,"Patient reports sore throat, headache, dizziness. Diagnosed with Hypertension. Prescribed Atorvastatin, Ciprofloxacin.",Hypertension,"Atorvastatin, Ciprofloxacin"
+182,"Patient reports fever, sore throat, fatigue. Diagnosed with Obesity, Chronic Pain. Prescribed Amoxicillin, Atorvastatin.","Obesity, Chronic Pain","Amoxicillin, Atorvastatin"
+183,"Patient reports sore throat, shortness of breath. Diagnosed with Bronchitis, Asthma. Prescribed Paracetamol, Atorvastatin.","Bronchitis, Asthma","Paracetamol, Atorvastatin"
+184,"Patient reports dizziness, cough. Diagnosed with Diabetes, Anemia. Prescribed Amoxicillin.","Diabetes, Anemia",Amoxicillin
+185,Patient reports nausea. Diagnosed with Arthritis. Prescribed Metformin.,Arthritis,Metformin
+186,"Patient reports shortness of breath. Diagnosed with Asthma. Prescribed Paracetamol, Metoprolol.",Asthma,"Paracetamol, Metoprolol"
+187,"Patient reports fever. Diagnosed with Obesity, Bronchitis. Prescribed Metoprolol, Atorvastatin.","Obesity, Bronchitis","Metoprolol, Atorvastatin"
+188,"Patient reports nausea, fatigue. Diagnosed with Anemia. Prescribed Metformin.",Anemia,Metformin
+189,"Patient reports dizziness, fever, sore throat. Diagnosed with Migraine. Prescribed Amoxicillin, Ciprofloxacin.",Migraine,"Amoxicillin, Ciprofloxacin"
+190,"Patient reports nausea, fever. Diagnosed with Diabetes. Prescribed Aspirin.",Diabetes,Aspirin
+191,"Patient reports cough, fatigue, back pain. Diagnosed with Anemia, Hypertension. Prescribed Aspirin.","Anemia, Hypertension",Aspirin
+192,"Patient reports dizziness, shortness of breath. Diagnosed with Asthma, Arthritis. Prescribed Aspirin.","Asthma, Arthritis",Aspirin
+193,"Patient reports nausea. Diagnosed with Asthma, Obesity. Prescribed Metformin.","Asthma, Obesity",Metformin
+194,Patient reports shortness of breath. Diagnosed with Obesity. Prescribed Atorvastatin.,Obesity,Atorvastatin
+195,"Patient reports shortness of breath, headache. Diagnosed with Arthritis, Diabetes. Prescribed Amoxicillin.","Arthritis, Diabetes",Amoxicillin
+196,"Patient reports fatigue, back pain, shortness of breath. Diagnosed with Chronic Pain. Prescribed Ibuprofen.",Chronic Pain,Ibuprofen
+197,"Patient reports fever, chest pain, back pain. Diagnosed with Asthma. Prescribed Amoxicillin.",Asthma,Amoxicillin
+198,"Patient reports headache, chest pain. Diagnosed with Obesity, Asthma. Prescribed Lisinopril, Aspirin.","Obesity, Asthma","Lisinopril, Aspirin"
+199,"Patient reports dizziness, chest pain, fever. Diagnosed with Chronic Pain. Prescribed Metoprolol, Atorvastatin.",Chronic Pain,"Metoprolol, Atorvastatin"
+200,Patient reports cough. Diagnosed with Obesity. Prescribed Amoxicillin.,Obesity,Amoxicillin
+201,"Patient reports fever, sore throat. Diagnosed with Obesity, Hypertension. Prescribed Ciprofloxacin, Lisinopril.","Obesity, Hypertension","Ciprofloxacin, Lisinopril"
+202,"Patient reports chest pain. Diagnosed with Arthritis, Diabetes. Prescribed Atorvastatin, Aspirin.","Arthritis, Diabetes","Atorvastatin, Aspirin"
+203,"Patient reports shortness of breath. Diagnosed with Hypertension, Asthma. Prescribed Atorvastatin.","Hypertension, Asthma",Atorvastatin
+204,"Patient reports chest pain, back pain. Diagnosed with Arthritis. Prescribed Metformin, Ciprofloxacin.",Arthritis,"Metformin, Ciprofloxacin"
+205,"Patient reports back pain. Diagnosed with Diabetes. Prescribed Atorvastatin, Metformin.",Diabetes,"Atorvastatin, Metformin"
+206,"Patient reports back pain, cough. Diagnosed with Diabetes. Prescribed Lisinopril.",Diabetes,Lisinopril
+207,"Patient reports sore throat, dizziness. Diagnosed with Bronchitis, Hypertension. Prescribed Ciprofloxacin, Ibuprofen.","Bronchitis, Hypertension","Ciprofloxacin, Ibuprofen"
+208,"Patient reports dizziness, fever. Diagnosed with Arthritis. Prescribed Paracetamol.",Arthritis,Paracetamol
+209,"Patient reports nausea, shortness of breath, cough. Diagnosed with Asthma, Bronchitis. Prescribed Aspirin, Ibuprofen.","Asthma, Bronchitis","Aspirin, Ibuprofen"
+210,"Patient reports cough, shortness of breath. Diagnosed with Diabetes, Heart Disease. Prescribed Ventolin.","Diabetes, Heart Disease",Ventolin
+211,"Patient reports shortness of breath, back pain, fever. Diagnosed with Heart Disease, Obesity. Prescribed Aspirin, Ciprofloxacin.","Heart Disease, Obesity","Aspirin, Ciprofloxacin"
+212,"Patient reports nausea, dizziness. Diagnosed with Obesity. Prescribed Ibuprofen, Ciprofloxacin.",Obesity,"Ibuprofen, Ciprofloxacin"
+213,"Patient reports fever, dizziness, nausea. Diagnosed with Asthma. Prescribed Aspirin.",Asthma,Aspirin
+214,"Patient reports nausea. Diagnosed with Anemia, Chronic Pain. Prescribed Paracetamol, Metformin.","Anemia, Chronic Pain","Paracetamol, Metformin"
+215,"Patient reports headache, back pain. Diagnosed with Diabetes. Prescribed Aspirin, Amoxicillin.",Diabetes,"Aspirin, Amoxicillin"
+216,"Patient reports shortness of breath, headache. Diagnosed with Heart Disease. Prescribed Metoprolol.",Heart Disease,Metoprolol
+217,"Patient reports back pain. Diagnosed with Hypertension, Arthritis. Prescribed Ventolin.","Hypertension, Arthritis",Ventolin
+218,"Patient reports chest pain, back pain, nausea. Diagnosed with Arthritis, Chronic Pain. Prescribed Metoprolol, Aspirin.","Arthritis, Chronic Pain","Metoprolol, Aspirin"
+219,"Patient reports back pain. Diagnosed with Obesity, Migraine. Prescribed Ventolin.","Obesity, Migraine",Ventolin
+220,"Patient reports back pain. Diagnosed with Migraine, Asthma. Prescribed Aspirin, Metoprolol.","Migraine, Asthma","Aspirin, Metoprolol"
+221,"Patient reports cough. Diagnosed with Anemia, Diabetes. Prescribed Metoprolol, Ventolin.","Anemia, Diabetes","Metoprolol, Ventolin"
+222,"Patient reports sore throat, fatigue. Diagnosed with Diabetes, Hypertension. Prescribed Ibuprofen, Metformin.","Diabetes, Hypertension","Ibuprofen, Metformin"
+223,"Patient reports fatigue. Diagnosed with Heart Disease, Anemia. Prescribed Lisinopril, Metoprolol.","Heart Disease, Anemia","Lisinopril, Metoprolol"
+224,"Patient reports nausea, fever, chest pain. Diagnosed with Anemia, Obesity. Prescribed Atorvastatin.","Anemia, Obesity",Atorvastatin
+225,"Patient reports nausea. Diagnosed with Migraine, Chronic Pain. Prescribed Metformin.","Migraine, Chronic Pain",Metformin
+226,"Patient reports chest pain, cough. Diagnosed with Obesity. Prescribed Ciprofloxacin, Paracetamol.",Obesity,"Ciprofloxacin, Paracetamol"
+227,"Patient reports back pain. Diagnosed with Heart Disease, Arthritis. Prescribed Lisinopril.","Heart Disease, Arthritis",Lisinopril
+228,"Patient reports nausea. Diagnosed with Migraine, Bronchitis. Prescribed Amoxicillin, Metformin.","Migraine, Bronchitis","Amoxicillin, Metformin"
+229,"Patient reports fatigue, nausea. Diagnosed with Heart Disease. Prescribed Paracetamol.",Heart Disease,Paracetamol
+230,"Patient reports dizziness. Diagnosed with Asthma, Arthritis. Prescribed Aspirin.","Asthma, Arthritis",Aspirin
+231,"Patient reports cough, dizziness, chest pain. Diagnosed with Anemia. Prescribed Metformin.",Anemia,Metformin
+232,"Patient reports nausea, sore throat, chest pain. Diagnosed with Heart Disease, Chronic Pain. Prescribed Lisinopril, Atorvastatin.","Heart Disease, Chronic Pain","Lisinopril, Atorvastatin"
+233,"Patient reports fatigue. Diagnosed with Diabetes, Obesity. Prescribed Ibuprofen.","Diabetes, Obesity",Ibuprofen
+234,"Patient reports back pain, cough. Diagnosed with Arthritis, Asthma. Prescribed Metformin, Aspirin.","Arthritis, Asthma","Metformin, Aspirin"
+235,"Patient reports nausea. Diagnosed with Anemia, Arthritis. Prescribed Ventolin, Atorvastatin.","Anemia, Arthritis","Ventolin, Atorvastatin"
+236,"Patient reports cough, fever, sore throat. Diagnosed with Arthritis, Chronic Pain. Prescribed Aspirin, Ibuprofen.","Arthritis, Chronic Pain","Aspirin, Ibuprofen"
+237,"Patient reports headache. Diagnosed with Obesity. Prescribed Atorvastatin, Aspirin.",Obesity,"Atorvastatin, Aspirin"
+238,"Patient reports fever, sore throat, nausea. Diagnosed with Bronchitis. Prescribed Amoxicillin, Ciprofloxacin.",Bronchitis,"Amoxicillin, Ciprofloxacin"
+239,"Patient reports fatigue. Diagnosed with Hypertension, Migraine. Prescribed Lisinopril.","Hypertension, Migraine",Lisinopril
+240,Patient reports fever. Diagnosed with Anemia. Prescribed Metformin.,Anemia,Metformin
+241,"Patient reports fatigue, dizziness. Diagnosed with Migraine. Prescribed Metoprolol.",Migraine,Metoprolol
+242,"Patient reports sore throat, shortness of breath. Diagnosed with Bronchitis, Migraine. Prescribed Ciprofloxacin.","Bronchitis, Migraine",Ciprofloxacin
+243,"Patient reports fever. Diagnosed with Anemia. Prescribed Amoxicillin, Ventolin.",Anemia,"Amoxicillin, Ventolin"
+244,"Patient reports fever. Diagnosed with Arthritis. Prescribed Metformin, Ventolin.",Arthritis,"Metformin, Ventolin"
+245,"Patient reports headache. Diagnosed with Arthritis, Diabetes. Prescribed Ibuprofen.","Arthritis, Diabetes",Ibuprofen
+246,"Patient reports nausea. Diagnosed with Heart Disease. Prescribed Amoxicillin, Aspirin.",Heart Disease,"Amoxicillin, Aspirin"
+247,"Patient reports dizziness. Diagnosed with Arthritis, Migraine. Prescribed Amoxicillin, Paracetamol.","Arthritis, Migraine","Amoxicillin, Paracetamol"
+248,"Patient reports dizziness, fever. Diagnosed with Arthritis. Prescribed Paracetamol, Ibuprofen.",Arthritis,"Paracetamol, Ibuprofen"
+249,"Patient reports chest pain, fever. Diagnosed with Arthritis, Asthma. Prescribed Atorvastatin, Ciprofloxacin.","Arthritis, Asthma","Atorvastatin, Ciprofloxacin"
+250,"Patient reports chest pain. Diagnosed with Diabetes, Arthritis. Prescribed Amoxicillin.","Diabetes, Arthritis",Amoxicillin
+251,"Patient reports fever. Diagnosed with Bronchitis. Prescribed Metoprolol, Metformin.",Bronchitis,"Metoprolol, Metformin"
+252,"Patient reports sore throat, nausea. Diagnosed with Obesity. Prescribed Lisinopril.",Obesity,Lisinopril
+253,"Patient reports chest pain, headache, dizziness. Diagnosed with Arthritis, Hypertension. Prescribed Metformin.","Arthritis, Hypertension",Metformin
+254,"Patient reports shortness of breath, headache, sore throat. Diagnosed with Heart Disease. Prescribed Ibuprofen, Metoprolol.",Heart Disease,"Ibuprofen, Metoprolol"
+255,"Patient reports shortness of breath, nausea, cough. Diagnosed with Heart Disease, Asthma. Prescribed Ventolin.","Heart Disease, Asthma",Ventolin
+256,"Patient reports fever, shortness of breath, chest pain. Diagnosed with Anemia, Bronchitis. Prescribed Ventolin, Atorvastatin.","Anemia, Bronchitis","Ventolin, Atorvastatin"
+257,"Patient reports back pain. Diagnosed with Hypertension. Prescribed Paracetamol, Amoxicillin.",Hypertension,"Paracetamol, Amoxicillin"
+258,"Patient reports fever, dizziness, back pain. Diagnosed with Arthritis, Obesity. Prescribed Metoprolol.","Arthritis, Obesity",Metoprolol
+259,Patient reports back pain. Diagnosed with Diabetes. Prescribed Ventolin.,Diabetes,Ventolin
+260,"Patient reports fever, fatigue. Diagnosed with Bronchitis. Prescribed Paracetamol.",Bronchitis,Paracetamol
+261,"Patient reports cough. Diagnosed with Obesity. Prescribed Ciprofloxacin, Metoprolol.",Obesity,"Ciprofloxacin, Metoprolol"
+262,"Patient reports sore throat, shortness of breath. Diagnosed with Hypertension, Obesity. Prescribed Ventolin, Paracetamol.","Hypertension, Obesity","Ventolin, Paracetamol"
+263,"Patient reports cough, fatigue. Diagnosed with Bronchitis, Asthma. Prescribed Atorvastatin, Aspirin.","Bronchitis, Asthma","Atorvastatin, Aspirin"
+264,"Patient reports dizziness. Diagnosed with Hypertension, Asthma. Prescribed Metoprolol, Paracetamol.","Hypertension, Asthma","Metoprolol, Paracetamol"
+265,"Patient reports sore throat, nausea, back pain. Diagnosed with Chronic Pain, Hypertension. Prescribed Ciprofloxacin.","Chronic Pain, Hypertension",Ciprofloxacin
+266,"Patient reports fatigue, dizziness, chest pain. Diagnosed with Hypertension, Chronic Pain. Prescribed Ciprofloxacin, Metformin.","Hypertension, Chronic Pain","Ciprofloxacin, Metformin"
+267,Patient reports sore throat. Diagnosed with Diabetes. Prescribed Metoprolol.,Diabetes,Metoprolol
+268,Patient reports fever. Diagnosed with Asthma. Prescribed Aspirin.,Asthma,Aspirin
+269,"Patient reports chest pain, back pain. Diagnosed with Heart Disease. Prescribed Metoprolol.",Heart Disease,Metoprolol
+270,"Patient reports chest pain, headache. Diagnosed with Obesity, Heart Disease. Prescribed Metformin.","Obesity, Heart Disease",Metformin
+271,"Patient reports shortness of breath. Diagnosed with Asthma, Arthritis. Prescribed Lisinopril, Ventolin.","Asthma, Arthritis","Lisinopril, Ventolin"
+272,"Patient reports fatigue. Diagnosed with Asthma. Prescribed Paracetamol, Atorvastatin.",Asthma,"Paracetamol, Atorvastatin"
+273,"Patient reports shortness of breath, cough. Diagnosed with Asthma. Prescribed Atorvastatin.",Asthma,Atorvastatin
+274,"Patient reports dizziness, fatigue, chest pain. Diagnosed with Hypertension. Prescribed Aspirin, Ventolin.",Hypertension,"Aspirin, Ventolin"
+275,"Patient reports dizziness, chest pain, nausea. Diagnosed with Chronic Pain, Diabetes. Prescribed Aspirin, Metformin.","Chronic Pain, Diabetes","Aspirin, Metformin"
+276,"Patient reports back pain, dizziness, shortness of breath. Diagnosed with Chronic Pain. Prescribed Ciprofloxacin, Lisinopril.",Chronic Pain,"Ciprofloxacin, Lisinopril"
+277,"Patient reports fatigue, dizziness. Diagnosed with Chronic Pain. Prescribed Ibuprofen.",Chronic Pain,Ibuprofen
+278,"Patient reports nausea. Diagnosed with Bronchitis, Obesity. Prescribed Lisinopril.","Bronchitis, Obesity",Lisinopril
+279,"Patient reports sore throat, nausea. Diagnosed with Bronchitis, Arthritis. Prescribed Ciprofloxacin, Lisinopril.","Bronchitis, Arthritis","Ciprofloxacin, Lisinopril"
+280,Patient reports nausea. Diagnosed with Asthma. Prescribed Lisinopril.,Asthma,Lisinopril
+281,"Patient reports fever, sore throat. Diagnosed with Asthma, Migraine. Prescribed Aspirin, Metformin.","Asthma, Migraine","Aspirin, Metformin"
+282,"Patient reports sore throat. Diagnosed with Heart Disease, Migraine. Prescribed Ibuprofen.","Heart Disease, Migraine",Ibuprofen
+283,"Patient reports fever, chest pain, headache. Diagnosed with Migraine, Chronic Pain. Prescribed Metformin.","Migraine, Chronic Pain",Metformin
+284,"Patient reports fatigue. Diagnosed with Diabetes, Migraine. Prescribed Lisinopril, Paracetamol.","Diabetes, Migraine","Lisinopril, Paracetamol"
+285,"Patient reports shortness of breath. Diagnosed with Heart Disease, Diabetes. Prescribed Metoprolol.","Heart Disease, Diabetes",Metoprolol
+286,"Patient reports dizziness, fatigue, chest pain. Diagnosed with Bronchitis, Migraine. Prescribed Metformin, Amoxicillin.","Bronchitis, Migraine","Metformin, Amoxicillin"
+287,Patient reports headache. Diagnosed with Bronchitis. Prescribed Ibuprofen.,Bronchitis,Ibuprofen
+288,"Patient reports sore throat, chest pain. Diagnosed with Diabetes. Prescribed Paracetamol.",Diabetes,Paracetamol
+289,"Patient reports headache, dizziness. Diagnosed with Bronchitis. Prescribed Lisinopril.",Bronchitis,Lisinopril
+290,"Patient reports fatigue, sore throat, dizziness. Diagnosed with Hypertension. Prescribed Ibuprofen, Metoprolol.",Hypertension,"Ibuprofen, Metoprolol"
+291,"Patient reports fatigue, cough, chest pain. Diagnosed with Arthritis, Migraine. Prescribed Atorvastatin, Ciprofloxacin.","Arthritis, Migraine","Atorvastatin, Ciprofloxacin"
+292,"Patient reports fatigue, dizziness. Diagnosed with Hypertension. Prescribed Lisinopril.",Hypertension,Lisinopril
+293,"Patient reports chest pain. Diagnosed with Bronchitis. Prescribed Lisinopril, Amoxicillin.",Bronchitis,"Lisinopril, Amoxicillin"
+294,"Patient reports fatigue, dizziness. Diagnosed with Anemia. Prescribed Paracetamol.",Anemia,Paracetamol
+295,"Patient reports sore throat, chest pain, back pain. Diagnosed with Obesity. Prescribed Lisinopril.",Obesity,Lisinopril
+296,"Patient reports sore throat, fatigue. Diagnosed with Diabetes, Heart Disease. Prescribed Amoxicillin.","Diabetes, Heart Disease",Amoxicillin
+297,"Patient reports headache. Diagnosed with Chronic Pain, Asthma. Prescribed Ciprofloxacin.","Chronic Pain, Asthma",Ciprofloxacin
+298,"Patient reports headache. Diagnosed with Obesity. Prescribed Ventolin, Ciprofloxacin.",Obesity,"Ventolin, Ciprofloxacin"
+299,Patient reports headache. Diagnosed with Anemia. Prescribed Metoprolol.,Anemia,Metoprolol
+300,"Patient reports dizziness, shortness of breath. Diagnosed with Heart Disease. Prescribed Ventolin.",Heart Disease,Ventolin
+301,"Patient reports nausea, chest pain, sore throat. Diagnosed with Asthma, Arthritis. Prescribed Paracetamol.","Asthma, Arthritis",Paracetamol
+302,"Patient reports back pain, cough. Diagnosed with Heart Disease. Prescribed Paracetamol.",Heart Disease,Paracetamol
+303,"Patient reports shortness of breath. Diagnosed with Bronchitis. Prescribed Ventolin, Metformin.",Bronchitis,"Ventolin, Metformin"
+304,"Patient reports sore throat, fatigue, fever. Diagnosed with Diabetes. Prescribed Paracetamol, Metoprolol.",Diabetes,"Paracetamol, Metoprolol"
+305,"Patient reports sore throat, nausea. Diagnosed with Heart Disease, Arthritis. Prescribed Aspirin, Atorvastatin.","Heart Disease, Arthritis","Aspirin, Atorvastatin"
+306,"Patient reports back pain, sore throat, headache. Diagnosed with Anemia. Prescribed Metformin.",Anemia,Metformin
+307,"Patient reports fever, sore throat. Diagnosed with Bronchitis, Migraine. Prescribed Ciprofloxacin.","Bronchitis, Migraine",Ciprofloxacin
+308,"Patient reports headache, shortness of breath, fever. Diagnosed with Migraine, Arthritis. Prescribed Amoxicillin.","Migraine, Arthritis",Amoxicillin
+309,"Patient reports headache, fatigue, back pain. Diagnosed with Migraine, Hypertension. Prescribed Amoxicillin.","Migraine, Hypertension",Amoxicillin
+310,"Patient reports fatigue, shortness of breath. Diagnosed with Arthritis. Prescribed Aspirin, Metoprolol.",Arthritis,"Aspirin, Metoprolol"
+311,"Patient reports back pain, headache, sore throat. Diagnosed with Bronchitis. Prescribed Metformin.",Bronchitis,Metformin
+312,"Patient reports sore throat, fatigue, nausea. Diagnosed with Diabetes. Prescribed Ciprofloxacin.",Diabetes,Ciprofloxacin
+313,"Patient reports dizziness. Diagnosed with Bronchitis, Hypertension. Prescribed Paracetamol.","Bronchitis, Hypertension",Paracetamol
+314,"Patient reports dizziness, fever, cough. Diagnosed with Hypertension, Chronic Pain. Prescribed Ventolin.","Hypertension, Chronic Pain",Ventolin
+315,Patient reports shortness of breath. Diagnosed with Asthma. Prescribed Ibuprofen.,Asthma,Ibuprofen
+316,"Patient reports sore throat, fatigue, cough. Diagnosed with Bronchitis. Prescribed Paracetamol, Amoxicillin.",Bronchitis,"Paracetamol, Amoxicillin"
+317,"Patient reports back pain, dizziness, sore throat. Diagnosed with Migraine, Obesity. Prescribed Metoprolol, Atorvastatin.","Migraine, Obesity","Metoprolol, Atorvastatin"
+318,"Patient reports chest pain. Diagnosed with Chronic Pain, Heart Disease. Prescribed Paracetamol.","Chronic Pain, Heart Disease",Paracetamol
+319,"Patient reports sore throat, headache. Diagnosed with Heart Disease. Prescribed Lisinopril.",Heart Disease,Lisinopril
+320,"Patient reports dizziness, shortness of breath. Diagnosed with Bronchitis, Heart Disease. Prescribed Amoxicillin, Ciprofloxacin.","Bronchitis, Heart Disease","Amoxicillin, Ciprofloxacin"
+321,"Patient reports fever. Diagnosed with Arthritis, Heart Disease. Prescribed Lisinopril.","Arthritis, Heart Disease",Lisinopril
+322,"Patient reports nausea. Diagnosed with Asthma, Obesity. Prescribed Lisinopril.","Asthma, Obesity",Lisinopril
+323,"Patient reports sore throat. Diagnosed with Arthritis, Hypertension. Prescribed Metoprolol.","Arthritis, Hypertension",Metoprolol
+324,"Patient reports fatigue. Diagnosed with Hypertension, Heart Disease. Prescribed Amoxicillin, Atorvastatin.","Hypertension, Heart Disease","Amoxicillin, Atorvastatin"
+325,"Patient reports sore throat, shortness of breath. Diagnosed with Migraine. Prescribed Amoxicillin.",Migraine,Amoxicillin
+326,"Patient reports headache, cough, dizziness. Diagnosed with Heart Disease, Asthma. Prescribed Paracetamol, Ciprofloxacin.","Heart Disease, Asthma","Paracetamol, Ciprofloxacin"
+327,"Patient reports dizziness, fever, cough. Diagnosed with Obesity, Anemia. Prescribed Amoxicillin.","Obesity, Anemia",Amoxicillin
+328,"Patient reports nausea, cough, fatigue. Diagnosed with Arthritis. Prescribed Ventolin.",Arthritis,Ventolin
+329,"Patient reports fever. Diagnosed with Heart Disease, Arthritis. Prescribed Ibuprofen.","Heart Disease, Arthritis",Ibuprofen
+330,"Patient reports shortness of breath, chest pain, nausea. Diagnosed with Heart Disease, Migraine. Prescribed Lisinopril.","Heart Disease, Migraine",Lisinopril
+331,"Patient reports sore throat. Diagnosed with Heart Disease, Bronchitis. Prescribed Ciprofloxacin.","Heart Disease, Bronchitis",Ciprofloxacin
+332,"Patient reports chest pain, nausea, shortness of breath. Diagnosed with Chronic Pain. Prescribed Ciprofloxacin, Paracetamol.",Chronic Pain,"Ciprofloxacin, Paracetamol"
+333,"Patient reports nausea, headache. Diagnosed with Arthritis. Prescribed Lisinopril, Aspirin.",Arthritis,"Lisinopril, Aspirin"
+334,"Patient reports fatigue, sore throat, cough. Diagnosed with Obesity. Prescribed Metformin.",Obesity,Metformin
+335,"Patient reports shortness of breath, nausea, fatigue. Diagnosed with Diabetes. Prescribed Ibuprofen, Metoprolol.",Diabetes,"Ibuprofen, Metoprolol"
+336,"Patient reports cough, chest pain. Diagnosed with Heart Disease. Prescribed Metoprolol, Aspirin.",Heart Disease,"Metoprolol, Aspirin"
+337,"Patient reports fatigue, nausea. Diagnosed with Obesity, Anemia. Prescribed Metformin, Ibuprofen.","Obesity, Anemia","Metformin, Ibuprofen"
+338,"Patient reports cough, sore throat. Diagnosed with Chronic Pain. Prescribed Lisinopril.",Chronic Pain,Lisinopril
+339,"Patient reports dizziness, sore throat. Diagnosed with Bronchitis. Prescribed Metformin.",Bronchitis,Metformin
+340,"Patient reports sore throat, headache, chest pain. Diagnosed with Arthritis. Prescribed Ibuprofen, Atorvastatin.",Arthritis,"Ibuprofen, Atorvastatin"
+341,"Patient reports back pain, nausea. Diagnosed with Bronchitis. Prescribed Metoprolol.",Bronchitis,Metoprolol
+342,"Patient reports fever. Diagnosed with Bronchitis, Hypertension. Prescribed Ibuprofen, Amoxicillin.","Bronchitis, Hypertension","Ibuprofen, Amoxicillin"
+343,"Patient reports sore throat, cough. Diagnosed with Obesity. Prescribed Amoxicillin.",Obesity,Amoxicillin
+344,Patient reports sore throat. Diagnosed with Chronic Pain. Prescribed Lisinopril.,Chronic Pain,Lisinopril
+345,"Patient reports cough. Diagnosed with Chronic Pain, Migraine. Prescribed Atorvastatin.","Chronic Pain, Migraine",Atorvastatin
+346,"Patient reports headache, sore throat. Diagnosed with Bronchitis, Diabetes. Prescribed Metoprolol.","Bronchitis, Diabetes",Metoprolol
+347,"Patient reports shortness of breath, fever, nausea. Diagnosed with Heart Disease, Obesity. Prescribed Metoprolol, Atorvastatin.","Heart Disease, Obesity","Metoprolol, Atorvastatin"
+348,Patient reports sore throat. Diagnosed with Hypertension. Prescribed Ciprofloxacin.,Hypertension,Ciprofloxacin
+349,"Patient reports chest pain, back pain, cough. Diagnosed with Arthritis, Heart Disease. Prescribed Amoxicillin, Atorvastatin.","Arthritis, Heart Disease","Amoxicillin, Atorvastatin"
+350,Patient reports sore throat. Diagnosed with Diabetes. Prescribed Aspirin.,Diabetes,Aspirin
+351,"Patient reports chest pain, headache. Diagnosed with Asthma. Prescribed Paracetamol, Ibuprofen.",Asthma,"Paracetamol, Ibuprofen"
+352,"Patient reports back pain, nausea, chest pain. Diagnosed with Hypertension. Prescribed Ciprofloxacin.",Hypertension,Ciprofloxacin
+353,"Patient reports chest pain, fever, nausea. Diagnosed with Obesity. Prescribed Ventolin, Lisinopril.",Obesity,"Ventolin, Lisinopril"
+354,"Patient reports shortness of breath, headache, fatigue. Diagnosed with Anemia, Hypertension. Prescribed Metformin, Paracetamol.","Anemia, Hypertension","Metformin, Paracetamol"
+355,"Patient reports nausea. Diagnosed with Chronic Pain, Asthma. Prescribed Ibuprofen.","Chronic Pain, Asthma",Ibuprofen
+356,"Patient reports sore throat, headache. Diagnosed with Arthritis. Prescribed Metoprolol, Ciprofloxacin.",Arthritis,"Metoprolol, Ciprofloxacin"
+357,"Patient reports headache. Diagnosed with Heart Disease, Diabetes. Prescribed Ibuprofen.","Heart Disease, Diabetes",Ibuprofen
+358,"Patient reports back pain. Diagnosed with Hypertension, Arthritis. Prescribed Aspirin, Atorvastatin.","Hypertension, Arthritis","Aspirin, Atorvastatin"
+359,"Patient reports headache. Diagnosed with Chronic Pain, Heart Disease. Prescribed Paracetamol.","Chronic Pain, Heart Disease",Paracetamol
+360,Patient reports dizziness. Diagnosed with Arthritis. Prescribed Aspirin.,Arthritis,Aspirin
+361,"Patient reports cough, back pain. Diagnosed with Obesity. Prescribed Atorvastatin, Amoxicillin.",Obesity,"Atorvastatin, Amoxicillin"
+362,"Patient reports shortness of breath, nausea. Diagnosed with Obesity, Diabetes. Prescribed Atorvastatin.","Obesity, Diabetes",Atorvastatin
+363,"Patient reports fatigue. Diagnosed with Arthritis. Prescribed Ciprofloxacin, Metformin.",Arthritis,"Ciprofloxacin, Metformin"
+364,"Patient reports chest pain, shortness of breath, fatigue. Diagnosed with Diabetes. Prescribed Metoprolol, Amoxicillin.",Diabetes,"Metoprolol, Amoxicillin"
+365,"Patient reports chest pain, back pain. Diagnosed with Heart Disease. Prescribed Amoxicillin.",Heart Disease,Amoxicillin
+366,"Patient reports headache. Diagnosed with Diabetes, Hypertension. Prescribed Ibuprofen, Atorvastatin.","Diabetes, Hypertension","Ibuprofen, Atorvastatin"
+367,"Patient reports back pain, nausea. Diagnosed with Chronic Pain, Arthritis. Prescribed Metformin, Ciprofloxacin.","Chronic Pain, Arthritis","Metformin, Ciprofloxacin"
+368,"Patient reports sore throat. Diagnosed with Migraine, Chronic Pain. Prescribed Atorvastatin.","Migraine, Chronic Pain",Atorvastatin
+369,"Patient reports cough. Diagnosed with Anemia. Prescribed Metoprolol, Ibuprofen.",Anemia,"Metoprolol, Ibuprofen"
+370,"Patient reports chest pain, headache. Diagnosed with Asthma, Arthritis. Prescribed Paracetamol, Amoxicillin.","Asthma, Arthritis","Paracetamol, Amoxicillin"
+371,"Patient reports chest pain, fever. Diagnosed with Obesity. Prescribed Paracetamol, Aspirin.",Obesity,"Paracetamol, Aspirin"
+372,"Patient reports cough, shortness of breath. Diagnosed with Obesity, Heart Disease. Prescribed Lisinopril, Ibuprofen.","Obesity, Heart Disease","Lisinopril, Ibuprofen"
+373,"Patient reports shortness of breath, sore throat. Diagnosed with Migraine. Prescribed Metoprolol, Ciprofloxacin.",Migraine,"Metoprolol, Ciprofloxacin"
+374,"Patient reports cough, fatigue. Diagnosed with Migraine, Obesity. Prescribed Ibuprofen, Atorvastatin.","Migraine, Obesity","Ibuprofen, Atorvastatin"
+375,"Patient reports nausea. Diagnosed with Anemia. Prescribed Metformin, Paracetamol.",Anemia,"Metformin, Paracetamol"
+376,"Patient reports cough, back pain. Diagnosed with Diabetes. Prescribed Aspirin, Ibuprofen.",Diabetes,"Aspirin, Ibuprofen"
+377,"Patient reports sore throat, headache, cough. Diagnosed with Asthma, Chronic Pain. Prescribed Ibuprofen, Aspirin.","Asthma, Chronic Pain","Ibuprofen, Aspirin"
+378,"Patient reports back pain, chest pain. Diagnosed with Obesity. Prescribed Lisinopril.",Obesity,Lisinopril
+379,"Patient reports sore throat, headache, back pain. Diagnosed with Heart Disease, Asthma. Prescribed Metformin, Paracetamol.","Heart Disease, Asthma","Metformin, Paracetamol"
+380,"Patient reports dizziness. Diagnosed with Anemia, Migraine. Prescribed Ciprofloxacin.","Anemia, Migraine",Ciprofloxacin
+381,"Patient reports shortness of breath, fever. Diagnosed with Bronchitis, Chronic Pain. Prescribed Ibuprofen.","Bronchitis, Chronic Pain",Ibuprofen
+382,"Patient reports headache. Diagnosed with Obesity, Bronchitis. Prescribed Metformin, Atorvastatin.","Obesity, Bronchitis","Metformin, Atorvastatin"
+383,"Patient reports cough, dizziness, shortness of breath. Diagnosed with Bronchitis. Prescribed Paracetamol, Aspirin.",Bronchitis,"Paracetamol, Aspirin"
+384,"Patient reports fever, sore throat. Diagnosed with Diabetes. Prescribed Lisinopril, Metoprolol.",Diabetes,"Lisinopril, Metoprolol"
+385,"Patient reports cough, fatigue. Diagnosed with Asthma, Bronchitis. Prescribed Lisinopril, Ibuprofen.","Asthma, Bronchitis","Lisinopril, Ibuprofen"
+386,"Patient reports back pain, fatigue. Diagnosed with Chronic Pain, Asthma. Prescribed Metoprolol.","Chronic Pain, Asthma",Metoprolol
+387,"Patient reports back pain, sore throat, cough. Diagnosed with Hypertension, Diabetes. Prescribed Ventolin.","Hypertension, Diabetes",Ventolin
+388,"Patient reports fever. Diagnosed with Obesity, Anemia. Prescribed Metoprolol.","Obesity, Anemia",Metoprolol
+389,"Patient reports sore throat, fever. Diagnosed with Diabetes, Heart Disease. Prescribed Aspirin.","Diabetes, Heart Disease",Aspirin
+390,"Patient reports back pain. Diagnosed with Bronchitis, Obesity. Prescribed Amoxicillin, Paracetamol.","Bronchitis, Obesity","Amoxicillin, Paracetamol"
+391,"Patient reports shortness of breath, sore throat, fever. Diagnosed with Obesity, Bronchitis. Prescribed Lisinopril, Amoxicillin.","Obesity, Bronchitis","Lisinopril, Amoxicillin"
+392,"Patient reports cough, fever, back pain. Diagnosed with Chronic Pain, Hypertension. Prescribed Ibuprofen, Metoprolol.","Chronic Pain, Hypertension","Ibuprofen, Metoprolol"
+393,Patient reports fever. Diagnosed with Obesity. Prescribed Atorvastatin.,Obesity,Atorvastatin
+394,"Patient reports shortness of breath, fever. Diagnosed with Anemia, Chronic Pain. Prescribed Metoprolol, Lisinopril.","Anemia, Chronic Pain","Metoprolol, Lisinopril"
+395,"Patient reports chest pain, cough, dizziness. Diagnosed with Chronic Pain, Diabetes. Prescribed Ibuprofen, Amoxicillin.","Chronic Pain, Diabetes","Ibuprofen, Amoxicillin"
+396,"Patient reports sore throat, fever. Diagnosed with Migraine, Heart Disease. Prescribed Aspirin.","Migraine, Heart Disease",Aspirin
+397,"Patient reports dizziness, back pain, shortness of breath. Diagnosed with Chronic Pain. Prescribed Lisinopril.",Chronic Pain,Lisinopril
+398,"Patient reports back pain, dizziness, fatigue. Diagnosed with Hypertension, Migraine. Prescribed Aspirin.","Hypertension, Migraine",Aspirin
+399,"Patient reports sore throat, fatigue. Diagnosed with Diabetes, Chronic Pain. Prescribed Atorvastatin.","Diabetes, Chronic Pain",Atorvastatin
+400,"Patient reports fever, fatigue. Diagnosed with Diabetes, Chronic Pain. Prescribed Ciprofloxacin, Atorvastatin.","Diabetes, Chronic Pain","Ciprofloxacin, Atorvastatin"
+401,"Patient reports fever, fatigue. Diagnosed with Heart Disease, Asthma. Prescribed Paracetamol, Metoprolol.","Heart Disease, Asthma","Paracetamol, Metoprolol"
+402,"Patient reports cough, headache, dizziness. Diagnosed with Obesity. Prescribed Amoxicillin, Ibuprofen.",Obesity,"Amoxicillin, Ibuprofen"
+403,"Patient reports fever. Diagnosed with Migraine. Prescribed Lisinopril, Ciprofloxacin.",Migraine,"Lisinopril, Ciprofloxacin"
+404,"Patient reports fatigue, fever. Diagnosed with Anemia, Heart Disease. Prescribed Aspirin.","Anemia, Heart Disease",Aspirin
+405,"Patient reports fever, shortness of breath, headache. Diagnosed with Obesity, Anemia. Prescribed Metoprolol, Ventolin.","Obesity, Anemia","Metoprolol, Ventolin"
+406,Patient reports nausea. Diagnosed with Heart Disease. Prescribed Metformin.,Heart Disease,Metformin
+407,"Patient reports cough, headache. Diagnosed with Obesity. Prescribed Ibuprofen.",Obesity,Ibuprofen
+408,"Patient reports cough. Diagnosed with Migraine. Prescribed Ventolin, Aspirin.",Migraine,"Ventolin, Aspirin"
+409,"Patient reports chest pain, fever. Diagnosed with Hypertension, Migraine. Prescribed Ibuprofen.","Hypertension, Migraine",Ibuprofen
+410,"Patient reports fever, nausea, cough. Diagnosed with Chronic Pain. Prescribed Ibuprofen, Metformin.",Chronic Pain,"Ibuprofen, Metformin"
+411,"Patient reports chest pain, shortness of breath. Diagnosed with Migraine. Prescribed Aspirin, Paracetamol.",Migraine,"Aspirin, Paracetamol"
+412,"Patient reports cough, fever. Diagnosed with Obesity. Prescribed Paracetamol.",Obesity,Paracetamol
+413,"Patient reports sore throat, back pain. Diagnosed with Bronchitis. Prescribed Atorvastatin.",Bronchitis,Atorvastatin
+414,"Patient reports fatigue, sore throat. Diagnosed with Chronic Pain. Prescribed Ibuprofen.",Chronic Pain,Ibuprofen
+415,"Patient reports fever. Diagnosed with Bronchitis. Prescribed Paracetamol, Ibuprofen.",Bronchitis,"Paracetamol, Ibuprofen"
+416,"Patient reports fatigue. Diagnosed with Bronchitis. Prescribed Ventolin, Atorvastatin.",Bronchitis,"Ventolin, Atorvastatin"
+417,"Patient reports nausea, chest pain. Diagnosed with Chronic Pain, Anemia. Prescribed Metformin.","Chronic Pain, Anemia",Metformin
+418,"Patient reports nausea. Diagnosed with Heart Disease, Bronchitis. Prescribed Ciprofloxacin.","Heart Disease, Bronchitis",Ciprofloxacin
+419,"Patient reports sore throat. Diagnosed with Diabetes, Anemia. Prescribed Amoxicillin, Lisinopril.","Diabetes, Anemia","Amoxicillin, Lisinopril"
+420,"Patient reports dizziness, fatigue, chest pain. Diagnosed with Hypertension. Prescribed Metformin.",Hypertension,Metformin
+421,"Patient reports nausea, cough. Diagnosed with Chronic Pain. Prescribed Ciprofloxacin, Atorvastatin.",Chronic Pain,"Ciprofloxacin, Atorvastatin"
+422,"Patient reports cough, fatigue, sore throat. Diagnosed with Chronic Pain, Hypertension. Prescribed Aspirin, Metoprolol.","Chronic Pain, Hypertension","Aspirin, Metoprolol"
+423,"Patient reports chest pain, fatigue. Diagnosed with Hypertension. Prescribed Ibuprofen, Aspirin.",Hypertension,"Ibuprofen, Aspirin"
+424,"Patient reports nausea. Diagnosed with Hypertension. Prescribed Ventolin, Amoxicillin.",Hypertension,"Ventolin, Amoxicillin"
+425,"Patient reports nausea, chest pain, fever. Diagnosed with Diabetes, Anemia. Prescribed Metoprolol.","Diabetes, Anemia",Metoprolol
+426,Patient reports fatigue. Diagnosed with Migraine. Prescribed Ciprofloxacin.,Migraine,Ciprofloxacin
+427,"Patient reports dizziness. Diagnosed with Obesity, Chronic Pain. Prescribed Lisinopril.","Obesity, Chronic Pain",Lisinopril
+428,"Patient reports shortness of breath, headache. Diagnosed with Diabetes. Prescribed Ibuprofen.",Diabetes,Ibuprofen
+429,"Patient reports dizziness, chest pain, cough. Diagnosed with Migraine, Hypertension. Prescribed Ibuprofen, Atorvastatin.","Migraine, Hypertension","Ibuprofen, Atorvastatin"
+430,"Patient reports chest pain, nausea. Diagnosed with Arthritis, Diabetes. Prescribed Atorvastatin, Metoprolol.","Arthritis, Diabetes","Atorvastatin, Metoprolol"
+431,"Patient reports fever, fatigue, chest pain. Diagnosed with Arthritis. Prescribed Ibuprofen, Paracetamol.",Arthritis,"Ibuprofen, Paracetamol"
+432,"Patient reports fatigue, cough. Diagnosed with Heart Disease. Prescribed Metformin, Amoxicillin.",Heart Disease,"Metformin, Amoxicillin"
+433,"Patient reports headache, shortness of breath, fever. Diagnosed with Hypertension. Prescribed Ibuprofen.",Hypertension,Ibuprofen
+434,"Patient reports shortness of breath. Diagnosed with Diabetes. Prescribed Paracetamol, Lisinopril.",Diabetes,"Paracetamol, Lisinopril"
+435,"Patient reports fever. Diagnosed with Diabetes, Anemia. Prescribed Ibuprofen.","Diabetes, Anemia",Ibuprofen
+436,"Patient reports back pain, nausea, chest pain. Diagnosed with Asthma, Anemia. Prescribed Atorvastatin, Paracetamol.","Asthma, Anemia","Atorvastatin, Paracetamol"
+437,"Patient reports shortness of breath, sore throat. Diagnosed with Hypertension. Prescribed Ibuprofen.",Hypertension,Ibuprofen
+438,Patient reports cough. Diagnosed with Bronchitis. Prescribed Metoprolol.,Bronchitis,Metoprolol
+439,Patient reports dizziness. Diagnosed with Hypertension. Prescribed Aspirin.,Hypertension,Aspirin
+440,"Patient reports chest pain. Diagnosed with Bronchitis. Prescribed Aspirin, Paracetamol.",Bronchitis,"Aspirin, Paracetamol"
+441,"Patient reports sore throat, chest pain, nausea. Diagnosed with Heart Disease. Prescribed Amoxicillin.",Heart Disease,Amoxicillin
+442,"Patient reports cough, shortness of breath, headache. Diagnosed with Hypertension, Diabetes. Prescribed Lisinopril.","Hypertension, Diabetes",Lisinopril
+443,"Patient reports fever, back pain. Diagnosed with Bronchitis. Prescribed Ibuprofen, Aspirin.",Bronchitis,"Ibuprofen, Aspirin"
+444,"Patient reports shortness of breath, sore throat. Diagnosed with Arthritis, Anemia. Prescribed Amoxicillin, Metoprolol.","Arthritis, Anemia","Amoxicillin, Metoprolol"
+445,"Patient reports fatigue, sore throat. Diagnosed with Chronic Pain, Arthritis. Prescribed Lisinopril, Amoxicillin.","Chronic Pain, Arthritis","Lisinopril, Amoxicillin"
+446,"Patient reports headache, fever, fatigue. Diagnosed with Chronic Pain. Prescribed Ibuprofen, Ventolin.",Chronic Pain,"Ibuprofen, Ventolin"
+447,"Patient reports chest pain. Diagnosed with Diabetes. Prescribed Ciprofloxacin, Paracetamol.",Diabetes,"Ciprofloxacin, Paracetamol"
+448,"Patient reports back pain, fatigue, headache. Diagnosed with Asthma. Prescribed Ciprofloxacin.",Asthma,Ciprofloxacin
+449,"Patient reports chest pain, back pain, fever. Diagnosed with Asthma, Diabetes. Prescribed Ciprofloxacin.","Asthma, Diabetes",Ciprofloxacin
+450,"Patient reports dizziness, chest pain. Diagnosed with Arthritis. Prescribed Amoxicillin.",Arthritis,Amoxicillin
+451,"Patient reports back pain, cough. Diagnosed with Bronchitis, Anemia. Prescribed Lisinopril, Metformin.","Bronchitis, Anemia","Lisinopril, Metformin"
+452,"Patient reports sore throat, shortness of breath. Diagnosed with Chronic Pain. Prescribed Paracetamol, Metformin.",Chronic Pain,"Paracetamol, Metformin"
+453,"Patient reports chest pain. Diagnosed with Diabetes, Migraine. Prescribed Lisinopril, Metformin.","Diabetes, Migraine","Lisinopril, Metformin"
+454,"Patient reports chest pain, back pain, nausea. Diagnosed with Bronchitis, Obesity. Prescribed Atorvastatin, Ciprofloxacin.","Bronchitis, Obesity","Atorvastatin, Ciprofloxacin"
+455,"Patient reports fatigue, dizziness. Diagnosed with Asthma, Obesity. Prescribed Ibuprofen, Metoprolol.","Asthma, Obesity","Ibuprofen, Metoprolol"
+456,"Patient reports shortness of breath. Diagnosed with Anemia, Hypertension. Prescribed Metformin, Ventolin.","Anemia, Hypertension","Metformin, Ventolin"
+457,"Patient reports chest pain, nausea. Diagnosed with Diabetes, Anemia. Prescribed Ciprofloxacin.","Diabetes, Anemia",Ciprofloxacin
+458,"Patient reports fever, chest pain, sore throat. Diagnosed with Obesity. Prescribed Metoprolol.",Obesity,Metoprolol
+459,"Patient reports headache, fever. Diagnosed with Asthma, Migraine. Prescribed Ibuprofen.","Asthma, Migraine",Ibuprofen
+460,"Patient reports cough, shortness of breath. Diagnosed with Hypertension, Migraine. Prescribed Ibuprofen, Metformin.","Hypertension, Migraine","Ibuprofen, Metformin"
+461,"Patient reports sore throat, dizziness. Diagnosed with Heart Disease. Prescribed Metformin.",Heart Disease,Metformin
+462,"Patient reports sore throat, nausea, back pain. Diagnosed with Diabetes. Prescribed Ciprofloxacin, Lisinopril.",Diabetes,"Ciprofloxacin, Lisinopril"
+463,"Patient reports sore throat, fatigue. Diagnosed with Obesity, Migraine. Prescribed Metformin, Ventolin.","Obesity, Migraine","Metformin, Ventolin"
+464,"Patient reports nausea, cough, chest pain. Diagnosed with Asthma, Heart Disease. Prescribed Ciprofloxacin, Ventolin.","Asthma, Heart Disease","Ciprofloxacin, Ventolin"
+465,"Patient reports cough, dizziness. Diagnosed with Chronic Pain, Anemia. Prescribed Metoprolol, Amoxicillin.","Chronic Pain, Anemia","Metoprolol, Amoxicillin"
+466,"Patient reports dizziness, headache. Diagnosed with Diabetes, Migraine. Prescribed Lisinopril.","Diabetes, Migraine",Lisinopril
+467,Patient reports headache. Diagnosed with Migraine. Prescribed Atorvastatin.,Migraine,Atorvastatin
+468,"Patient reports nausea, dizziness, fatigue. Diagnosed with Migraine. Prescribed Ciprofloxacin, Ventolin.",Migraine,"Ciprofloxacin, Ventolin"
+469,"Patient reports back pain. Diagnosed with Heart Disease. Prescribed Ventolin, Lisinopril.",Heart Disease,"Ventolin, Lisinopril"
+470,"Patient reports sore throat, fever. Diagnosed with Diabetes, Chronic Pain. Prescribed Ciprofloxacin, Metformin.","Diabetes, Chronic Pain","Ciprofloxacin, Metformin"
+471,"Patient reports chest pain, fever, cough. Diagnosed with Bronchitis, Arthritis. Prescribed Aspirin, Metoprolol.","Bronchitis, Arthritis","Aspirin, Metoprolol"
+472,"Patient reports sore throat, fatigue. Diagnosed with Bronchitis, Asthma. Prescribed Atorvastatin.","Bronchitis, Asthma",Atorvastatin
+473,Patient reports cough. Diagnosed with Migraine. Prescribed Lisinopril.,Migraine,Lisinopril
+474,"Patient reports back pain. Diagnosed with Heart Disease, Bronchitis. Prescribed Metoprolol, Lisinopril.","Heart Disease, Bronchitis","Metoprolol, Lisinopril"
+475,"Patient reports back pain, fatigue, chest pain. Diagnosed with Asthma, Migraine. Prescribed Lisinopril.","Asthma, Migraine",Lisinopril
+476,"Patient reports dizziness, fatigue. Diagnosed with Heart Disease, Diabetes. Prescribed Atorvastatin, Metformin.","Heart Disease, Diabetes","Atorvastatin, Metformin"
+477,"Patient reports chest pain, headache, shortness of breath. Diagnosed with Chronic Pain, Arthritis. Prescribed Lisinopril.","Chronic Pain, Arthritis",Lisinopril
+478,"Patient reports shortness of breath. Diagnosed with Hypertension. Prescribed Metoprolol, Lisinopril.",Hypertension,"Metoprolol, Lisinopril"
+479,"Patient reports shortness of breath. Diagnosed with Heart Disease, Bronchitis. Prescribed Lisinopril, Metformin.","Heart Disease, Bronchitis","Lisinopril, Metformin"
+480,"Patient reports sore throat, shortness of breath, chest pain. Diagnosed with Arthritis, Obesity. Prescribed Paracetamol, Ventolin.","Arthritis, Obesity","Paracetamol, Ventolin"
+481,"Patient reports fever, cough, fatigue. Diagnosed with Heart Disease, Migraine. Prescribed Ciprofloxacin, Ibuprofen.","Heart Disease, Migraine","Ciprofloxacin, Ibuprofen"
+482,"Patient reports fever, dizziness, cough. Diagnosed with Bronchitis. Prescribed Metformin.",Bronchitis,Metformin
+483,"Patient reports back pain, nausea. Diagnosed with Arthritis, Migraine. Prescribed Lisinopril, Atorvastatin.","Arthritis, Migraine","Lisinopril, Atorvastatin"
+484,"Patient reports fatigue. Diagnosed with Bronchitis, Anemia. Prescribed Atorvastatin.","Bronchitis, Anemia",Atorvastatin
+485,"Patient reports shortness of breath, chest pain. Diagnosed with Arthritis. Prescribed Ibuprofen, Metoprolol.",Arthritis,"Ibuprofen, Metoprolol"
+486,"Patient reports shortness of breath, cough. Diagnosed with Bronchitis, Obesity. Prescribed Aspirin, Amoxicillin.","Bronchitis, Obesity","Aspirin, Amoxicillin"
+487,"Patient reports cough, dizziness. Diagnosed with Bronchitis. Prescribed Lisinopril, Aspirin.",Bronchitis,"Lisinopril, Aspirin"
+488,"Patient reports sore throat, headache, chest pain. Diagnosed with Migraine, Obesity. Prescribed Atorvastatin, Ciprofloxacin.","Migraine, Obesity","Atorvastatin, Ciprofloxacin"
+489,"Patient reports chest pain. Diagnosed with Hypertension, Heart Disease. Prescribed Lisinopril, Aspirin.","Hypertension, Heart Disease","Lisinopril, Aspirin"
+490,"Patient reports fever, chest pain. Diagnosed with Obesity. Prescribed Ventolin, Lisinopril.",Obesity,"Ventolin, Lisinopril"
+491,Patient reports fever. Diagnosed with Hypertension. Prescribed Metoprolol.,Hypertension,Metoprolol
+492,Patient reports headache. Diagnosed with Obesity. Prescribed Ibuprofen.,Obesity,Ibuprofen
+493,"Patient reports fever, dizziness. Diagnosed with Obesity, Migraine. Prescribed Amoxicillin.","Obesity, Migraine",Amoxicillin
+494,"Patient reports fever, back pain. Diagnosed with Migraine, Anemia. Prescribed Ventolin, Ibuprofen.","Migraine, Anemia","Ventolin, Ibuprofen"
+495,"Patient reports nausea, sore throat, dizziness. Diagnosed with Heart Disease. Prescribed Aspirin, Atorvastatin.",Heart Disease,"Aspirin, Atorvastatin"
+496,"Patient reports fever, shortness of breath. Diagnosed with Heart Disease, Hypertension. Prescribed Ventolin.","Heart Disease, Hypertension",Ventolin
+497,"Patient reports cough. Diagnosed with Heart Disease, Obesity. Prescribed Metoprolol.","Heart Disease, Obesity",Metoprolol
+498,"Patient reports headache, fever, dizziness. Diagnosed with Heart Disease, Bronchitis. Prescribed Ciprofloxacin.","Heart Disease, Bronchitis",Ciprofloxacin
+499,"Patient reports fever, shortness of breath. Diagnosed with Anemia, Obesity. Prescribed Aspirin.","Anemia, Obesity",Aspirin
+500,Patient reports headache. Diagnosed with Chronic Pain. Prescribed Metformin.,Chronic Pain,Metformin
+501,"Patient reports headache, chest pain, fever. Diagnosed with Diabetes, Obesity. Prescribed Ibuprofen, Paracetamol.","Diabetes, Obesity","Ibuprofen, Paracetamol"
+502,"Patient reports back pain. Diagnosed with Obesity, Chronic Pain. Prescribed Metoprolol.","Obesity, Chronic Pain",Metoprolol
+503,"Patient reports dizziness, shortness of breath. Diagnosed with Asthma, Arthritis. Prescribed Ibuprofen.","Asthma, Arthritis",Ibuprofen
+504,"Patient reports chest pain, shortness of breath, headache. Diagnosed with Chronic Pain. Prescribed Aspirin, Atorvastatin.",Chronic Pain,"Aspirin, Atorvastatin"
+505,"Patient reports headache, nausea, sore throat. Diagnosed with Diabetes. Prescribed Amoxicillin, Aspirin.",Diabetes,"Amoxicillin, Aspirin"
+506,"Patient reports fever. Diagnosed with Anemia, Asthma. Prescribed Amoxicillin.","Anemia, Asthma",Amoxicillin
+507,"Patient reports headache. Diagnosed with Asthma, Arthritis. Prescribed Ibuprofen.","Asthma, Arthritis",Ibuprofen
+508,"Patient reports dizziness, fever. Diagnosed with Heart Disease, Anemia. Prescribed Ibuprofen.","Heart Disease, Anemia",Ibuprofen
+509,"Patient reports cough, fever. Diagnosed with Anemia. Prescribed Amoxicillin, Metoprolol.",Anemia,"Amoxicillin, Metoprolol"
+510,"Patient reports cough, sore throat, nausea. Diagnosed with Hypertension. Prescribed Metformin.",Hypertension,Metformin
+511,Patient reports headache. Diagnosed with Chronic Pain. Prescribed Lisinopril.,Chronic Pain,Lisinopril
+512,"Patient reports chest pain, sore throat. Diagnosed with Obesity. Prescribed Amoxicillin, Ciprofloxacin.",Obesity,"Amoxicillin, Ciprofloxacin"
+513,"Patient reports dizziness. Diagnosed with Hypertension. Prescribed Lisinopril, Metoprolol.",Hypertension,"Lisinopril, Metoprolol"
+514,"Patient reports shortness of breath, dizziness. Diagnosed with Obesity, Chronic Pain. Prescribed Lisinopril, Ventolin.","Obesity, Chronic Pain","Lisinopril, Ventolin"
+515,"Patient reports back pain, chest pain, headache. Diagnosed with Diabetes, Arthritis. Prescribed Metoprolol, Metformin.","Diabetes, Arthritis","Metoprolol, Metformin"
+516,"Patient reports dizziness, nausea, chest pain. Diagnosed with Diabetes, Migraine. Prescribed Ciprofloxacin.","Diabetes, Migraine",Ciprofloxacin
+517,"Patient reports fatigue, back pain, sore throat. Diagnosed with Migraine. Prescribed Ibuprofen.",Migraine,Ibuprofen
+518,Patient reports nausea. Diagnosed with Chronic Pain. Prescribed Lisinopril.,Chronic Pain,Lisinopril
+519,"Patient reports shortness of breath, fever, fatigue. Diagnosed with Hypertension. Prescribed Amoxicillin.",Hypertension,Amoxicillin
+520,"Patient reports chest pain, fatigue, dizziness. Diagnosed with Arthritis. Prescribed Atorvastatin.",Arthritis,Atorvastatin
+521,"Patient reports shortness of breath. Diagnosed with Diabetes. Prescribed Aspirin, Ventolin.",Diabetes,"Aspirin, Ventolin"
+522,"Patient reports chest pain, fever. Diagnosed with Bronchitis, Heart Disease. Prescribed Ventolin, Ibuprofen.","Bronchitis, Heart Disease","Ventolin, Ibuprofen"
+523,"Patient reports dizziness, headache, nausea. Diagnosed with Heart Disease, Diabetes. Prescribed Atorvastatin.","Heart Disease, Diabetes",Atorvastatin
+524,Patient reports sore throat. Diagnosed with Asthma. Prescribed Ventolin.,Asthma,Ventolin
+525,"Patient reports fever. Diagnosed with Bronchitis, Obesity. Prescribed Paracetamol.","Bronchitis, Obesity",Paracetamol
+526,"Patient reports fatigue, cough, headache. Diagnosed with Migraine, Anemia. Prescribed Metoprolol.","Migraine, Anemia",Metoprolol
+527,"Patient reports headache, dizziness. Diagnosed with Obesity. Prescribed Ciprofloxacin.",Obesity,Ciprofloxacin
+528,"Patient reports dizziness, nausea, headache. Diagnosed with Obesity. Prescribed Metformin.",Obesity,Metformin
+529,"Patient reports chest pain. Diagnosed with Chronic Pain, Hypertension. Prescribed Metformin.","Chronic Pain, Hypertension",Metformin
+530,"Patient reports fatigue, cough. Diagnosed with Hypertension. Prescribed Paracetamol, Ventolin.",Hypertension,"Paracetamol, Ventolin"
+531,"Patient reports sore throat, fatigue, headache. Diagnosed with Heart Disease. Prescribed Aspirin.",Heart Disease,Aspirin
+532,"Patient reports fever. Diagnosed with Hypertension, Heart Disease. Prescribed Ciprofloxacin, Ibuprofen.","Hypertension, Heart Disease","Ciprofloxacin, Ibuprofen"
+533,"Patient reports headache, fever, cough. Diagnosed with Anemia. Prescribed Ciprofloxacin, Ventolin.",Anemia,"Ciprofloxacin, Ventolin"
+534,"Patient reports headache, sore throat, shortness of breath. Diagnosed with Anemia, Asthma. Prescribed Ventolin.","Anemia, Asthma",Ventolin
+535,"Patient reports sore throat, chest pain, nausea. Diagnosed with Bronchitis, Migraine. Prescribed Metoprolol, Ventolin.","Bronchitis, Migraine","Metoprolol, Ventolin"
+536,"Patient reports nausea, back pain. Diagnosed with Chronic Pain. Prescribed Atorvastatin.",Chronic Pain,Atorvastatin
+537,"Patient reports headache, chest pain. Diagnosed with Arthritis, Obesity. Prescribed Ciprofloxacin, Metformin.","Arthritis, Obesity","Ciprofloxacin, Metformin"
+538,"Patient reports headache, nausea, sore throat. Diagnosed with Migraine, Asthma. Prescribed Ibuprofen, Metoprolol.","Migraine, Asthma","Ibuprofen, Metoprolol"
+539,"Patient reports fatigue, shortness of breath. Diagnosed with Heart Disease, Migraine. Prescribed Metoprolol.","Heart Disease, Migraine",Metoprolol
+540,"Patient reports sore throat, fever. Diagnosed with Heart Disease. Prescribed Metformin.",Heart Disease,Metformin
+541,"Patient reports chest pain. Diagnosed with Migraine, Heart Disease. Prescribed Metformin.","Migraine, Heart Disease",Metformin
+542,"Patient reports back pain. Diagnosed with Heart Disease. Prescribed Aspirin, Metformin.",Heart Disease,"Aspirin, Metformin"
+543,"Patient reports headache, fatigue, chest pain. Diagnosed with Diabetes. Prescribed Atorvastatin, Ibuprofen.",Diabetes,"Atorvastatin, Ibuprofen"
+544,"Patient reports sore throat, headache. Diagnosed with Chronic Pain. Prescribed Paracetamol.",Chronic Pain,Paracetamol
+545,"Patient reports back pain, headache. Diagnosed with Chronic Pain. Prescribed Metformin, Amoxicillin.",Chronic Pain,"Metformin, Amoxicillin"
+546,"Patient reports fever, sore throat, back pain. Diagnosed with Asthma, Diabetes. Prescribed Metformin, Ciprofloxacin.","Asthma, Diabetes","Metformin, Ciprofloxacin"
+547,"Patient reports chest pain, shortness of breath, dizziness. Diagnosed with Obesity, Hypertension. Prescribed Atorvastatin, Ciprofloxacin.","Obesity, Hypertension","Atorvastatin, Ciprofloxacin"
+548,"Patient reports fever, fatigue, dizziness. Diagnosed with Migraine. Prescribed Ventolin, Lisinopril.",Migraine,"Ventolin, Lisinopril"
+549,"Patient reports back pain, cough, nausea. Diagnosed with Anemia, Bronchitis. Prescribed Ciprofloxacin.","Anemia, Bronchitis",Ciprofloxacin
+550,"Patient reports headache, fatigue. Diagnosed with Diabetes, Chronic Pain. Prescribed Lisinopril.","Diabetes, Chronic Pain",Lisinopril
+551,Patient reports dizziness. Diagnosed with Asthma. Prescribed Ibuprofen.,Asthma,Ibuprofen
+552,"Patient reports dizziness. Diagnosed with Diabetes, Obesity. Prescribed Atorvastatin, Amoxicillin.","Diabetes, Obesity","Atorvastatin, Amoxicillin"
+553,"Patient reports headache, dizziness, sore throat. Diagnosed with Anemia, Migraine. Prescribed Atorvastatin.","Anemia, Migraine",Atorvastatin
+554,"Patient reports chest pain. Diagnosed with Anemia, Arthritis. Prescribed Ventolin, Lisinopril.","Anemia, Arthritis","Ventolin, Lisinopril"
+555,"Patient reports dizziness. Diagnosed with Migraine, Bronchitis. Prescribed Ventolin, Ciprofloxacin.","Migraine, Bronchitis","Ventolin, Ciprofloxacin"
+556,"Patient reports headache. Diagnosed with Anemia, Chronic Pain. Prescribed Atorvastatin, Aspirin.","Anemia, Chronic Pain","Atorvastatin, Aspirin"
+557,"Patient reports chest pain, shortness of breath. Diagnosed with Bronchitis, Migraine. Prescribed Lisinopril.","Bronchitis, Migraine",Lisinopril
+558,"Patient reports cough, headache. Diagnosed with Anemia. Prescribed Ventolin, Ibuprofen.",Anemia,"Ventolin, Ibuprofen"
+559,"Patient reports sore throat, back pain. Diagnosed with Bronchitis. Prescribed Metoprolol, Aspirin.",Bronchitis,"Metoprolol, Aspirin"
+560,"Patient reports dizziness, shortness of breath. Diagnosed with Migraine. Prescribed Lisinopril.",Migraine,Lisinopril
+561,"Patient reports headache. Diagnosed with Asthma, Diabetes. Prescribed Ibuprofen, Metformin.","Asthma, Diabetes","Ibuprofen, Metformin"
+562,"Patient reports chest pain. Diagnosed with Asthma, Anemia. Prescribed Ibuprofen.","Asthma, Anemia",Ibuprofen
+563,"Patient reports headache, dizziness, sore throat. Diagnosed with Bronchitis. Prescribed Aspirin, Metoprolol.",Bronchitis,"Aspirin, Metoprolol"
+564,"Patient reports shortness of breath, dizziness. Diagnosed with Hypertension, Obesity. Prescribed Aspirin, Paracetamol.","Hypertension, Obesity","Aspirin, Paracetamol"
+565,"Patient reports fatigue, headache, cough. Diagnosed with Diabetes, Heart Disease. Prescribed Ciprofloxacin, Metformin.","Diabetes, Heart Disease","Ciprofloxacin, Metformin"
+566,"Patient reports cough, chest pain, fatigue. Diagnosed with Chronic Pain, Obesity. Prescribed Aspirin.","Chronic Pain, Obesity",Aspirin
+567,"Patient reports cough. Diagnosed with Bronchitis, Hypertension. Prescribed Ibuprofen, Lisinopril.","Bronchitis, Hypertension","Ibuprofen, Lisinopril"
+568,"Patient reports dizziness, headache. Diagnosed with Asthma. Prescribed Lisinopril, Metformin.",Asthma,"Lisinopril, Metformin"
+569,"Patient reports cough, fever, shortness of breath. Diagnosed with Chronic Pain. Prescribed Ventolin.",Chronic Pain,Ventolin
+570,"Patient reports dizziness, fever, chest pain. Diagnosed with Heart Disease. Prescribed Amoxicillin, Aspirin.",Heart Disease,"Amoxicillin, Aspirin"
+571,"Patient reports back pain. Diagnosed with Hypertension, Obesity. Prescribed Paracetamol, Lisinopril.","Hypertension, Obesity","Paracetamol, Lisinopril"
+572,"Patient reports headache. Diagnosed with Arthritis. Prescribed Ventolin, Amoxicillin.",Arthritis,"Ventolin, Amoxicillin"
+573,"Patient reports fever, dizziness. Diagnosed with Heart Disease. Prescribed Amoxicillin, Ventolin.",Heart Disease,"Amoxicillin, Ventolin"
+574,"Patient reports shortness of breath, dizziness, fatigue. Diagnosed with Anemia. Prescribed Ciprofloxacin.",Anemia,Ciprofloxacin
+575,"Patient reports chest pain, nausea, shortness of breath. Diagnosed with Asthma, Heart Disease. Prescribed Ciprofloxacin, Lisinopril.","Asthma, Heart Disease","Ciprofloxacin, Lisinopril"
+576,"Patient reports dizziness, chest pain, fever. Diagnosed with Diabetes. Prescribed Ventolin.",Diabetes,Ventolin
+577,"Patient reports fever, nausea. Diagnosed with Arthritis, Hypertension. Prescribed Metformin.","Arthritis, Hypertension",Metformin
+578,"Patient reports headache, fatigue. Diagnosed with Asthma. Prescribed Atorvastatin.",Asthma,Atorvastatin
+579,"Patient reports fatigue, cough. Diagnosed with Chronic Pain. Prescribed Atorvastatin, Metoprolol.",Chronic Pain,"Atorvastatin, Metoprolol"
+580,"Patient reports fatigue, sore throat. Diagnosed with Migraine, Asthma. Prescribed Amoxicillin, Metformin.","Migraine, Asthma","Amoxicillin, Metformin"
+581,"Patient reports shortness of breath, nausea, back pain. Diagnosed with Heart Disease. Prescribed Paracetamol.",Heart Disease,Paracetamol
+582,"Patient reports sore throat, shortness of breath, nausea. Diagnosed with Anemia, Diabetes. Prescribed Aspirin.","Anemia, Diabetes",Aspirin
+583,Patient reports fatigue. Diagnosed with Diabetes. Prescribed Metformin.,Diabetes,Metformin
+584,"Patient reports cough, back pain. Diagnosed with Bronchitis. Prescribed Aspirin.",Bronchitis,Aspirin
+585,"Patient reports sore throat. Diagnosed with Chronic Pain, Heart Disease. Prescribed Ibuprofen, Ventolin.","Chronic Pain, Heart Disease","Ibuprofen, Ventolin"
+586,"Patient reports sore throat, nausea. Diagnosed with Chronic Pain. Prescribed Atorvastatin.",Chronic Pain,Atorvastatin
+587,"Patient reports dizziness. Diagnosed with Bronchitis, Heart Disease. Prescribed Ventolin, Lisinopril.","Bronchitis, Heart Disease","Ventolin, Lisinopril"
+588,"Patient reports headache, fever, fatigue. Diagnosed with Migraine, Heart Disease. Prescribed Lisinopril.","Migraine, Heart Disease",Lisinopril
+589,"Patient reports sore throat, shortness of breath, fatigue. Diagnosed with Asthma, Migraine. Prescribed Ibuprofen, Lisinopril.","Asthma, Migraine","Ibuprofen, Lisinopril"
+590,"Patient reports cough, fever. Diagnosed with Diabetes. Prescribed Ibuprofen, Ciprofloxacin.",Diabetes,"Ibuprofen, Ciprofloxacin"
+591,"Patient reports back pain. Diagnosed with Heart Disease, Obesity. Prescribed Aspirin, Ventolin.","Heart Disease, Obesity","Aspirin, Ventolin"
+592,Patient reports chest pain. Diagnosed with Asthma. Prescribed Paracetamol.,Asthma,Paracetamol
+593,"Patient reports fever, cough, sore throat. Diagnosed with Migraine. Prescribed Amoxicillin, Aspirin.",Migraine,"Amoxicillin, Aspirin"
+594,"Patient reports cough. Diagnosed with Hypertension, Heart Disease. Prescribed Metformin, Atorvastatin.","Hypertension, Heart Disease","Metformin, Atorvastatin"
+595,"Patient reports sore throat. Diagnosed with Diabetes. Prescribed Ibuprofen, Lisinopril.",Diabetes,"Ibuprofen, Lisinopril"
+596,"Patient reports nausea, shortness of breath. Diagnosed with Chronic Pain, Hypertension. Prescribed Atorvastatin.","Chronic Pain, Hypertension",Atorvastatin
+597,"Patient reports nausea, fever. Diagnosed with Migraine, Bronchitis. Prescribed Atorvastatin.","Migraine, Bronchitis",Atorvastatin
+598,"Patient reports dizziness, nausea, fatigue. Diagnosed with Heart Disease, Hypertension. Prescribed Ciprofloxacin.","Heart Disease, Hypertension",Ciprofloxacin
+599,"Patient reports shortness of breath, fever, back pain. Diagnosed with Asthma, Diabetes. Prescribed Ibuprofen.","Asthma, Diabetes",Ibuprofen
+600,"Patient reports fatigue, back pain. Diagnosed with Anemia. Prescribed Lisinopril.",Anemia,Lisinopril
+601,"Patient reports cough, fever, headache. Diagnosed with Arthritis, Chronic Pain. Prescribed Ibuprofen.","Arthritis, Chronic Pain",Ibuprofen
+602,"Patient reports fatigue, fever. Diagnosed with Heart Disease, Asthma. Prescribed Ventolin, Lisinopril.","Heart Disease, Asthma","Ventolin, Lisinopril"
+603,"Patient reports sore throat. Diagnosed with Asthma, Hypertension. Prescribed Ibuprofen, Lisinopril.","Asthma, Hypertension","Ibuprofen, Lisinopril"
+604,"Patient reports shortness of breath, dizziness. Diagnosed with Anemia, Chronic Pain. Prescribed Lisinopril, Metformin.","Anemia, Chronic Pain","Lisinopril, Metformin"
+605,"Patient reports fever, back pain. Diagnosed with Anemia, Hypertension. Prescribed Metoprolol.","Anemia, Hypertension",Metoprolol
+606,"Patient reports nausea, sore throat. Diagnosed with Arthritis. Prescribed Ventolin, Metoprolol.",Arthritis,"Ventolin, Metoprolol"
+607,"Patient reports dizziness. Diagnosed with Hypertension, Arthritis. Prescribed Metformin.","Hypertension, Arthritis",Metformin
+608,"Patient reports fatigue, back pain, dizziness. Diagnosed with Diabetes. Prescribed Ciprofloxacin.",Diabetes,Ciprofloxacin
+609,"Patient reports fever. Diagnosed with Migraine, Heart Disease. Prescribed Ventolin, Aspirin.","Migraine, Heart Disease","Ventolin, Aspirin"
+610,"Patient reports nausea, dizziness, fever. Diagnosed with Obesity. Prescribed Metformin, Lisinopril.",Obesity,"Metformin, Lisinopril"
+611,"Patient reports dizziness. Diagnosed with Arthritis, Heart Disease. Prescribed Ciprofloxacin.","Arthritis, Heart Disease",Ciprofloxacin
+612,"Patient reports nausea, shortness of breath, sore throat. Diagnosed with Arthritis. Prescribed Paracetamol, Lisinopril.",Arthritis,"Paracetamol, Lisinopril"
+613,"Patient reports back pain, fatigue. Diagnosed with Hypertension, Arthritis. Prescribed Paracetamol.","Hypertension, Arthritis",Paracetamol
+614,"Patient reports nausea, headache. Diagnosed with Arthritis, Heart Disease. Prescribed Paracetamol.","Arthritis, Heart Disease",Paracetamol
+615,"Patient reports dizziness, shortness of breath. Diagnosed with Chronic Pain. Prescribed Ventolin, Ciprofloxacin.",Chronic Pain,"Ventolin, Ciprofloxacin"
+616,"Patient reports cough, chest pain, sore throat. Diagnosed with Obesity, Anemia. Prescribed Ibuprofen.","Obesity, Anemia",Ibuprofen
+617,"Patient reports back pain, shortness of breath, fatigue. Diagnosed with Chronic Pain. Prescribed Ibuprofen.",Chronic Pain,Ibuprofen
+618,"Patient reports nausea. Diagnosed with Hypertension. Prescribed Lisinopril, Metformin.",Hypertension,"Lisinopril, Metformin"
+619,"Patient reports headache. Diagnosed with Heart Disease. Prescribed Metoprolol, Ibuprofen.",Heart Disease,"Metoprolol, Ibuprofen"
+620,"Patient reports fever. Diagnosed with Anemia, Migraine. Prescribed Paracetamol, Aspirin.","Anemia, Migraine","Paracetamol, Aspirin"
+621,"Patient reports headache, shortness of breath, chest pain. Diagnosed with Chronic Pain, Anemia. Prescribed Metoprolol.","Chronic Pain, Anemia",Metoprolol
+622,"Patient reports chest pain. Diagnosed with Arthritis. Prescribed Ibuprofen, Aspirin.",Arthritis,"Ibuprofen, Aspirin"
+623,"Patient reports headache. Diagnosed with Heart Disease. Prescribed Metformin, Ventolin.",Heart Disease,"Metformin, Ventolin"
+624,"Patient reports chest pain, nausea. Diagnosed with Bronchitis. Prescribed Metformin, Ciprofloxacin.",Bronchitis,"Metformin, Ciprofloxacin"
+625,"Patient reports back pain. Diagnosed with Asthma, Heart Disease. Prescribed Paracetamol.","Asthma, Heart Disease",Paracetamol
+626,Patient reports fatigue. Diagnosed with Diabetes. Prescribed Metoprolol.,Diabetes,Metoprolol
+627,"Patient reports shortness of breath, nausea. Diagnosed with Chronic Pain, Heart Disease. Prescribed Metformin, Ventolin.","Chronic Pain, Heart Disease","Metformin, Ventolin"
+628,"Patient reports chest pain, dizziness. Diagnosed with Bronchitis, Heart Disease. Prescribed Paracetamol.","Bronchitis, Heart Disease",Paracetamol
+629,"Patient reports nausea. Diagnosed with Asthma. Prescribed Ibuprofen, Metformin.",Asthma,"Ibuprofen, Metformin"
+630,"Patient reports sore throat, shortness of breath. Diagnosed with Diabetes, Bronchitis. Prescribed Atorvastatin, Ventolin.","Diabetes, Bronchitis","Atorvastatin, Ventolin"
+631,"Patient reports chest pain, nausea, shortness of breath. Diagnosed with Obesity. Prescribed Amoxicillin.",Obesity,Amoxicillin
+632,"Patient reports dizziness. Diagnosed with Arthritis, Hypertension. Prescribed Amoxicillin, Ciprofloxacin.","Arthritis, Hypertension","Amoxicillin, Ciprofloxacin"
+633,"Patient reports fever, sore throat. Diagnosed with Heart Disease, Arthritis. Prescribed Atorvastatin.","Heart Disease, Arthritis",Atorvastatin
+634,"Patient reports back pain. Diagnosed with Chronic Pain, Asthma. Prescribed Ibuprofen, Metformin.","Chronic Pain, Asthma","Ibuprofen, Metformin"
+635,Patient reports fever. Diagnosed with Diabetes. Prescribed Ventolin.,Diabetes,Ventolin
+636,"Patient reports dizziness. Diagnosed with Diabetes, Arthritis. Prescribed Ciprofloxacin.","Diabetes, Arthritis",Ciprofloxacin
+637,"Patient reports shortness of breath. Diagnosed with Bronchitis. Prescribed Lisinopril, Ciprofloxacin.",Bronchitis,"Lisinopril, Ciprofloxacin"
+638,"Patient reports fatigue, nausea. Diagnosed with Anemia. Prescribed Paracetamol, Metoprolol.",Anemia,"Paracetamol, Metoprolol"
+639,"Patient reports cough, chest pain. Diagnosed with Obesity. Prescribed Ibuprofen, Lisinopril.",Obesity,"Ibuprofen, Lisinopril"
+640,"Patient reports back pain. Diagnosed with Migraine, Anemia. Prescribed Ciprofloxacin.","Migraine, Anemia",Ciprofloxacin
+641,"Patient reports back pain, fever, cough. Diagnosed with Migraine, Bronchitis. Prescribed Ventolin, Metoprolol.","Migraine, Bronchitis","Ventolin, Metoprolol"
+642,"Patient reports dizziness, back pain. Diagnosed with Migraine, Asthma. Prescribed Metoprolol, Aspirin.","Migraine, Asthma","Metoprolol, Aspirin"
+643,"Patient reports nausea. Diagnosed with Migraine, Chronic Pain. Prescribed Aspirin, Ventolin.","Migraine, Chronic Pain","Aspirin, Ventolin"
+644,"Patient reports dizziness. Diagnosed with Asthma, Chronic Pain. Prescribed Metformin, Ventolin.","Asthma, Chronic Pain","Metformin, Ventolin"
+645,"Patient reports fever, shortness of breath. Diagnosed with Diabetes. Prescribed Aspirin, Ventolin.",Diabetes,"Aspirin, Ventolin"
+646,"Patient reports fever, shortness of breath. Diagnosed with Arthritis, Heart Disease. Prescribed Lisinopril, Atorvastatin.","Arthritis, Heart Disease","Lisinopril, Atorvastatin"
+647,"Patient reports cough. Diagnosed with Heart Disease, Obesity. Prescribed Paracetamol.","Heart Disease, Obesity",Paracetamol
+648,"Patient reports sore throat. Diagnosed with Bronchitis. Prescribed Ventolin, Metformin.",Bronchitis,"Ventolin, Metformin"
+649,"Patient reports cough, fever. Diagnosed with Arthritis, Asthma. Prescribed Metoprolol.","Arthritis, Asthma",Metoprolol
+650,"Patient reports back pain, sore throat, fatigue. Diagnosed with Heart Disease, Chronic Pain. Prescribed Ibuprofen, Metoprolol.","Heart Disease, Chronic Pain","Ibuprofen, Metoprolol"
+651,"Patient reports dizziness, shortness of breath. Diagnosed with Arthritis, Chronic Pain. Prescribed Aspirin, Metformin.","Arthritis, Chronic Pain","Aspirin, Metformin"
+652,"Patient reports shortness of breath, fever, nausea. Diagnosed with Migraine. Prescribed Ventolin.",Migraine,Ventolin
+653,"Patient reports dizziness, fever. Diagnosed with Chronic Pain. Prescribed Aspirin, Amoxicillin.",Chronic Pain,"Aspirin, Amoxicillin"
+654,"Patient reports cough, fatigue, nausea. Diagnosed with Anemia, Asthma. Prescribed Metoprolol.","Anemia, Asthma",Metoprolol
+655,Patient reports sore throat. Diagnosed with Chronic Pain. Prescribed Metformin.,Chronic Pain,Metformin
+656,"Patient reports chest pain, shortness of breath, fatigue. Diagnosed with Migraine, Obesity. Prescribed Ventolin.","Migraine, Obesity",Ventolin
+657,"Patient reports fever, nausea, dizziness. Diagnosed with Arthritis, Asthma. Prescribed Atorvastatin, Lisinopril.","Arthritis, Asthma","Atorvastatin, Lisinopril"
+658,"Patient reports headache. Diagnosed with Migraine. Prescribed Amoxicillin, Metoprolol.",Migraine,"Amoxicillin, Metoprolol"
+659,"Patient reports cough, headache, back pain. Diagnosed with Anemia, Bronchitis. Prescribed Aspirin.","Anemia, Bronchitis",Aspirin
+660,"Patient reports chest pain. Diagnosed with Arthritis. Prescribed Atorvastatin, Ventolin.",Arthritis,"Atorvastatin, Ventolin"
+661,"Patient reports fever, dizziness, sore throat. Diagnosed with Anemia, Bronchitis. Prescribed Ventolin.","Anemia, Bronchitis",Ventolin
+662,"Patient reports back pain, cough. Diagnosed with Chronic Pain, Asthma. Prescribed Aspirin, Amoxicillin.","Chronic Pain, Asthma","Aspirin, Amoxicillin"
+663,"Patient reports nausea, chest pain. Diagnosed with Migraine. Prescribed Ventolin.",Migraine,Ventolin
+664,"Patient reports headache, sore throat, shortness of breath. Diagnosed with Chronic Pain. Prescribed Paracetamol, Aspirin.",Chronic Pain,"Paracetamol, Aspirin"
+665,"Patient reports sore throat. Diagnosed with Diabetes, Asthma. Prescribed Metformin.","Diabetes, Asthma",Metformin
+666,"Patient reports chest pain, fatigue, cough. Diagnosed with Migraine. Prescribed Ibuprofen, Atorvastatin.",Migraine,"Ibuprofen, Atorvastatin"
+667,"Patient reports cough, back pain, nausea. Diagnosed with Chronic Pain, Anemia. Prescribed Aspirin.","Chronic Pain, Anemia",Aspirin
+668,Patient reports sore throat. Diagnosed with Anemia. Prescribed Ibuprofen.,Anemia,Ibuprofen
+669,"Patient reports back pain, headache. Diagnosed with Arthritis, Obesity. Prescribed Ventolin.","Arthritis, Obesity",Ventolin
+670,"Patient reports dizziness, nausea. Diagnosed with Diabetes, Bronchitis. Prescribed Ventolin.","Diabetes, Bronchitis",Ventolin
+671,"Patient reports dizziness. Diagnosed with Obesity, Asthma. Prescribed Aspirin.","Obesity, Asthma",Aspirin
+672,"Patient reports nausea, fever, dizziness. Diagnosed with Migraine. Prescribed Amoxicillin, Atorvastatin.",Migraine,"Amoxicillin, Atorvastatin"
+673,"Patient reports dizziness. Diagnosed with Hypertension, Migraine. Prescribed Lisinopril.","Hypertension, Migraine",Lisinopril
+674,"Patient reports chest pain, back pain. Diagnosed with Asthma, Obesity. Prescribed Aspirin, Lisinopril.","Asthma, Obesity","Aspirin, Lisinopril"
+675,"Patient reports shortness of breath, sore throat, headache. Diagnosed with Hypertension. Prescribed Paracetamol, Aspirin.",Hypertension,"Paracetamol, Aspirin"
+676,"Patient reports shortness of breath, back pain. Diagnosed with Anemia, Migraine. Prescribed Amoxicillin, Metformin.","Anemia, Migraine","Amoxicillin, Metformin"
+677,"Patient reports dizziness, shortness of breath, fatigue. Diagnosed with Bronchitis, Diabetes. Prescribed Paracetamol.","Bronchitis, Diabetes",Paracetamol
+678,"Patient reports headache, fatigue. Diagnosed with Chronic Pain. Prescribed Atorvastatin, Aspirin.",Chronic Pain,"Atorvastatin, Aspirin"
+679,"Patient reports sore throat, chest pain, shortness of breath. Diagnosed with Arthritis. Prescribed Metformin, Aspirin.",Arthritis,"Metformin, Aspirin"
+680,"Patient reports fatigue, chest pain. Diagnosed with Bronchitis, Obesity. Prescribed Ventolin.","Bronchitis, Obesity",Ventolin
+681,"Patient reports headache, chest pain, fatigue. Diagnosed with Asthma, Hypertension. Prescribed Metformin, Atorvastatin.","Asthma, Hypertension","Metformin, Atorvastatin"
+682,"Patient reports cough, chest pain, sore throat. Diagnosed with Diabetes. Prescribed Atorvastatin, Paracetamol.",Diabetes,"Atorvastatin, Paracetamol"
+683,"Patient reports cough. Diagnosed with Obesity, Bronchitis. Prescribed Ventolin.","Obesity, Bronchitis",Ventolin
+684,"Patient reports fatigue. Diagnosed with Obesity. Prescribed Atorvastatin, Ibuprofen.",Obesity,"Atorvastatin, Ibuprofen"
+685,"Patient reports fever, dizziness. Diagnosed with Hypertension. Prescribed Aspirin, Ciprofloxacin.",Hypertension,"Aspirin, Ciprofloxacin"
+686,Patient reports chest pain. Diagnosed with Anemia. Prescribed Ciprofloxacin.,Anemia,Ciprofloxacin
+687,"Patient reports fever, chest pain. Diagnosed with Bronchitis. Prescribed Ciprofloxacin, Aspirin.",Bronchitis,"Ciprofloxacin, Aspirin"
+688,"Patient reports shortness of breath. Diagnosed with Bronchitis. Prescribed Atorvastatin, Ciprofloxacin.",Bronchitis,"Atorvastatin, Ciprofloxacin"
+689,"Patient reports cough, nausea, back pain. Diagnosed with Chronic Pain. Prescribed Metformin, Aspirin.",Chronic Pain,"Metformin, Aspirin"
+690,"Patient reports dizziness. Diagnosed with Obesity, Heart Disease. Prescribed Lisinopril, Metformin.","Obesity, Heart Disease","Lisinopril, Metformin"
+691,"Patient reports fatigue, shortness of breath. Diagnosed with Asthma. Prescribed Ciprofloxacin, Atorvastatin.",Asthma,"Ciprofloxacin, Atorvastatin"
+692,"Patient reports headache, fatigue, chest pain. Diagnosed with Hypertension, Obesity. Prescribed Aspirin, Ventolin.","Hypertension, Obesity","Aspirin, Ventolin"
+693,"Patient reports fatigue, cough. Diagnosed with Chronic Pain. Prescribed Paracetamol.",Chronic Pain,Paracetamol
+694,"Patient reports fatigue, chest pain. Diagnosed with Chronic Pain, Diabetes. Prescribed Metoprolol.","Chronic Pain, Diabetes",Metoprolol
+695,"Patient reports fever. Diagnosed with Obesity. Prescribed Atorvastatin, Lisinopril.",Obesity,"Atorvastatin, Lisinopril"
+696,"Patient reports back pain, headache. Diagnosed with Obesity. Prescribed Lisinopril.",Obesity,Lisinopril
+697,"Patient reports headache, cough, fatigue. Diagnosed with Obesity, Diabetes. Prescribed Aspirin, Ibuprofen.","Obesity, Diabetes","Aspirin, Ibuprofen"
+698,"Patient reports fatigue, headache, fever. Diagnosed with Bronchitis, Asthma. Prescribed Metoprolol, Amoxicillin.","Bronchitis, Asthma","Metoprolol, Amoxicillin"
+699,"Patient reports sore throat. Diagnosed with Hypertension, Bronchitis. Prescribed Atorvastatin.","Hypertension, Bronchitis",Atorvastatin
+700,"Patient reports chest pain. Diagnosed with Hypertension, Diabetes. Prescribed Metformin, Ciprofloxacin.","Hypertension, Diabetes","Metformin, Ciprofloxacin"
+701,"Patient reports fatigue, sore throat. Diagnosed with Chronic Pain, Hypertension. Prescribed Paracetamol, Ciprofloxacin.","Chronic Pain, Hypertension","Paracetamol, Ciprofloxacin"
+702,"Patient reports sore throat, nausea, fever. Diagnosed with Chronic Pain, Anemia. Prescribed Ciprofloxacin.","Chronic Pain, Anemia",Ciprofloxacin
+703,"Patient reports chest pain, sore throat, shortness of breath. Diagnosed with Hypertension, Obesity. Prescribed Atorvastatin, Ciprofloxacin.","Hypertension, Obesity","Atorvastatin, Ciprofloxacin"
+704,"Patient reports dizziness. Diagnosed with Diabetes. Prescribed Metoprolol, Lisinopril.",Diabetes,"Metoprolol, Lisinopril"
+705,"Patient reports fever. Diagnosed with Anemia, Diabetes. Prescribed Lisinopril, Amoxicillin.","Anemia, Diabetes","Lisinopril, Amoxicillin"
+706,"Patient reports shortness of breath, nausea. Diagnosed with Obesity. Prescribed Paracetamol.",Obesity,Paracetamol
+707,"Patient reports headache, fever, dizziness. Diagnosed with Anemia, Heart Disease. Prescribed Lisinopril, Ventolin.","Anemia, Heart Disease","Lisinopril, Ventolin"
+708,"Patient reports nausea, dizziness. Diagnosed with Diabetes. Prescribed Paracetamol, Amoxicillin.",Diabetes,"Paracetamol, Amoxicillin"
+709,"Patient reports sore throat, back pain. Diagnosed with Bronchitis, Chronic Pain. Prescribed Metoprolol.","Bronchitis, Chronic Pain",Metoprolol
+710,"Patient reports dizziness. Diagnosed with Migraine, Obesity. Prescribed Amoxicillin, Aspirin.","Migraine, Obesity","Amoxicillin, Aspirin"
+711,"Patient reports headache. Diagnosed with Bronchitis, Obesity. Prescribed Aspirin.","Bronchitis, Obesity",Aspirin
+712,"Patient reports nausea. Diagnosed with Anemia, Obesity. Prescribed Metoprolol.","Anemia, Obesity",Metoprolol
+713,"Patient reports dizziness, fever, nausea. Diagnosed with Anemia, Diabetes. Prescribed Metoprolol, Aspirin.","Anemia, Diabetes","Metoprolol, Aspirin"
+714,"Patient reports fatigue, fever. Diagnosed with Diabetes. Prescribed Ciprofloxacin, Atorvastatin.",Diabetes,"Ciprofloxacin, Atorvastatin"
+715,"Patient reports sore throat, fever. Diagnosed with Bronchitis, Diabetes. Prescribed Paracetamol, Ibuprofen.","Bronchitis, Diabetes","Paracetamol, Ibuprofen"
+716,"Patient reports cough, fatigue. Diagnosed with Heart Disease, Obesity. Prescribed Metformin.","Heart Disease, Obesity",Metformin
+717,"Patient reports shortness of breath, dizziness. Diagnosed with Obesity, Migraine. Prescribed Ventolin, Ibuprofen.","Obesity, Migraine","Ventolin, Ibuprofen"
+718,"Patient reports sore throat, chest pain. Diagnosed with Heart Disease, Chronic Pain. Prescribed Metoprolol, Amoxicillin.","Heart Disease, Chronic Pain","Metoprolol, Amoxicillin"
+719,"Patient reports headache, sore throat, fatigue. Diagnosed with Diabetes. Prescribed Atorvastatin, Metformin.",Diabetes,"Atorvastatin, Metformin"
+720,"Patient reports dizziness, shortness of breath, nausea. Diagnosed with Migraine. Prescribed Aspirin.",Migraine,Aspirin
+721,"Patient reports dizziness, headache, sore throat. Diagnosed with Obesity, Hypertension. Prescribed Metoprolol, Ventolin.","Obesity, Hypertension","Metoprolol, Ventolin"
+722,"Patient reports fatigue, cough, back pain. Diagnosed with Diabetes, Hypertension. Prescribed Ventolin.","Diabetes, Hypertension",Ventolin
+723,"Patient reports headache, cough. Diagnosed with Migraine. Prescribed Metformin, Paracetamol.",Migraine,"Metformin, Paracetamol"
+724,"Patient reports dizziness, shortness of breath. Diagnosed with Heart Disease. Prescribed Aspirin.",Heart Disease,Aspirin
+725,"Patient reports nausea, sore throat, back pain. Diagnosed with Heart Disease. Prescribed Amoxicillin.",Heart Disease,Amoxicillin
+726,"Patient reports chest pain, fever, dizziness. Diagnosed with Hypertension, Migraine. Prescribed Lisinopril, Metformin.","Hypertension, Migraine","Lisinopril, Metformin"
+727,"Patient reports chest pain, cough. Diagnosed with Anemia. Prescribed Atorvastatin.",Anemia,Atorvastatin
+728,Patient reports chest pain. Diagnosed with Asthma. Prescribed Metoprolol.,Asthma,Metoprolol
+729,"Patient reports nausea, headache. Diagnosed with Asthma, Bronchitis. Prescribed Ibuprofen, Ventolin.","Asthma, Bronchitis","Ibuprofen, Ventolin"
+730,"Patient reports sore throat. Diagnosed with Anemia. Prescribed Metformin, Ventolin.",Anemia,"Metformin, Ventolin"
+731,"Patient reports fever, chest pain, headache. Diagnosed with Arthritis, Diabetes. Prescribed Aspirin.","Arthritis, Diabetes",Aspirin
+732,"Patient reports cough, headache. Diagnosed with Obesity. Prescribed Ventolin, Atorvastatin.",Obesity,"Ventolin, Atorvastatin"
+733,"Patient reports shortness of breath, cough, fever. Diagnosed with Asthma, Heart Disease. Prescribed Lisinopril.","Asthma, Heart Disease",Lisinopril
+734,"Patient reports headache, chest pain, fever. Diagnosed with Migraine, Chronic Pain. Prescribed Atorvastatin.","Migraine, Chronic Pain",Atorvastatin
+735,"Patient reports fatigue, cough. Diagnosed with Arthritis, Migraine. Prescribed Amoxicillin, Paracetamol.","Arthritis, Migraine","Amoxicillin, Paracetamol"
+736,"Patient reports fever, cough. Diagnosed with Arthritis. Prescribed Lisinopril, Aspirin.",Arthritis,"Lisinopril, Aspirin"
+737,"Patient reports fever, shortness of breath, headache. Diagnosed with Heart Disease. Prescribed Lisinopril, Ciprofloxacin.",Heart Disease,"Lisinopril, Ciprofloxacin"
+738,"Patient reports chest pain, fatigue. Diagnosed with Diabetes. Prescribed Lisinopril.",Diabetes,Lisinopril
+739,"Patient reports cough, back pain. Diagnosed with Migraine. Prescribed Metoprolol, Ibuprofen.",Migraine,"Metoprolol, Ibuprofen"
+740,"Patient reports chest pain, sore throat, shortness of breath. Diagnosed with Asthma. Prescribed Amoxicillin, Aspirin.",Asthma,"Amoxicillin, Aspirin"
+741,Patient reports chest pain. Diagnosed with Bronchitis. Prescribed Ibuprofen.,Bronchitis,Ibuprofen
+742,"Patient reports cough. Diagnosed with Migraine, Diabetes. Prescribed Ventolin.","Migraine, Diabetes",Ventolin
+743,"Patient reports back pain, nausea, headache. Diagnosed with Chronic Pain, Heart Disease. Prescribed Metformin.","Chronic Pain, Heart Disease",Metformin
+744,"Patient reports nausea. Diagnosed with Diabetes, Obesity. Prescribed Metoprolol.","Diabetes, Obesity",Metoprolol
+745,"Patient reports sore throat, nausea. Diagnosed with Diabetes, Hypertension. Prescribed Paracetamol, Ciprofloxacin.","Diabetes, Hypertension","Paracetamol, Ciprofloxacin"
+746,Patient reports fatigue. Diagnosed with Bronchitis. Prescribed Aspirin.,Bronchitis,Aspirin
+747,"Patient reports headache. Diagnosed with Anemia. Prescribed Ibuprofen, Aspirin.",Anemia,"Ibuprofen, Aspirin"
+748,"Patient reports cough, fatigue. Diagnosed with Migraine, Arthritis. Prescribed Aspirin.","Migraine, Arthritis",Aspirin
+749,"Patient reports chest pain. Diagnosed with Arthritis, Asthma. Prescribed Metformin.","Arthritis, Asthma",Metformin
+750,"Patient reports fatigue. Diagnosed with Hypertension, Heart Disease. Prescribed Ventolin, Ciprofloxacin.","Hypertension, Heart Disease","Ventolin, Ciprofloxacin"
+751,"Patient reports nausea, sore throat. Diagnosed with Diabetes. Prescribed Amoxicillin.",Diabetes,Amoxicillin
+752,"Patient reports chest pain. Diagnosed with Bronchitis. Prescribed Atorvastatin, Metoprolol.",Bronchitis,"Atorvastatin, Metoprolol"
+753,"Patient reports fatigue. Diagnosed with Bronchitis. Prescribed Aspirin, Ibuprofen.",Bronchitis,"Aspirin, Ibuprofen"
+754,"Patient reports headache, nausea. Diagnosed with Bronchitis. Prescribed Ventolin, Metformin.",Bronchitis,"Ventolin, Metformin"
+755,"Patient reports back pain, nausea. Diagnosed with Chronic Pain, Asthma. Prescribed Ciprofloxacin.","Chronic Pain, Asthma",Ciprofloxacin
+756,"Patient reports fatigue, back pain. Diagnosed with Heart Disease. Prescribed Lisinopril, Metformin.",Heart Disease,"Lisinopril, Metformin"
+757,"Patient reports dizziness, back pain. Diagnosed with Hypertension, Heart Disease. Prescribed Metformin.","Hypertension, Heart Disease",Metformin
+758,"Patient reports cough, dizziness. Diagnosed with Bronchitis. Prescribed Aspirin, Amoxicillin.",Bronchitis,"Aspirin, Amoxicillin"
+759,"Patient reports fever, shortness of breath, nausea. Diagnosed with Diabetes. Prescribed Metformin.",Diabetes,Metformin
+760,"Patient reports chest pain, sore throat, dizziness. Diagnosed with Chronic Pain. Prescribed Paracetamol.",Chronic Pain,Paracetamol
+761,"Patient reports cough. Diagnosed with Diabetes, Bronchitis. Prescribed Aspirin, Atorvastatin.","Diabetes, Bronchitis","Aspirin, Atorvastatin"
+762,"Patient reports chest pain, shortness of breath. Diagnosed with Arthritis, Heart Disease. Prescribed Aspirin.","Arthritis, Heart Disease",Aspirin
+763,"Patient reports cough, headache, fatigue. Diagnosed with Arthritis. Prescribed Paracetamol, Metformin.",Arthritis,"Paracetamol, Metformin"
+764,"Patient reports headache, sore throat, shortness of breath. Diagnosed with Hypertension, Chronic Pain. Prescribed Atorvastatin, Amoxicillin.","Hypertension, Chronic Pain","Atorvastatin, Amoxicillin"
+765,"Patient reports fatigue, sore throat. Diagnosed with Diabetes. Prescribed Aspirin, Amoxicillin.",Diabetes,"Aspirin, Amoxicillin"
+766,"Patient reports fatigue, headache, back pain. Diagnosed with Migraine, Asthma. Prescribed Amoxicillin, Metformin.","Migraine, Asthma","Amoxicillin, Metformin"
+767,"Patient reports fatigue. Diagnosed with Arthritis, Asthma. Prescribed Aspirin.","Arthritis, Asthma",Aspirin
+768,"Patient reports chest pain. Diagnosed with Hypertension, Diabetes. Prescribed Ventolin, Lisinopril.","Hypertension, Diabetes","Ventolin, Lisinopril"
+769,"Patient reports fever. Diagnosed with Obesity. Prescribed Ciprofloxacin, Paracetamol.",Obesity,"Ciprofloxacin, Paracetamol"
+770,"Patient reports fatigue, sore throat, dizziness. Diagnosed with Heart Disease. Prescribed Lisinopril, Aspirin.",Heart Disease,"Lisinopril, Aspirin"
+771,"Patient reports sore throat. Diagnosed with Obesity, Heart Disease. Prescribed Ventolin, Aspirin.","Obesity, Heart Disease","Ventolin, Aspirin"
+772,"Patient reports cough, nausea, shortness of breath. Diagnosed with Asthma. Prescribed Ventolin, Aspirin.",Asthma,"Ventolin, Aspirin"
+773,"Patient reports shortness of breath. Diagnosed with Chronic Pain. Prescribed Aspirin, Atorvastatin.",Chronic Pain,"Aspirin, Atorvastatin"
+774,"Patient reports shortness of breath, nausea. Diagnosed with Obesity. Prescribed Atorvastatin.",Obesity,Atorvastatin
+775,"Patient reports back pain. Diagnosed with Asthma, Bronchitis. Prescribed Paracetamol, Aspirin.","Asthma, Bronchitis","Paracetamol, Aspirin"
+776,"Patient reports nausea, back pain. Diagnosed with Anemia, Hypertension. Prescribed Ibuprofen, Aspirin.","Anemia, Hypertension","Ibuprofen, Aspirin"
+777,Patient reports sore throat. Diagnosed with Arthritis. Prescribed Atorvastatin.,Arthritis,Atorvastatin
+778,"Patient reports dizziness. Diagnosed with Arthritis. Prescribed Lisinopril, Aspirin.",Arthritis,"Lisinopril, Aspirin"
+779,"Patient reports fever, chest pain, headache. Diagnosed with Anemia, Obesity. Prescribed Ibuprofen, Ciprofloxacin.","Anemia, Obesity","Ibuprofen, Ciprofloxacin"
+780,"Patient reports sore throat, dizziness, chest pain. Diagnosed with Asthma, Migraine. Prescribed Ibuprofen, Ventolin.","Asthma, Migraine","Ibuprofen, Ventolin"
+781,"Patient reports shortness of breath. Diagnosed with Heart Disease, Arthritis. Prescribed Metoprolol, Lisinopril.","Heart Disease, Arthritis","Metoprolol, Lisinopril"
+782,"Patient reports shortness of breath, sore throat. Diagnosed with Bronchitis, Hypertension. Prescribed Ciprofloxacin, Aspirin.","Bronchitis, Hypertension","Ciprofloxacin, Aspirin"
+783,"Patient reports fever, back pain. Diagnosed with Asthma. Prescribed Atorvastatin.",Asthma,Atorvastatin
+784,"Patient reports dizziness, headache, cough. Diagnosed with Asthma, Diabetes. Prescribed Metformin, Metoprolol.","Asthma, Diabetes","Metformin, Metoprolol"
+785,"Patient reports chest pain, nausea. Diagnosed with Chronic Pain, Hypertension. Prescribed Metoprolol.","Chronic Pain, Hypertension",Metoprolol
+786,"Patient reports dizziness, headache. Diagnosed with Arthritis, Diabetes. Prescribed Amoxicillin.","Arthritis, Diabetes",Amoxicillin
+787,"Patient reports back pain, fatigue, chest pain. Diagnosed with Arthritis. Prescribed Aspirin, Ibuprofen.",Arthritis,"Aspirin, Ibuprofen"
+788,Patient reports nausea. Diagnosed with Asthma. Prescribed Ibuprofen.,Asthma,Ibuprofen
+789,"Patient reports fatigue. Diagnosed with Arthritis, Diabetes. Prescribed Amoxicillin.","Arthritis, Diabetes",Amoxicillin
+790,"Patient reports nausea, headache. Diagnosed with Diabetes, Migraine. Prescribed Amoxicillin, Ciprofloxacin.","Diabetes, Migraine","Amoxicillin, Ciprofloxacin"
+791,"Patient reports headache, cough, back pain. Diagnosed with Heart Disease, Anemia. Prescribed Ciprofloxacin.","Heart Disease, Anemia",Ciprofloxacin
+792,"Patient reports headache, back pain, dizziness. Diagnosed with Chronic Pain, Heart Disease. Prescribed Metformin.","Chronic Pain, Heart Disease",Metformin
+793,"Patient reports sore throat, back pain. Diagnosed with Migraine, Arthritis. Prescribed Ciprofloxacin, Lisinopril.","Migraine, Arthritis","Ciprofloxacin, Lisinopril"
+794,"Patient reports back pain, sore throat, nausea. Diagnosed with Chronic Pain, Asthma. Prescribed Ventolin.","Chronic Pain, Asthma",Ventolin
+795,"Patient reports headache, nausea. Diagnosed with Hypertension, Chronic Pain. Prescribed Metformin.","Hypertension, Chronic Pain",Metformin
+796,"Patient reports headache, dizziness. Diagnosed with Asthma, Migraine. Prescribed Paracetamol, Metoprolol.","Asthma, Migraine","Paracetamol, Metoprolol"
+797,"Patient reports shortness of breath, back pain. Diagnosed with Obesity. Prescribed Metoprolol, Metformin.",Obesity,"Metoprolol, Metformin"
+798,"Patient reports headache, fever, cough. Diagnosed with Obesity. Prescribed Ibuprofen, Atorvastatin.",Obesity,"Ibuprofen, Atorvastatin"
+799,"Patient reports back pain. Diagnosed with Asthma, Migraine. Prescribed Amoxicillin.","Asthma, Migraine",Amoxicillin
+800,"Patient reports fatigue. Diagnosed with Arthritis, Obesity. Prescribed Ciprofloxacin, Amoxicillin.","Arthritis, Obesity","Ciprofloxacin, Amoxicillin"
+801,"Patient reports dizziness, fatigue. Diagnosed with Heart Disease. Prescribed Aspirin.",Heart Disease,Aspirin
+802,"Patient reports dizziness, back pain. Diagnosed with Arthritis, Obesity. Prescribed Paracetamol, Amoxicillin.","Arthritis, Obesity","Paracetamol, Amoxicillin"
+803,"Patient reports back pain, shortness of breath, fever. Diagnosed with Obesity, Arthritis. Prescribed Metformin.","Obesity, Arthritis",Metformin
+804,"Patient reports fever. Diagnosed with Bronchitis, Obesity. Prescribed Lisinopril.","Bronchitis, Obesity",Lisinopril
+805,"Patient reports back pain, sore throat, chest pain. Diagnosed with Obesity. Prescribed Metformin, Amoxicillin.",Obesity,"Metformin, Amoxicillin"
+806,"Patient reports chest pain, nausea, fever. Diagnosed with Migraine, Chronic Pain. Prescribed Paracetamol, Aspirin.","Migraine, Chronic Pain","Paracetamol, Aspirin"
+807,"Patient reports fatigue, sore throat, nausea. Diagnosed with Arthritis. Prescribed Ibuprofen, Metformin.",Arthritis,"Ibuprofen, Metformin"
+808,"Patient reports chest pain, nausea, shortness of breath. Diagnosed with Diabetes. Prescribed Paracetamol, Ciprofloxacin.",Diabetes,"Paracetamol, Ciprofloxacin"
+809,"Patient reports headache. Diagnosed with Asthma, Arthritis. Prescribed Amoxicillin.","Asthma, Arthritis",Amoxicillin
+810,"Patient reports cough, back pain, dizziness. Diagnosed with Diabetes. Prescribed Ibuprofen.",Diabetes,Ibuprofen
+811,"Patient reports fatigue, dizziness. Diagnosed with Obesity. Prescribed Ibuprofen.",Obesity,Ibuprofen
+812,"Patient reports nausea. Diagnosed with Diabetes, Hypertension. Prescribed Ciprofloxacin.","Diabetes, Hypertension",Ciprofloxacin
+813,"Patient reports nausea, chest pain. Diagnosed with Bronchitis. Prescribed Metoprolol.",Bronchitis,Metoprolol
+814,"Patient reports back pain, shortness of breath, fatigue. Diagnosed with Asthma, Bronchitis. Prescribed Ibuprofen, Amoxicillin.","Asthma, Bronchitis","Ibuprofen, Amoxicillin"
+815,"Patient reports shortness of breath, chest pain. Diagnosed with Asthma, Arthritis. Prescribed Metformin, Atorvastatin.","Asthma, Arthritis","Metformin, Atorvastatin"
+816,Patient reports back pain. Diagnosed with Hypertension. Prescribed Aspirin.,Hypertension,Aspirin
+817,"Patient reports fatigue, fever, shortness of breath. Diagnosed with Anemia, Asthma. Prescribed Aspirin.","Anemia, Asthma",Aspirin
+818,"Patient reports headache, sore throat, cough. Diagnosed with Anemia, Obesity. Prescribed Metformin, Lisinopril.","Anemia, Obesity","Metformin, Lisinopril"
+819,"Patient reports back pain, fatigue, cough. Diagnosed with Arthritis. Prescribed Ibuprofen, Metoprolol.",Arthritis,"Ibuprofen, Metoprolol"
+820,"Patient reports back pain, fatigue. Diagnosed with Migraine. Prescribed Lisinopril, Metoprolol.",Migraine,"Lisinopril, Metoprolol"
+821,"Patient reports back pain. Diagnosed with Anemia. Prescribed Metoprolol, Atorvastatin.",Anemia,"Metoprolol, Atorvastatin"
+822,"Patient reports nausea, dizziness. Diagnosed with Obesity. Prescribed Ciprofloxacin, Ventolin.",Obesity,"Ciprofloxacin, Ventolin"
+823,"Patient reports nausea. Diagnosed with Asthma, Anemia. Prescribed Paracetamol, Metoprolol.","Asthma, Anemia","Paracetamol, Metoprolol"
+824,"Patient reports cough. Diagnosed with Asthma, Obesity. Prescribed Metformin.","Asthma, Obesity",Metformin
+825,"Patient reports back pain, chest pain, dizziness. Diagnosed with Hypertension. Prescribed Paracetamol, Lisinopril.",Hypertension,"Paracetamol, Lisinopril"
+826,"Patient reports chest pain, sore throat. Diagnosed with Heart Disease, Obesity. Prescribed Aspirin, Atorvastatin.","Heart Disease, Obesity","Aspirin, Atorvastatin"
+827,Patient reports dizziness. Diagnosed with Asthma. Prescribed Aspirin.,Asthma,Aspirin
+828,"Patient reports fatigue, sore throat, dizziness. Diagnosed with Anemia. Prescribed Ibuprofen, Metoprolol.",Anemia,"Ibuprofen, Metoprolol"
+829,"Patient reports nausea, fatigue. Diagnosed with Chronic Pain, Hypertension. Prescribed Aspirin, Metformin.","Chronic Pain, Hypertension","Aspirin, Metformin"
+830,"Patient reports cough. Diagnosed with Migraine. Prescribed Metformin, Lisinopril.",Migraine,"Metformin, Lisinopril"
+831,"Patient reports cough. Diagnosed with Heart Disease, Anemia. Prescribed Ciprofloxacin, Aspirin.","Heart Disease, Anemia","Ciprofloxacin, Aspirin"
+832,Patient reports fever. Diagnosed with Asthma. Prescribed Aspirin.,Asthma,Aspirin
+833,"Patient reports cough, back pain, fever. Diagnosed with Asthma, Arthritis. Prescribed Metoprolol, Paracetamol.","Asthma, Arthritis","Metoprolol, Paracetamol"
+834,"Patient reports cough, fever. Diagnosed with Chronic Pain. Prescribed Atorvastatin.",Chronic Pain,Atorvastatin
+835,"Patient reports cough, sore throat. Diagnosed with Asthma. Prescribed Aspirin, Lisinopril.",Asthma,"Aspirin, Lisinopril"
+836,"Patient reports fatigue, sore throat, dizziness. Diagnosed with Diabetes. Prescribed Ventolin.",Diabetes,Ventolin
+837,"Patient reports cough, dizziness. Diagnosed with Migraine. Prescribed Metoprolol, Aspirin.",Migraine,"Metoprolol, Aspirin"
+838,"Patient reports cough, dizziness. Diagnosed with Diabetes, Arthritis. Prescribed Atorvastatin, Ciprofloxacin.","Diabetes, Arthritis","Atorvastatin, Ciprofloxacin"
+839,"Patient reports fever, nausea, cough. Diagnosed with Obesity, Diabetes. Prescribed Metformin, Aspirin.","Obesity, Diabetes","Metformin, Aspirin"
+840,"Patient reports dizziness, shortness of breath, fever. Diagnosed with Anemia, Asthma. Prescribed Ventolin.","Anemia, Asthma",Ventolin
+841,Patient reports headache. Diagnosed with Bronchitis. Prescribed Aspirin.,Bronchitis,Aspirin
+842,"Patient reports shortness of breath, chest pain, fatigue. Diagnosed with Hypertension. Prescribed Atorvastatin.",Hypertension,Atorvastatin
+843,"Patient reports nausea. Diagnosed with Migraine. Prescribed Ibuprofen, Metoprolol.",Migraine,"Ibuprofen, Metoprolol"
+844,"Patient reports fever, fatigue. Diagnosed with Obesity, Diabetes. Prescribed Paracetamol, Ventolin.","Obesity, Diabetes","Paracetamol, Ventolin"
+845,"Patient reports cough, fatigue, nausea. Diagnosed with Migraine, Bronchitis. Prescribed Lisinopril, Ibuprofen.","Migraine, Bronchitis","Lisinopril, Ibuprofen"
+846,"Patient reports sore throat. Diagnosed with Bronchitis, Migraine. Prescribed Paracetamol, Lisinopril.","Bronchitis, Migraine","Paracetamol, Lisinopril"
+847,"Patient reports shortness of breath, dizziness. Diagnosed with Bronchitis, Chronic Pain. Prescribed Aspirin.","Bronchitis, Chronic Pain",Aspirin
+848,"Patient reports shortness of breath, headache, sore throat. Diagnosed with Asthma. Prescribed Paracetamol.",Asthma,Paracetamol
+849,"Patient reports headache, fever, nausea. Diagnosed with Anemia. Prescribed Amoxicillin, Metoprolol.",Anemia,"Amoxicillin, Metoprolol"
+850,Patient reports cough. Diagnosed with Diabetes. Prescribed Amoxicillin.,Diabetes,Amoxicillin
+851,"Patient reports dizziness, fatigue, nausea. Diagnosed with Heart Disease, Anemia. Prescribed Ciprofloxacin.","Heart Disease, Anemia",Ciprofloxacin
+852,"Patient reports back pain, fever. Diagnosed with Chronic Pain. Prescribed Aspirin.",Chronic Pain,Aspirin
+853,"Patient reports chest pain, fever, shortness of breath. Diagnosed with Obesity. Prescribed Lisinopril, Ciprofloxacin.",Obesity,"Lisinopril, Ciprofloxacin"
+854,"Patient reports nausea, dizziness, chest pain. Diagnosed with Arthritis. Prescribed Paracetamol.",Arthritis,Paracetamol
+855,"Patient reports headache, nausea, fever. Diagnosed with Heart Disease. Prescribed Ciprofloxacin, Lisinopril.",Heart Disease,"Ciprofloxacin, Lisinopril"
+856,"Patient reports chest pain, cough. Diagnosed with Anemia, Bronchitis. Prescribed Paracetamol, Aspirin.","Anemia, Bronchitis","Paracetamol, Aspirin"
+857,"Patient reports back pain, dizziness. Diagnosed with Obesity. Prescribed Ventolin, Paracetamol.",Obesity,"Ventolin, Paracetamol"
+858,"Patient reports cough. Diagnosed with Chronic Pain, Migraine. Prescribed Amoxicillin.","Chronic Pain, Migraine",Amoxicillin
+859,"Patient reports back pain. Diagnosed with Arthritis, Hypertension. Prescribed Ibuprofen.","Arthritis, Hypertension",Ibuprofen
+860,"Patient reports fever, headache. Diagnosed with Asthma. Prescribed Ibuprofen, Lisinopril.",Asthma,"Ibuprofen, Lisinopril"
+861,"Patient reports fatigue, chest pain, headache. Diagnosed with Arthritis, Chronic Pain. Prescribed Aspirin, Lisinopril.","Arthritis, Chronic Pain","Aspirin, Lisinopril"
+862,"Patient reports chest pain, nausea. Diagnosed with Hypertension. Prescribed Ciprofloxacin, Ibuprofen.",Hypertension,"Ciprofloxacin, Ibuprofen"
+863,"Patient reports chest pain, fatigue. Diagnosed with Chronic Pain, Hypertension. Prescribed Ventolin.","Chronic Pain, Hypertension",Ventolin
+864,"Patient reports sore throat, dizziness, headache. Diagnosed with Arthritis. Prescribed Metoprolol.",Arthritis,Metoprolol
+865,"Patient reports headache, sore throat, fatigue. Diagnosed with Obesity, Asthma. Prescribed Aspirin, Atorvastatin.","Obesity, Asthma","Aspirin, Atorvastatin"
+866,"Patient reports sore throat. Diagnosed with Diabetes, Bronchitis. Prescribed Ibuprofen, Paracetamol.","Diabetes, Bronchitis","Ibuprofen, Paracetamol"
+867,"Patient reports chest pain, fever, dizziness. Diagnosed with Obesity. Prescribed Aspirin.",Obesity,Aspirin
+868,"Patient reports back pain, fatigue. Diagnosed with Anemia, Asthma. Prescribed Atorvastatin, Metoprolol.","Anemia, Asthma","Atorvastatin, Metoprolol"
+869,Patient reports fever. Diagnosed with Hypertension. Prescribed Metformin.,Hypertension,Metformin
+870,"Patient reports nausea, headache, shortness of breath. Diagnosed with Arthritis, Heart Disease. Prescribed Amoxicillin, Paracetamol.","Arthritis, Heart Disease","Amoxicillin, Paracetamol"
+871,"Patient reports fever, chest pain, shortness of breath. Diagnosed with Anemia, Chronic Pain. Prescribed Atorvastatin.","Anemia, Chronic Pain",Atorvastatin
+872,"Patient reports fever. Diagnosed with Hypertension. Prescribed Amoxicillin, Lisinopril.",Hypertension,"Amoxicillin, Lisinopril"
+873,"Patient reports fatigue, nausea. Diagnosed with Heart Disease. Prescribed Lisinopril, Ibuprofen.",Heart Disease,"Lisinopril, Ibuprofen"
+874,Patient reports cough. Diagnosed with Chronic Pain. Prescribed Metformin.,Chronic Pain,Metformin
+875,"Patient reports dizziness. Diagnosed with Diabetes, Anemia. Prescribed Ibuprofen, Aspirin.","Diabetes, Anemia","Ibuprofen, Aspirin"
+876,"Patient reports fever, nausea, back pain. Diagnosed with Asthma, Anemia. Prescribed Amoxicillin, Lisinopril.","Asthma, Anemia","Amoxicillin, Lisinopril"
+877,Patient reports sore throat. Diagnosed with Obesity. Prescribed Aspirin.,Obesity,Aspirin
+878,"Patient reports fever, cough. Diagnosed with Heart Disease, Anemia. Prescribed Paracetamol, Lisinopril.","Heart Disease, Anemia","Paracetamol, Lisinopril"
+879,"Patient reports fatigue. Diagnosed with Anemia. Prescribed Ventolin, Lisinopril.",Anemia,"Ventolin, Lisinopril"
+880,"Patient reports sore throat, cough, nausea. Diagnosed with Bronchitis, Asthma. Prescribed Ibuprofen, Amoxicillin.","Bronchitis, Asthma","Ibuprofen, Amoxicillin"
+881,Patient reports shortness of breath. Diagnosed with Heart Disease. Prescribed Lisinopril.,Heart Disease,Lisinopril
+882,"Patient reports headache, fever. Diagnosed with Anemia, Heart Disease. Prescribed Ventolin, Aspirin.","Anemia, Heart Disease","Ventolin, Aspirin"
+883,"Patient reports chest pain, dizziness. Diagnosed with Heart Disease. Prescribed Metformin.",Heart Disease,Metformin
+884,"Patient reports nausea, shortness of breath. Diagnosed with Arthritis, Chronic Pain. Prescribed Ventolin, Ibuprofen.","Arthritis, Chronic Pain","Ventolin, Ibuprofen"
+885,"Patient reports back pain, sore throat. Diagnosed with Migraine. Prescribed Metoprolol, Lisinopril.",Migraine,"Metoprolol, Lisinopril"
+886,"Patient reports fatigue, shortness of breath. Diagnosed with Diabetes. Prescribed Aspirin, Amoxicillin.",Diabetes,"Aspirin, Amoxicillin"
+887,"Patient reports back pain. Diagnosed with Migraine. Prescribed Lisinopril, Ventolin.",Migraine,"Lisinopril, Ventolin"
+888,"Patient reports shortness of breath, sore throat. Diagnosed with Asthma. Prescribed Amoxicillin.",Asthma,Amoxicillin
+889,"Patient reports shortness of breath, fatigue, sore throat. Diagnosed with Heart Disease, Arthritis. Prescribed Aspirin.","Heart Disease, Arthritis",Aspirin
+890,"Patient reports cough, headache. Diagnosed with Chronic Pain. Prescribed Metoprolol.",Chronic Pain,Metoprolol
+891,"Patient reports headache, nausea, fever. Diagnosed with Chronic Pain. Prescribed Paracetamol.",Chronic Pain,Paracetamol
+892,"Patient reports chest pain, fever, cough. Diagnosed with Heart Disease. Prescribed Atorvastatin, Metoprolol.",Heart Disease,"Atorvastatin, Metoprolol"
+893,"Patient reports back pain. Diagnosed with Arthritis, Asthma. Prescribed Ciprofloxacin.","Arthritis, Asthma",Ciprofloxacin
+894,"Patient reports shortness of breath. Diagnosed with Asthma. Prescribed Metformin, Aspirin.",Asthma,"Metformin, Aspirin"
+895,"Patient reports dizziness, cough. Diagnosed with Obesity. Prescribed Metoprolol.",Obesity,Metoprolol
+896,"Patient reports back pain. Diagnosed with Bronchitis. Prescribed Ibuprofen, Lisinopril.",Bronchitis,"Ibuprofen, Lisinopril"
+897,"Patient reports fever, dizziness. Diagnosed with Chronic Pain, Migraine. Prescribed Metformin, Ciprofloxacin.","Chronic Pain, Migraine","Metformin, Ciprofloxacin"
+898,"Patient reports chest pain, shortness of breath, headache. Diagnosed with Heart Disease, Diabetes. Prescribed Ventolin, Lisinopril.","Heart Disease, Diabetes","Ventolin, Lisinopril"
+899,"Patient reports chest pain, sore throat. Diagnosed with Chronic Pain, Anemia. Prescribed Metformin.","Chronic Pain, Anemia",Metformin
+900,"Patient reports fatigue, dizziness, shortness of breath. Diagnosed with Anemia, Chronic Pain. Prescribed Amoxicillin.","Anemia, Chronic Pain",Amoxicillin
+901,"Patient reports cough, fatigue, dizziness. Diagnosed with Obesity. Prescribed Ciprofloxacin.",Obesity,Ciprofloxacin
+902,"Patient reports cough, fever. Diagnosed with Obesity, Migraine. Prescribed Ibuprofen.","Obesity, Migraine",Ibuprofen
+903,"Patient reports chest pain, fever, nausea. Diagnosed with Hypertension, Chronic Pain. Prescribed Ibuprofen, Atorvastatin.","Hypertension, Chronic Pain","Ibuprofen, Atorvastatin"
+904,"Patient reports cough. Diagnosed with Bronchitis, Chronic Pain. Prescribed Ibuprofen, Metoprolol.","Bronchitis, Chronic Pain","Ibuprofen, Metoprolol"
+905,"Patient reports sore throat, nausea, fever. Diagnosed with Hypertension. Prescribed Paracetamol, Atorvastatin.",Hypertension,"Paracetamol, Atorvastatin"
+906,"Patient reports fatigue, headache. Diagnosed with Diabetes. Prescribed Amoxicillin, Aspirin.",Diabetes,"Amoxicillin, Aspirin"
+907,"Patient reports nausea, fever, cough. Diagnosed with Heart Disease. Prescribed Ventolin, Metformin.",Heart Disease,"Ventolin, Metformin"
+908,"Patient reports nausea, back pain, fatigue. Diagnosed with Hypertension, Obesity. Prescribed Amoxicillin.","Hypertension, Obesity",Amoxicillin
+909,"Patient reports dizziness, chest pain, shortness of breath. Diagnosed with Diabetes. Prescribed Ciprofloxacin, Ibuprofen.",Diabetes,"Ciprofloxacin, Ibuprofen"
+910,"Patient reports dizziness, nausea. Diagnosed with Migraine. Prescribed Metformin, Atorvastatin.",Migraine,"Metformin, Atorvastatin"
+911,"Patient reports shortness of breath, chest pain. Diagnosed with Hypertension, Chronic Pain. Prescribed Amoxicillin.","Hypertension, Chronic Pain",Amoxicillin
+912,"Patient reports headache. Diagnosed with Diabetes, Asthma. Prescribed Metformin, Ibuprofen.","Diabetes, Asthma","Metformin, Ibuprofen"
+913,"Patient reports headache, back pain. Diagnosed with Diabetes, Bronchitis. Prescribed Atorvastatin.","Diabetes, Bronchitis",Atorvastatin
+914,Patient reports dizziness. Diagnosed with Chronic Pain. Prescribed Paracetamol.,Chronic Pain,Paracetamol
+915,"Patient reports dizziness, chest pain, back pain. Diagnosed with Anemia, Chronic Pain. Prescribed Metformin.","Anemia, Chronic Pain",Metformin
+916,"Patient reports dizziness, fatigue. Diagnosed with Heart Disease. Prescribed Ciprofloxacin, Ventolin.",Heart Disease,"Ciprofloxacin, Ventolin"
+917,"Patient reports cough, dizziness, fatigue. Diagnosed with Obesity, Asthma. Prescribed Atorvastatin, Metformin.","Obesity, Asthma","Atorvastatin, Metformin"
+918,"Patient reports fatigue. Diagnosed with Hypertension. Prescribed Ibuprofen, Amoxicillin.",Hypertension,"Ibuprofen, Amoxicillin"
+919,Patient reports sore throat. Diagnosed with Hypertension. Prescribed Aspirin.,Hypertension,Aspirin
+920,"Patient reports nausea, shortness of breath. Diagnosed with Anemia. Prescribed Ventolin.",Anemia,Ventolin
+921,"Patient reports back pain, nausea. Diagnosed with Anemia. Prescribed Paracetamol.",Anemia,Paracetamol
+922,"Patient reports sore throat, cough, headache. Diagnosed with Heart Disease. Prescribed Aspirin.",Heart Disease,Aspirin
+923,"Patient reports cough, chest pain, back pain. Diagnosed with Obesity. Prescribed Ciprofloxacin.",Obesity,Ciprofloxacin
+924,"Patient reports fever. Diagnosed with Bronchitis, Chronic Pain. Prescribed Ibuprofen, Ciprofloxacin.","Bronchitis, Chronic Pain","Ibuprofen, Ciprofloxacin"
+925,"Patient reports shortness of breath. Diagnosed with Heart Disease, Obesity. Prescribed Aspirin, Amoxicillin.","Heart Disease, Obesity","Aspirin, Amoxicillin"
+926,"Patient reports cough, shortness of breath, dizziness. Diagnosed with Diabetes. Prescribed Amoxicillin.",Diabetes,Amoxicillin
+927,"Patient reports headache, fever. Diagnosed with Diabetes, Chronic Pain. Prescribed Amoxicillin.","Diabetes, Chronic Pain",Amoxicillin
+928,"Patient reports cough. Diagnosed with Diabetes, Obesity. Prescribed Lisinopril.","Diabetes, Obesity",Lisinopril
+929,"Patient reports nausea, cough, shortness of breath. Diagnosed with Asthma, Obesity. Prescribed Metformin.","Asthma, Obesity",Metformin
+930,"Patient reports headache, chest pain, cough. Diagnosed with Migraine, Obesity. Prescribed Ibuprofen, Metoprolol.","Migraine, Obesity","Ibuprofen, Metoprolol"
+931,"Patient reports headache, nausea. Diagnosed with Chronic Pain, Hypertension. Prescribed Paracetamol.","Chronic Pain, Hypertension",Paracetamol
+932,"Patient reports cough, nausea, sore throat. Diagnosed with Bronchitis, Obesity. Prescribed Lisinopril.","Bronchitis, Obesity",Lisinopril
+933,"Patient reports sore throat, fatigue, fever. Diagnosed with Bronchitis, Obesity. Prescribed Paracetamol.","Bronchitis, Obesity",Paracetamol
+934,"Patient reports dizziness, fever. Diagnosed with Asthma, Arthritis. Prescribed Paracetamol, Ciprofloxacin.","Asthma, Arthritis","Paracetamol, Ciprofloxacin"
+935,"Patient reports headache, fatigue. Diagnosed with Chronic Pain. Prescribed Ciprofloxacin, Paracetamol.",Chronic Pain,"Ciprofloxacin, Paracetamol"
+936,"Patient reports dizziness, shortness of breath, headache. Diagnosed with Diabetes. Prescribed Atorvastatin, Paracetamol.",Diabetes,"Atorvastatin, Paracetamol"
+937,"Patient reports cough, nausea, chest pain. Diagnosed with Migraine, Bronchitis. Prescribed Metoprolol, Ciprofloxacin.","Migraine, Bronchitis","Metoprolol, Ciprofloxacin"
+938,"Patient reports fever, nausea, fatigue. Diagnosed with Obesity, Migraine. Prescribed Metformin, Ibuprofen.","Obesity, Migraine","Metformin, Ibuprofen"
+939,"Patient reports shortness of breath. Diagnosed with Asthma. Prescribed Ibuprofen, Amoxicillin.",Asthma,"Ibuprofen, Amoxicillin"
+940,"Patient reports sore throat, fever. Diagnosed with Chronic Pain, Asthma. Prescribed Ciprofloxacin.","Chronic Pain, Asthma",Ciprofloxacin
+941,"Patient reports nausea, back pain. Diagnosed with Asthma. Prescribed Metformin.",Asthma,Metformin
+942,"Patient reports sore throat, back pain. Diagnosed with Arthritis. Prescribed Ciprofloxacin, Paracetamol.",Arthritis,"Ciprofloxacin, Paracetamol"
+943,"Patient reports chest pain, fever. Diagnosed with Chronic Pain. Prescribed Paracetamol, Lisinopril.",Chronic Pain,"Paracetamol, Lisinopril"
+944,"Patient reports sore throat. Diagnosed with Heart Disease. Prescribed Metformin, Aspirin.",Heart Disease,"Metformin, Aspirin"
+945,"Patient reports back pain, chest pain. Diagnosed with Asthma, Bronchitis. Prescribed Atorvastatin.","Asthma, Bronchitis",Atorvastatin
+946,"Patient reports sore throat. Diagnosed with Chronic Pain, Diabetes. Prescribed Ventolin, Lisinopril.","Chronic Pain, Diabetes","Ventolin, Lisinopril"
+947,"Patient reports back pain, cough. Diagnosed with Migraine, Anemia. Prescribed Atorvastatin, Aspirin.","Migraine, Anemia","Atorvastatin, Aspirin"
+948,"Patient reports chest pain, fever, shortness of breath. Diagnosed with Heart Disease, Obesity. Prescribed Metoprolol.","Heart Disease, Obesity",Metoprolol
+949,"Patient reports fatigue, sore throat. Diagnosed with Obesity, Diabetes. Prescribed Ciprofloxacin.","Obesity, Diabetes",Ciprofloxacin
+950,"Patient reports fever, sore throat, chest pain. Diagnosed with Anemia, Diabetes. Prescribed Ibuprofen, Metformin.","Anemia, Diabetes","Ibuprofen, Metformin"
+951,"Patient reports nausea, chest pain, back pain. Diagnosed with Migraine. Prescribed Lisinopril, Metoprolol.",Migraine,"Lisinopril, Metoprolol"
+952,"Patient reports headache, cough, dizziness. Diagnosed with Diabetes, Arthritis. Prescribed Ciprofloxacin, Atorvastatin.","Diabetes, Arthritis","Ciprofloxacin, Atorvastatin"
+953,Patient reports headache. Diagnosed with Arthritis. Prescribed Metformin.,Arthritis,Metformin
+954,"Patient reports back pain, headache, nausea. Diagnosed with Anemia, Obesity. Prescribed Ibuprofen, Aspirin.","Anemia, Obesity","Ibuprofen, Aspirin"
+955,"Patient reports dizziness, shortness of breath. Diagnosed with Diabetes, Hypertension. Prescribed Ventolin.","Diabetes, Hypertension",Ventolin
+956,"Patient reports shortness of breath, nausea, chest pain. Diagnosed with Migraine. Prescribed Ventolin, Aspirin.",Migraine,"Ventolin, Aspirin"
+957,"Patient reports chest pain, cough. Diagnosed with Bronchitis. Prescribed Aspirin, Atorvastatin.",Bronchitis,"Aspirin, Atorvastatin"
+958,"Patient reports chest pain. Diagnosed with Anemia, Asthma. Prescribed Ciprofloxacin, Amoxicillin.","Anemia, Asthma","Ciprofloxacin, Amoxicillin"
+959,"Patient reports chest pain, nausea. Diagnosed with Hypertension. Prescribed Atorvastatin.",Hypertension,Atorvastatin
+960,"Patient reports dizziness, shortness of breath, fever. Diagnosed with Hypertension. Prescribed Lisinopril.",Hypertension,Lisinopril
+961,"Patient reports chest pain. Diagnosed with Bronchitis. Prescribed Ciprofloxacin, Amoxicillin.",Bronchitis,"Ciprofloxacin, Amoxicillin"
+962,"Patient reports fatigue, headache, shortness of breath. Diagnosed with Anemia, Asthma. Prescribed Aspirin.","Anemia, Asthma",Aspirin
+963,Patient reports shortness of breath. Diagnosed with Bronchitis. Prescribed Paracetamol.,Bronchitis,Paracetamol
+964,"Patient reports chest pain, back pain, nausea. Diagnosed with Heart Disease. Prescribed Paracetamol.",Heart Disease,Paracetamol
+965,"Patient reports headache, dizziness. Diagnosed with Bronchitis. Prescribed Metoprolol, Paracetamol.",Bronchitis,"Metoprolol, Paracetamol"
+966,"Patient reports shortness of breath, headache, fatigue. Diagnosed with Arthritis. Prescribed Paracetamol.",Arthritis,Paracetamol
+967,"Patient reports back pain, shortness of breath, dizziness. Diagnosed with Heart Disease. Prescribed Metformin.",Heart Disease,Metformin
+968,"Patient reports sore throat, nausea. Diagnosed with Hypertension. Prescribed Metformin.",Hypertension,Metformin
+969,"Patient reports fatigue, chest pain. Diagnosed with Anemia. Prescribed Ibuprofen.",Anemia,Ibuprofen
+970,"Patient reports back pain. Diagnosed with Chronic Pain, Migraine. Prescribed Paracetamol, Lisinopril.","Chronic Pain, Migraine","Paracetamol, Lisinopril"
+971,"Patient reports dizziness, shortness of breath, chest pain. Diagnosed with Chronic Pain, Heart Disease. Prescribed Metoprolol.","Chronic Pain, Heart Disease",Metoprolol
+972,"Patient reports fatigue, dizziness. Diagnosed with Arthritis, Migraine. Prescribed Ibuprofen.","Arthritis, Migraine",Ibuprofen
+973,"Patient reports chest pain, shortness of breath. Diagnosed with Arthritis. Prescribed Lisinopril.",Arthritis,Lisinopril
+974,"Patient reports nausea, sore throat, dizziness. Diagnosed with Anemia. Prescribed Lisinopril.",Anemia,Lisinopril
+975,"Patient reports fatigue. Diagnosed with Obesity, Heart Disease. Prescribed Amoxicillin, Aspirin.","Obesity, Heart Disease","Amoxicillin, Aspirin"
+976,"Patient reports back pain, fatigue, sore throat. Diagnosed with Bronchitis, Chronic Pain. Prescribed Aspirin.","Bronchitis, Chronic Pain",Aspirin
+977,"Patient reports shortness of breath, cough. Diagnosed with Anemia. Prescribed Paracetamol, Ibuprofen.",Anemia,"Paracetamol, Ibuprofen"
+978,"Patient reports fatigue, back pain. Diagnosed with Diabetes, Migraine. Prescribed Aspirin, Metoprolol.","Diabetes, Migraine","Aspirin, Metoprolol"
+979,"Patient reports nausea, cough. Diagnosed with Obesity, Anemia. Prescribed Ciprofloxacin.","Obesity, Anemia",Ciprofloxacin
+980,"Patient reports dizziness. Diagnosed with Hypertension. Prescribed Metformin, Metoprolol.",Hypertension,"Metformin, Metoprolol"
+981,"Patient reports fever. Diagnosed with Heart Disease. Prescribed Paracetamol, Lisinopril.",Heart Disease,"Paracetamol, Lisinopril"
+982,"Patient reports dizziness, shortness of breath. Diagnosed with Chronic Pain. Prescribed Ibuprofen, Paracetamol.",Chronic Pain,"Ibuprofen, Paracetamol"
+983,"Patient reports back pain, nausea, cough. Diagnosed with Heart Disease, Migraine. Prescribed Lisinopril, Ibuprofen.","Heart Disease, Migraine","Lisinopril, Ibuprofen"
+984,"Patient reports dizziness, fatigue, shortness of breath. Diagnosed with Obesity, Asthma. Prescribed Metoprolol.","Obesity, Asthma",Metoprolol
+985,"Patient reports fatigue. Diagnosed with Arthritis, Asthma. Prescribed Ibuprofen, Ventolin.","Arthritis, Asthma","Ibuprofen, Ventolin"
+986,"Patient reports back pain, dizziness. Diagnosed with Migraine, Arthritis. Prescribed Metformin.","Migraine, Arthritis",Metformin
+987,Patient reports nausea. Diagnosed with Asthma. Prescribed Paracetamol.,Asthma,Paracetamol
+988,"Patient reports fatigue, chest pain, back pain. Diagnosed with Anemia. Prescribed Metformin, Amoxicillin.",Anemia,"Metformin, Amoxicillin"
+989,Patient reports back pain. Diagnosed with Obesity. Prescribed Metformin.,Obesity,Metformin
+990,"Patient reports shortness of breath. Diagnosed with Diabetes, Hypertension. Prescribed Ventolin, Aspirin.","Diabetes, Hypertension","Ventolin, Aspirin"
+991,"Patient reports cough, back pain. Diagnosed with Obesity. Prescribed Ventolin.",Obesity,Ventolin
+992,"Patient reports nausea. Diagnosed with Obesity, Diabetes. Prescribed Ventolin.","Obesity, Diabetes",Ventolin
+993,"Patient reports sore throat. Diagnosed with Migraine, Diabetes. Prescribed Ibuprofen, Aspirin.","Migraine, Diabetes","Ibuprofen, Aspirin"
+994,"Patient reports sore throat, fatigue. Diagnosed with Obesity. Prescribed Metoprolol, Ventolin.",Obesity,"Metoprolol, Ventolin"
+995,"Patient reports cough. Diagnosed with Chronic Pain, Bronchitis. Prescribed Amoxicillin, Lisinopril.","Chronic Pain, Bronchitis","Amoxicillin, Lisinopril"
+996,Patient reports fatigue. Diagnosed with Diabetes. Prescribed Ibuprofen.,Diabetes,Ibuprofen
+997,"Patient reports chest pain, headache. Diagnosed with Anemia, Migraine. Prescribed Ciprofloxacin, Atorvastatin.","Anemia, Migraine","Ciprofloxacin, Atorvastatin"
+998,"Patient reports back pain, fatigue. Diagnosed with Migraine, Arthritis. Prescribed Paracetamol, Ibuprofen.","Migraine, Arthritis","Paracetamol, Ibuprofen"
+999,"Patient reports chest pain, headache, nausea. Diagnosed with Hypertension. Prescribed Ventolin, Amoxicillin.",Hypertension,"Ventolin, Amoxicillin"
+1000,"Patient reports sore throat. Diagnosed with Chronic Pain, Bronchitis. Prescribed Metoprolol.","Chronic Pain, Bronchitis",Metoprolol

@@ -1,0 +1,1001 @@
+notas_clinicas,diagnosticos,medicamentos
+"El paciente informa dolor de cabeza, falta de aliento, fatiga. Diagnosticado con bronquitis. Prescrita de amoxicilina.",Bronquitis,Amoxicilina
+"El paciente presenta enrojecimiento facial, urticaria y descamacion. refiere alergia previa a tretinoina. diagnosticado con acne . se prescribió tretinoina.",acné inflamatorio,Tretinoina
+"El paciente informa dolor de espalda, náuseas, dolor en el pecho. Diagnosticado con obesidad. Lisinopril prescrito.",Obesidad,Lisinopril
+"El paciente informa dolor de cabeza. Diagnosticado con anemia, hipertensión. Paracetamol prescrito.","Anemia, Hipertensión",Paracetamol
+"El paciente informa la falta de aliento. Diagnosticado con hipertensión. Ventolin prescrito, amoxicilina.",Hipertensión,"Ventolina, Amoxicilina"
+"El paciente informa las náuseas. Diagnosticado con dolor crónico. Ciprofloxacina prescrita, atorvastatina.",Dolor crónico,"Ciprofloxacina, Atorvastatina"
+"El paciente informa dolor de espalda, falta de aliento, tos. Diagnosticado con migraña. Aspirina prescrita, amoxicilina.",Migraña,"Aspirina, Amoxicilina"
+Paciente informa fiebre. Diagnosticado con artritis. Ventolin prescrito.,Artritis,Ventolina
+"El paciente informa náuseas, fiebre, dolor en el pecho. Diagnosticado con dolor crónico, hipertensión. Ventolin prescrito.","Dolor crónico, Hipertensión",Ventolina
+"El paciente informa mareos, fiebre. Diagnosticado con asma, anemia. Aspirina prescrita.","Asma, Anemia",Aspirina
+"El paciente informa fatiga. Diagnosticado con artritis, asma. Ventolina prescrita, aspirina.","Artritis, Asma","Ventolina, Aspirina"
+"El paciente informa fatiga, fiebre, dolor de garganta. Diagnosticado con artritis. Ibuprofeno prescrito, atorvastatina.",Artritis,"Ibuprofeno, Atorvastatina"
+"El paciente informa mareos, dolor en el pecho. Diagnosticado con diabetes, dolor crónico. Amoxicilina prescrita, ciprofloxacina.","Diabetes, Dolor crónico","Amoxicilina, Ciprofloxacina"
+"El paciente informa fatiga, náuseas, dolor de cabeza. Diagnosticado con artritis, diabetes. Amoxicilina prescrita, Lisinopril.","Artritis, Diabetes","Amoxicilina, Lisinopril"
+"El paciente informa dolor en el pecho, tos, falta de aliento. Diagnosticado con obesidad, asma. Metoprolol prescrito.","Obesidad, Asma",Metoprolol
+"Tos de informes de pacientes, náuseas. Diagnosticado con artritis. Metformina prescrita.",Artritis,Metformina
+"El paciente informa dolor de espalda, dolor de garganta, mareos. Diagnosticado con bronquitis, migraña. Prescrito ibuprofeno, aspirina.","Bronquitis, Migraña","Ibuprofeno, Aspirina"
+"Paciente informa tos, fatiga, fiebre. Diagnosticado con anemia, bronquitis. Ciprofloxacina prescrita, metoprolol.","Anemia, Bronquitis","Ciprofloxacina, Metoprolol"
+"El paciente informa náuseas, fiebre. Diagnosticado con diabetes, artritis. Prescrita de amoxicilina.","Diabetes, Artritis",Amoxicilina
+"Paciente informa fiebre. Diagnosticado con enfermedad cardíaca, diabetes. Prescrita de amoxicilina, paracetamol.","Cardiopatía, Diabetes","Amoxicilina, Paracetamol"
+"El paciente informa las náuseas, la falta de aliento. Diagnosticado con asma, bronquitis. Amoxicilina prescrita, Lisinopril.","Asma, Bronquitis","Amoxicilina, Lisinopril"
+"El paciente informa mareos, falta de aliento, dolor de cabeza. Diagnosticado con anemia. Metformina prescrita.",Anemia,Metformina
+"El paciente informa fatiga, dolor en el pecho. Diagnosticado con anemia. Ciprofloxacina prescrita, aspirina.",Anemia,"Ciprofloxacina, Aspirina"
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con obesidad. Paracetamol prescrito, metformina.",Obesidad,"Paracetamol, Metformina"
+"El paciente informa la falta de aliento. Diagnosticado con diabetes. Paracetamol prescrito, ventolin.",Diabetes,"Paracetamol, Ventolina"
+"El paciente informa dolor de cabeza, mareos, dificultad para respirar. Diagnosticado con dolor crónico, enfermedad cardíaca. Atorvastatina prescrita, metformina.","Dolor crónico, Cardiopatía","Atorvastatina, Metformina"
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con asma. Paracetamol prescrito.",Asma,Paracetamol
+"Paciente informa fiebre. Diagnosticado con obesidad, bronquitis. Lisinopril prescrito, amoxicilina.","Obesidad, Bronquitis","Lisinopril, Amoxicilina"
+"Tos de los informes del paciente. Diagnosticado con asma. Aspirina prescrita, metoprolol.",Asma,"Aspirina, Metoprolol"
+"Paciente informa fiebre, mareos. Diagnosticado con hipertensión, diabetes. Metoprolol prescrito, ibuprofeno.","Hipertensión, Diabetes","Metoprolol, Ibuprofeno"
+"El paciente informa dolor de cabeza, falta de aliento. Diagnosticado con anemia, enfermedad cardíaca. Metoprolol prescrito.","Anemia, Cardiopatía",Metoprolol
+"El paciente informa dolor de espalda, náuseas. Diagnosticado con artritis. Prescrita atorvastatina.",Artritis,Atorvastatina
+"El paciente informa dolor de espalda, fiebre, náuseas. Diagnosticado con bronquitis. Ventolin prescrito, Lisinopril.",Bronquitis,"Ventolina, Lisinopril"
+"Tos de informes de pacientes, náuseas. Diagnosticado con obesidad, artritis. Metoprolol prescrito.","Obesidad, Artritis",Metoprolol
+"El paciente informa dolor de espalda, náuseas, fatiga. Diagnosticado con hipertensión. Lisinopril prescrito, metoprolol.",Hipertensión,"Lisinopril, Metoprolol"
+"Tos de los informes del paciente. Diagnosticado con enfermedad cardíaca, obesidad. Ciprofloxacina prescrita.","Cardiopatía, Obesidad",Ciprofloxacina
+"Tos de los informes del paciente. Diagnosticado con diabetes, bronquitis. Metformina prescrita.","Diabetes, Bronquitis",Metformina
+"El paciente informa dolor en el pecho, fatiga. Diagnosticado con hipertensión, anemia. Metoprolol prescrito, atorvastatina.","Hipertensión, Anemia","Metoprolol, Atorvastatina"
+"Paciente informa fiebre. Diagnosticado con hipertensión. Aspirina prescrita, paracetamol.",Hipertensión,"Aspirina, Paracetamol"
+"El paciente informa dolor de cabeza, náuseas, mareos. Diagnosticado con diabetes, bronquitis. Metoprolol prescrito.","Diabetes, Bronquitis",Metoprolol
+Paciente informa fiebre. Diagnosticado con anemia. Lisinopril prescrito.,Anemia,Lisinopril
+"Informes de pacientes dolor de garganta, fatiga, mareos. Diagnosticado con asma. Ventolin prescrito.",Asma,Ventolina
+"El paciente informa fatiga, náuseas, fiebre. Diagnosticado con obesidad, dolor crónico. Metformina prescrita.","Obesidad, Dolor crónico",Metformina
+"El paciente informa mareos, dolor en el pecho. Diagnosticado con migraña, artritis. Metformina prescrita.","Migraña, Artritis",Metformina
+"El paciente informa mareos, tos, dolor de cabeza. Diagnosticado con enfermedad cardíaca. Ciprofloxacina prescrita.",Cardiopatía,Ciprofloxacina
+"El paciente informa dolor en el pecho, dolor de garganta, dolor de espalda. Diagnosticado con diabetes. Prescrita atorvastatina.",Diabetes,Atorvastatina
+"El paciente informa mareos, falta de aliento, dolor de espalda. Diagnosticado con hipertensión, obesidad. Amoxicilina prescrita, Lisinopril.","Hipertensión, Obesidad","Amoxicilina, Lisinopril"
+"El paciente informa náuseas, dolor de garganta, dolor de espalda. Diagnosticado con artritis. Metoprolol prescrito, ciprofloxacina.",Artritis,"Metoprolol, Ciprofloxacina"
+"El paciente informa dolor de espalda, dolor de garganta, tos. Diagnosticado con obesidad. Atorvastatina prescrita, metformina.",Obesidad,"Atorvastatina, Metformina"
+"Paciente informa fiebre. Diagnosticado con hipertensión, anemia. Prescrita atorvastatina, ibuprofeno.","Hipertensión, Anemia","Atorvastatina, Ibuprofeno"
+"El paciente informa fiebre, dolor en el pecho. Diagnosticado con anemia. Prescrita atorvastatina, amoxicilina.",Anemia,"Atorvastatina, Amoxicilina"
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con dolor crónico. Ventolin prescrito, Lisinopril.",Dolor crónico,"Ventolina, Lisinopril"
+"El paciente informa la falta de aliento. Diagnosticado con anemia. Metoprolol prescrito, metformina.",Anemia,"Metoprolol, Metformina"
+"Los informes del paciente dolor de garganta, dolor en el pecho, falta de aliento. Diagnosticado con migraña, artritis. Ibuprofeno prescrito, metoprolol.","Migraña, Artritis","Ibuprofeno, Metoprolol"
+"Informes de pacientes dolor de garganta. Diagnosticado con asma. Aspirina prescrita, ciprofloxacina.",Asma,"Aspirina, Ciprofloxacina"
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con bronquitis, obesidad. Prescrita atorvastatina, lisinopril.","Bronquitis, Obesidad","Atorvastatina, Lisinopril"
+"El paciente informa dolor de espalda, mareos, fiebre. Diagnosticado con hipertensión. Metformina prescrita.",Hipertensión,Metformina
+"El paciente informa dolor de espalda. Diagnosticado con dolor crónico. Metformina prescrita, aspirina.",Dolor crónico,"Metformina, Aspirina"
+"El paciente informa fiebre, falta de aliento, mareos. Diagnosticado con diabetes. Ventolin prescrito.",Diabetes,Ventolina
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con enfermedad cardíaca. Ventolin prescrito.",Cardiopatía,Ventolina
+"El paciente informa dolor de espalda, dolor en el pecho. Diagnosticado con diabetes. Metformina prescrita, ciprofloxacina.",Diabetes,"Metformina, Ciprofloxacina"
+"El paciente informa dolor de cabeza, náuseas, falta de aliento. Diagnosticado con bronquitis, artritis. Metoprolol prescrito, amoxicilina.","Bronquitis, Artritis","Metoprolol, Amoxicilina"
+"Paciente informa tos, dolor de cabeza, mareos. Diagnosticado con hipertensión, dolor crónico. Prescrita de amoxicilina, ventolina.","Hipertensión, Dolor crónico","Amoxicilina, Ventolina"
+"El paciente informa dolor de cabeza, dolor de garganta, tos. Diagnosticado con dolor crónico. Prescrita amoxicilina, aspirina.",Dolor crónico,"Amoxicilina, Aspirina"
+"El paciente informa dolor de cabeza, náuseas. Diagnosticado con hipertensión. Ventolin prescrito.",Hipertensión,Ventolina
+"El paciente informa fiebre, mareos, dolor de espalda. Diagnosticado con diabetes. Metoprolol prescrito, ibuprofeno.",Diabetes,"Metoprolol, Ibuprofeno"
+"El paciente informa tos, dolor de espalda. Diagnosticado con asma. Ibuprofeno prescrito, metformina.",Asma,"Ibuprofeno, Metformina"
+"Los informes del paciente dolor de garganta, mareos, dolor en el pecho. Diagnosticado con bronquitis, obesidad. Metformina prescrita, amoxicilina.","Bronquitis, Obesidad","Metformina, Amoxicilina"
+"Informes de pacientes dolor de garganta. Diagnosticado con diabetes. Metoprolol prescrito, metformina.",Diabetes,"Metoprolol, Metformina"
+"El paciente informa dolor en el pecho. Diagnosticado con dolor crónico. Amoxicilina prescrita, ciprofloxacina.",Dolor crónico,"Amoxicilina, Ciprofloxacina"
+Tos de los informes del paciente. Diagnosticado con dolor crónico. Ciprofloxacina prescrita.,Dolor crónico,Ciprofloxacina
+"El paciente informa las náuseas. Diagnosticado con bronquitis, diabetes. Aspirina prescrita, paracetamol.","Bronquitis, Diabetes","Aspirina, Paracetamol"
+"El paciente informa dolor de cabeza, dolor en el pecho. Diagnosticado con dolor crónico. Paracetamol prescrito.",Dolor crónico,Paracetamol
+El paciente informa dolor de espalda. Diagnosticado con anemia. Paracetamol prescrito.,Anemia,Paracetamol
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con hipertensión. Ventolin prescrito.",Hipertensión,Ventolina
+"El paciente informa fatiga, dolor en el pecho. Diagnosticado con anemia. Amoxicilina prescrita, Lisinopril.",Anemia,"Amoxicilina, Lisinopril"
+"El paciente informa dolor de cabeza, tos, náuseas. Diagnosticado con enfermedad cardíaca, obesidad. Paracetamol prescrito, ventolin.","Cardiopatía, Obesidad","Paracetamol, Ventolina"
+"Tos de los informes del paciente. Diagnosticado con dolor crónico. Lisinopril prescrito, metformina.",Dolor crónico,"Lisinopril, Metformina"
+"Paciente informa fiebre. Diagnosticado con obesidad, bronquitis. Prescrita atorvastatina, aspirina.","Obesidad, Bronquitis","Atorvastatina, Aspirina"
+"El paciente informa fiebre, dolor en el pecho. Diagnosticado con enfermedad cardíaca. Ibuprofeno prescrito, metoprolol.",Cardiopatía,"Ibuprofeno, Metoprolol"
+"El paciente informa náuseas, fiebre, dolor de cabeza. Diagnosticado con diabetes, enfermedad cardíaca. Ibuprofeno prescrito, amoxicilina.","Diabetes, Cardiopatía","Ibuprofeno, Amoxicilina"
+"El paciente informa dolor de cabeza, fatiga, mareos. Diagnosticado con obesidad. Prescrita atorvastatina, paracetamol.",Obesidad,"Atorvastatina, Paracetamol"
+"El paciente informa dolor en el pecho, dolor de cabeza. Diagnosticado con bronquitis. Ventolin prescrito, metformina.",Bronquitis,"Ventolina, Metformina"
+"Paciente informa tos, mareos, fatiga. Diagnosticado con diabetes. Prescrita atorvastatina, aspirina.",Diabetes,"Atorvastatina, Aspirina"
+"Informes de pacientes dolor de garganta, dolor de cabeza. Diagnosticado con migraña, diabetes. Prescrito lisinopril, ventolin.","Migraña, Diabetes","Lisinopril, Ventolina"
+"El paciente informa dolor de cabeza, dolor de espalda. Diagnosticado con obesidad. Prescrita de amoxicilina.",Obesidad,Amoxicilina
+"El paciente informa náuseas, mareos. Diagnosticado con diabetes. Paracetamol prescrito.",Diabetes,Paracetamol
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con dolor crónico, anemia. Ventolin prescrito, Lisinopril.","Dolor crónico, Anemia","Ventolina, Lisinopril"
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con enfermedad cardíaca. Metformina prescrita.",Cardiopatía,Metformina
+"El paciente informa dolor de cabeza, dolor en el pecho. Diagnosticado con dolor crónico. Metformina prescrita.",Dolor crónico,Metformina
+"El paciente informa la falta de aliento, la fiebre. Diagnosticado con asma. Prescrita de amoxicilina.",Asma,Amoxicilina
+"El paciente informa mareos, dolor de cabeza, tos. Diagnosticado con migraña, hipertensión. Metoprolol prescrito.","Migraña, Hipertensión",Metoprolol
+"El paciente informa falta de aliento, dolor de espalda, fiebre. Diagnosticado con bronquitis, diabetes. Ibuprofeno prescrito.","Bronquitis, Diabetes",Ibuprofeno
+"Tos de los informes del paciente. Diagnosticado con bronquitis, hipertensión. Paracetamol prescrito, aspirina.","Bronquitis, Hipertensión","Paracetamol, Aspirina"
+"El paciente informa fatiga, náuseas. Diagnosticado con hipertensión. Prescrita de amoxicilina.",Hipertensión,Amoxicilina
+"El paciente informa dolor de espalda, dolor de garganta. Diagnosticado con bronquitis. Metformina prescrita, ibuprofeno.",Bronquitis,"Metformina, Ibuprofeno"
+"El paciente informa dolor en el pecho, fiebre, mareos. Diagnosticado con enfermedad cardíaca. Prescrita atorvastatina.",Cardiopatía,Atorvastatina
+"El paciente informa fatiga, dolor de espalda. Diagnosticado con artritis, obesidad. Aspirina prescrita, atorvastatina.","Artritis, Obesidad","Aspirina, Atorvastatina"
+"El paciente informa dolor en el pecho, fiebre, fatiga. Diagnosticado con asma, diabetes. Paracetamol prescrito.","Asma, Diabetes",Paracetamol
+Paciente informa fiebre. Diagnosticado con dolor crónico. Prescrita atorvastatina.,Dolor crónico,Atorvastatina
+"El paciente informa dolor de espalda, fatiga, dolor de cabeza. Diagnosticado con asma. Metformina prescrita.",Asma,Metformina
+"El paciente informa las náuseas. Diagnosticado con anemia. Paracetamol prescrito, Lisinopril.",Anemia,"Paracetamol, Lisinopril"
+"Paciente informa tos, fiebre, mareos. Diagnosticado con migraña. Metformina prescrita.",Migraña,Metformina
+"El paciente informa dolor de espalda, dolor de garganta. Diagnosticado con dolor crónico, obesidad. Metoprolol prescrito, ibuprofeno.","Dolor crónico, Obesidad","Metoprolol, Ibuprofeno"
+"El paciente informa mareos, dolor en el pecho. Diagnosticado con migraña. Atorvastatina prescrita, ciprofloxacina.",Migraña,"Atorvastatina, Ciprofloxacina"
+"Paciente informa fiebre, fatiga. Diagnosticado con hipertensión, enfermedad cardíaca. Ciprofloxacina prescrita, metoprolol.","Hipertensión, Cardiopatía","Ciprofloxacina, Metoprolol"
+"El paciente informa dolor de cabeza, fatiga, náuseas. Diagnosticado con migraña. Paracetamol prescrito, amoxicilina.",Migraña,"Paracetamol, Amoxicilina"
+"Paciente informa tos, dolor de garganta. Diagnosticado con migraña. Paracetamol prescrito, Lisinopril.",Migraña,"Paracetamol, Lisinopril"
+"El paciente informa dolor de cabeza, fatiga. Diagnosticado con obesidad, diabetes. Metformina prescrita, Lisinopril.","Obesidad, Diabetes","Metformina, Lisinopril"
+"Los informes del paciente dolor de garganta, dolor en el pecho, fiebre. Diagnosticado con hipertensión, diabetes. Lisinopril prescrito.","Hipertensión, Diabetes",Lisinopril
+"El paciente informa náuseas, fatiga, dolor de garganta. Diagnosticado con anemia, migraña. Lisinopril prescrito.","Anemia, Migraña",Lisinopril
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con dolor crónico. Metformina prescrita, paracetamol.",Dolor crónico,"Metformina, Paracetamol"
+El paciente informa la falta de aliento. Diagnosticado con bronquitis. Metformina prescrita.,Bronquitis,Metformina
+"El paciente informa fiebre, fatiga, dolor en el pecho. Diagnosticado con enfermedad cardíaca, diabetes. Ciprofloxacina prescrita.","Cardiopatía, Diabetes",Ciprofloxacina
+"El paciente informa náuseas, fiebre. Diagnosticado con migraña. Prescrito lisinopril, ibuprofeno.",Migraña,"Lisinopril, Ibuprofeno"
+"Paciente informa fiebre. Diagnosticado con artritis, bronquitis. Metformina prescrita, ciprofloxacina.","Artritis, Bronquitis","Metformina, Ciprofloxacina"
+"Paciente informa fiebre, náuseas. Diagnosticado con anemia. Aspirina prescrita, ventolina.",Anemia,"Aspirina, Ventolina"
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con asma. Ciprofloxacina prescrita.",Asma,Ciprofloxacina
+"El paciente informa dolor de cabeza. Diagnosticado con enfermedad cardíaca. Metoprolol prescrito, paracetamol.",Cardiopatía,"Metoprolol, Paracetamol"
+"El paciente informa tos, dolor de espalda, fiebre. Diagnosticado con obesidad. Ibuprofeno prescrito.",Obesidad,Ibuprofeno
+"El paciente informa las náuseas. Diagnosticado con diabetes, migraña. Paracetamol prescrito, amoxicilina.","Diabetes, Migraña","Paracetamol, Amoxicilina"
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con asma. Prescrita atorvastatina.",Asma,Atorvastatina
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión. Atorvastatina prescrita, ciprofloxacina.",Hipertensión,"Atorvastatina, Ciprofloxacina"
+"El paciente informa fatiga, falta de aliento, mareos. Diagnosticado con migraña, obesidad. Ventolin prescrito, paracetamol.","Migraña, Obesidad","Ventolina, Paracetamol"
+El paciente informa dolor de espalda. Diagnosticado con obesidad. Metformina prescrita.,Obesidad,Metformina
+"Paciente informa fiebre, tos, fatiga. Diagnosticado con anemia, bronquitis. Metformina prescrita, atorvastatina.","Anemia, Bronquitis","Metformina, Atorvastatina"
+"El paciente informa dolor de espalda, tos. Diagnosticado con artritis. Ciprofloxacina prescrita.",Artritis,Ciprofloxacina
+"El paciente informa fatiga, náuseas, dolor en el pecho. Diagnosticado con artritis, anemia. Ibuprofeno prescrito.","Artritis, Anemia",Ibuprofeno
+El paciente informa dolor de espalda. Diagnosticado con diabetes. Prescrita atorvastatina.,Diabetes,Atorvastatina
+"El paciente informa dolor de cabeza, dolor de espalda. Diagnosticado con asma. Lisinopril prescrito.",Asma,Lisinopril
+"Paciente informa fiebre. Diagnosticado con bronquitis, migraña. Ciprofloxacina prescrita.","Bronquitis, Migraña",Ciprofloxacina
+Paciente informa fiebre. Diagnosticado con migraña. Ibuprofeno prescrito.,Migraña,Ibuprofeno
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con artritis, diabetes. Amoxicilina prescrita, Lisinopril.","Artritis, Diabetes","Amoxicilina, Lisinopril"
+"El paciente informa dolor en el pecho, dolor de garganta. Diagnosticado con migraña. Ventolin prescrito, ibuprofeno.",Migraña,"Ventolina, Ibuprofeno"
+"Paciente informa tos, fatiga. Diagnosticado con dolor crónico, enfermedad cardíaca. Prescrita de amoxicilina.","Dolor crónico, Cardiopatía",Amoxicilina
+El paciente informa las náuseas. Diagnosticado con enfermedad cardíaca. Lisinopril prescrito.,Cardiopatía,Lisinopril
+"El paciente informa fatiga. Diagnosticado con migraña. Metoprolol prescrito, atorvastatina.",Migraña,"Metoprolol, Atorvastatina"
+"El paciente informa fatiga, dolor de garganta, dolor de cabeza. Diagnosticado con dolor crónico, hipertensión. Aspirina prescrita, ventolina.","Dolor crónico, Hipertensión","Aspirina, Ventolina"
+"Informes de pacientes dolor de garganta. Diagnosticado con migraña, bronquitis. Metformina prescrita, metoprolol.","Migraña, Bronquitis","Metformina, Metoprolol"
+"El paciente informa mareos, tos, falta de aliento. Diagnosticado con obesidad, diabetes. Paracetamol prescrito.","Obesidad, Diabetes",Paracetamol
+"El paciente informa fatiga, dolor de cabeza, dolor de espalda. Diagnosticado con asma, artritis. Lisinopril prescrito, ciprofloxacina.","Asma, Artritis","Lisinopril, Ciprofloxacina"
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión, anemia. Metformina prescrita.","Hipertensión, Anemia",Metformina
+"El paciente informa fatiga. Diagnosticado con asma, dolor crónico. Prescrita atorvastatina, ventolina.","Asma, Dolor crónico","Atorvastatina, Ventolina"
+"El paciente informa dolor de espalda, fiebre, dolor de cabeza. Diagnosticado con anemia, asma. Aspirina prescrita.","Anemia, Asma",Aspirina
+"Paciente informa fiebre. Diagnosticado con bronquitis. Ventolin prescrito, metformina.",Bronquitis,"Ventolina, Metformina"
+"Informes de pacientes dolor de garganta. Diagnosticado con enfermedad cardíaca, migraña. Ciprofloxacina prescrita, ventolina.","Cardiopatía, Migraña","Ciprofloxacina, Ventolina"
+"Paciente informa fiebre, tos. Diagnosticado con diabetes, anemia. Ventolina prescrita, aspirina.","Diabetes, Anemia","Ventolina, Aspirina"
+"El paciente informa dolor de cabeza, fatiga. Diagnosticado con enfermedad cardíaca. Metformina prescrita, ibuprofeno.",Cardiopatía,"Metformina, Ibuprofeno"
+"El paciente informa dolor de espalda, tos, fiebre. Diagnosticado con asma, obesidad. Ventolin prescrito, ibuprofeno.","Asma, Obesidad","Ventolina, Ibuprofeno"
+"Informes de pacientes dolor de garganta, tos. Diagnosticado con hipertensión, obesidad. Amoxicilina prescrita, atorvastatina.","Hipertensión, Obesidad","Amoxicilina, Atorvastatina"
+"El paciente informa fiebre, dolor en el pecho, dolor de espalda. Diagnosticado con hipertensión. Aspirina prescrita, ciprofloxacina.",Hipertensión,"Aspirina, Ciprofloxacina"
+"Tos de los informes del paciente. Diagnosticado con dolor crónico, asma. Aspirina prescrita.","Dolor crónico, Asma",Aspirina
+"El paciente informa fiebre, fatiga, falta de aliento. Diagnosticado con migraña, hipertensión. Prescrita de amoxicilina.","Migraña, Hipertensión",Amoxicilina
+"El paciente informa mareos, dolor en el pecho. Diagnosticado con dolor crónico. Prescrita atorvastatina.",Dolor crónico,Atorvastatina
+"El paciente informa dolor en el pecho, dolor de garganta. Diagnosticado con obesidad. Ventolin prescrito.",Obesidad,Ventolina
+"El paciente informa mareos, dolor de cabeza, falta de aliento. Diagnosticado con obesidad. Ciprofloxacina prescrita, aspirina.",Obesidad,"Ciprofloxacina, Aspirina"
+"El paciente informa mareos. Diagnosticado con anemia, asma. Aspirina prescrita, metoprolol.","Anemia, Asma","Aspirina, Metoprolol"
+"El paciente informa dolor de cabeza, falta de aliento, náuseas. Diagnosticado con migraña. Amoxicilina prescrita, metformina.",Migraña,"Amoxicilina, Metformina"
+"El paciente informa dolor de cabeza, fiebre, fatiga. Diagnosticado con enfermedad cardíaca. Atorvastatina prescrita, ciprofloxacina.",Cardiopatía,"Atorvastatina, Ciprofloxacina"
+"El paciente informa dolor en el pecho. Diagnosticado con obesidad, dolor crónico. Metformina prescrita, ciprofloxacina.","Obesidad, Dolor crónico","Metformina, Ciprofloxacina"
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión. Prescrito ibuprofeno, aspirina.",Hipertensión,"Ibuprofeno, Aspirina"
+"El paciente informa fiebre, dolor en el pecho, dolor de garganta. Diagnosticado con dolor crónico. Aspirina prescrita.",Dolor crónico,Aspirina
+"El paciente informa dolor de cabeza, fatiga, dolor de garganta. Diagnosticado con obesidad, dolor crónico. Metformina prescrita, atorvastatina.","Obesidad, Dolor crónico","Metformina, Atorvastatina"
+"Paciente informa tos, fiebre. Diagnosticado con bronquitis, obesidad. Ventolin prescrito, amoxicilina.","Bronquitis, Obesidad","Ventolina, Amoxicilina"
+El paciente informa la falta de aliento. Diagnosticado con artritis. Ciprofloxacina prescrita.,Artritis,Ciprofloxacina
+"El paciente informa que la falta de aliento, mareos, fiebre. Diagnosticado con anemia, dolor crónico. Ibuprofeno prescrito, metoprolol.","Anemia, Dolor crónico","Ibuprofeno, Metoprolol"
+"El paciente informa dolor de cabeza, náuseas. Diagnosticado con asma. Ibuprofeno prescrito, paracetamol.",Asma,"Ibuprofeno, Paracetamol"
+"El paciente informa dolor en el pecho, fiebre, dolor de garganta. Diagnosticado con bronquitis, migraña. Ibuprofeno prescrito, metformina.","Bronquitis, Migraña","Ibuprofeno, Metformina"
+"Los informes del paciente dolor de garganta, dolor de espalda. Diagnosticado con hipertensión. Aspirina prescrita, paracetamol.",Hipertensión,"Aspirina, Paracetamol"
+"El paciente informa fatiga. Diagnosticado con obesidad, anemia. Metoprolol prescrito.","Obesidad, Anemia",Metoprolol
+"El paciente informa mareos, dolor en el pecho. Diagnosticado con dolor crónico. Metoprolol prescrito.",Dolor crónico,Metoprolol
+"El paciente informa mareos, fatiga, dolor en el pecho. Diagnosticado con obesidad. Ibuprofeno prescrito.",Obesidad,Ibuprofeno
+"El paciente informa falta de aliento, dolor en el pecho. Diagnosticado con asma, dolor crónico. Ibuprofeno prescrito.","Asma, Dolor crónico",Ibuprofeno
+"El paciente informa dolor en el pecho, tos, dolor de garganta. Diagnosticado con dolor crónico, asma. Metformina prescrita.","Dolor crónico, Asma",Metformina
+"El paciente informa dolor en el pecho. Diagnosticado con artritis, asma. Metoprolol prescrito, aspirina.","Artritis, Asma","Metoprolol, Aspirina"
+El paciente informa mareos. Diagnosticado con dolor crónico. Prescrita atorvastatina.,Dolor crónico,Atorvastatina
+"El paciente informa falta de aliento, dolor de espalda, tos. Diagnosticado con dolor crónico, enfermedad cardíaca. Metformina prescrita, ciprofloxacina.","Dolor crónico, Cardiopatía","Metformina, Ciprofloxacina"
+El paciente informa mareos. Diagnosticado con bronquitis. Lisinopril prescrito.,Bronquitis,Lisinopril
+"Paciente informa tos, dolor de cabeza, fiebre. Diagnosticado con bronquitis. Metformina prescrita.",Bronquitis,Metformina
+"El paciente informa fiebre, dolor de garganta, falta de aliento. Diagnosticado con obesidad, enfermedad cardíaca. Prescrita atorvastatina.","Obesidad, Cardiopatía",Atorvastatina
+"Informes de pacientes dolor de garganta, dolor de cabeza, mareos. Diagnosticado con hipertensión. Atorvastatina prescrita, ciprofloxacina.",Hipertensión,"Atorvastatina, Ciprofloxacina"
+"El paciente informa fiebre, dolor de garganta, fatiga. Diagnosticado con obesidad, dolor crónico. Amoxicilina prescrita, atorvastatina.","Obesidad, Dolor crónico","Amoxicilina, Atorvastatina"
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con bronquitis, asma. Paracetamol prescrito, atorvastatina.","Bronquitis, Asma","Paracetamol, Atorvastatina"
+"El paciente informa mareos, tos. Diagnosticado con diabetes, anemia. Prescrita de amoxicilina.","Diabetes, Anemia",Amoxicilina
+El paciente informa las náuseas. Diagnosticado con artritis. Metformina prescrita.,Artritis,Metformina
+"El paciente informa la falta de aliento. Diagnosticado con asma. Paracetamol prescrito, metoprolol.",Asma,"Paracetamol, Metoprolol"
+"Paciente informa fiebre. Diagnosticado con obesidad, bronquitis. Metoprolol prescrito, atorvastatina.","Obesidad, Bronquitis","Metoprolol, Atorvastatina"
+"El paciente informa náuseas, fatiga. Diagnosticado con anemia. Metformina prescrita.",Anemia,Metformina
+"El paciente informa mareos, fiebre, dolor de garganta. Diagnosticado con migraña. Amoxicilina prescrita, ciprofloxacina.",Migraña,"Amoxicilina, Ciprofloxacina"
+"El paciente informa náuseas, fiebre. Diagnosticado con diabetes. Aspirina prescrita.",Diabetes,Aspirina
+"El paciente informa tos, fatiga, dolor de espalda. Diagnosticado con anemia, hipertensión. Aspirina prescrita.","Anemia, Hipertensión",Aspirina
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con asma, artritis. Aspirina prescrita.","Asma, Artritis",Aspirina
+"El paciente informa las náuseas. Diagnosticado con asma, obesidad. Metformina prescrita.","Asma, Obesidad",Metformina
+El paciente informa la falta de aliento. Diagnosticado con obesidad. Prescrita atorvastatina.,Obesidad,Atorvastatina
+"El paciente informa la falta de aliento, el dolor de cabeza. Diagnosticado con artritis, diabetes. Prescrita de amoxicilina.","Artritis, Diabetes",Amoxicilina
+"El paciente informa fatiga, dolor de espalda, falta de aliento. Diagnosticado con dolor crónico. Ibuprofeno prescrito.",Dolor crónico,Ibuprofeno
+"El paciente informa fiebre, dolor en el pecho, dolor de espalda. Diagnosticado con asma. Prescrita de amoxicilina.",Asma,Amoxicilina
+"El paciente informa dolor de cabeza, dolor en el pecho. Diagnosticado con obesidad, asma. Prescrito lisinopril, aspirina.","Obesidad, Asma","Lisinopril, Aspirina"
+"El paciente informa mareos, dolor en el pecho, fiebre. Diagnosticado con dolor crónico. Metoprolol prescrito, atorvastatina.",Dolor crónico,"Metoprolol, Atorvastatina"
+Tos de los informes del paciente. Diagnosticado con obesidad. Prescrita de amoxicilina.,Obesidad,Amoxicilina
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con obesidad, hipertensión. Ciprofloxacina prescrita, Lisinopril.","Obesidad, Hipertensión","Ciprofloxacina, Lisinopril"
+"El paciente informa dolor en el pecho. Diagnosticado con artritis, diabetes. Prescrita atorvastatina, aspirina.","Artritis, Diabetes","Atorvastatina, Aspirina"
+"El paciente informa la falta de aliento. Diagnosticado con hipertensión, asma. Prescrita atorvastatina.","Hipertensión, Asma",Atorvastatina
+"El paciente informa dolor en el pecho, dolor de espalda. Diagnosticado con artritis. Metformina prescrita, ciprofloxacina.",Artritis,"Metformina, Ciprofloxacina"
+"El paciente informa dolor de espalda. Diagnosticado con diabetes. Atorvastatina prescrita, metformina.",Diabetes,"Atorvastatina, Metformina"
+"El paciente informa dolor de espalda, tos. Diagnosticado con diabetes. Lisinopril prescrito.",Diabetes,Lisinopril
+"Informes de pacientes dolor de garganta, mareos. Diagnosticado con bronquitis, hipertensión. Ciprofloxacina prescrita, ibuprofeno.","Bronquitis, Hipertensión","Ciprofloxacina, Ibuprofeno"
+"El paciente informa mareos, fiebre. Diagnosticado con artritis. Paracetamol prescrito.",Artritis,Paracetamol
+"El paciente informa náuseas, falta de aliento, tos. Diagnosticado con asma, bronquitis. Aspirina prescrita, ibuprofeno.","Asma, Bronquitis","Aspirina, Ibuprofeno"
+"El paciente informa la tos, la falta de aliento. Diagnosticado con diabetes, enfermedad cardíaca. Ventolin prescrito.","Diabetes, Cardiopatía",Ventolina
+"El paciente informa falta de aliento, dolor de espalda, fiebre. Diagnosticado con enfermedad cardíaca, obesidad. Aspirina prescrita, ciprofloxacina.","Cardiopatía, Obesidad","Aspirina, Ciprofloxacina"
+"El paciente informa náuseas, mareos. Diagnosticado con obesidad. Ibuprofeno prescrito, ciprofloxacina.",Obesidad,"Ibuprofeno, Ciprofloxacina"
+"El paciente informa fiebre, mareos, náuseas. Diagnosticado con asma. Aspirina prescrita.",Asma,Aspirina
+"El paciente informa las náuseas. Diagnosticado con anemia, dolor crónico. Paracetamol prescrito, metformina.","Anemia, Dolor crónico","Paracetamol, Metformina"
+"El paciente informa dolor de cabeza, dolor de espalda. Diagnosticado con diabetes. Aspirina prescrita, amoxicilina.",Diabetes,"Aspirina, Amoxicilina"
+"El paciente informa la falta de aliento, el dolor de cabeza. Diagnosticado con enfermedad cardíaca. Metoprolol prescrito.",Cardiopatía,Metoprolol
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión, artritis. Ventolin prescrito.","Hipertensión, Artritis",Ventolina
+"El paciente informa dolor en el pecho, dolor de espalda, náuseas. Diagnosticado con artritis, dolor crónico. Metoprolol prescrito, aspirina.","Artritis, Dolor crónico","Metoprolol, Aspirina"
+"El paciente informa dolor de espalda. Diagnosticado con obesidad, migraña. Ventolin prescrito.","Obesidad, Migraña",Ventolina
+"El paciente informa dolor de espalda. Diagnosticado con migraña, asma. Aspirina prescrita, metoprolol.","Migraña, Asma","Aspirina, Metoprolol"
+"Tos de los informes del paciente. Diagnosticado con anemia, diabetes. Metoprolol prescrito, ventolina.","Anemia, Diabetes","Metoprolol, Ventolina"
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con diabetes, hipertensión. Ibuprofeno prescrito, metformina.","Diabetes, Hipertensión","Ibuprofeno, Metformina"
+"El paciente informa fatiga. Diagnosticado con enfermedad cardíaca, anemia. Lisinopril prescrito, metoprolol.","Cardiopatía, Anemia","Lisinopril, Metoprolol"
+"El paciente informa náuseas, fiebre, dolor en el pecho. Diagnosticado con anemia, obesidad. Prescrita atorvastatina.","Anemia, Obesidad",Atorvastatina
+"El paciente informa las náuseas. Diagnosticado con migraña, dolor crónico. Metformina prescrita.","Migraña, Dolor crónico",Metformina
+"El paciente informa dolor en el pecho, tos. Diagnosticado con obesidad. Ciprofloxacina prescrita, paracetamol.",Obesidad,"Ciprofloxacina, Paracetamol"
+"El paciente informa dolor de espalda. Diagnosticado con enfermedad cardíaca, artritis. Lisinopril prescrito.","Cardiopatía, Artritis",Lisinopril
+"El paciente informa las náuseas. Diagnosticado con migraña, bronquitis. Amoxicilina prescrita, metformina.","Migraña, Bronquitis","Amoxicilina, Metformina"
+"El paciente informa fatiga, náuseas. Diagnosticado con enfermedad cardíaca. Paracetamol prescrito.",Cardiopatía,Paracetamol
+"El paciente informa mareos. Diagnosticado con asma, artritis. Aspirina prescrita.","Asma, Artritis",Aspirina
+"El paciente informa tos, mareos, dolor en el pecho. Diagnosticado con anemia. Metformina prescrita.",Anemia,Metformina
+"El paciente informa náuseas, dolor de garganta, dolor en el pecho. Diagnosticado con enfermedad cardíaca, dolor crónico. Lisinopril prescrito, atorvastatina.","Cardiopatía, Dolor crónico","Lisinopril, Atorvastatina"
+"El paciente informa fatiga. Diagnosticado con diabetes, obesidad. Ibuprofeno prescrito.","Diabetes, Obesidad",Ibuprofeno
+"El paciente informa dolor de espalda, tos. Diagnosticado con artritis, asma. Metformina prescrita, aspirina.","Artritis, Asma","Metformina, Aspirina"
+"El paciente informa las náuseas. Diagnosticado con anemia, artritis. Ventolin prescrito, atorvastatina.","Anemia, Artritis","Ventolina, Atorvastatina"
+"Paciente informa tos, fiebre, dolor de garganta. Diagnosticado con artritis, dolor crónico. Aspirina prescrita, ibuprofeno.","Artritis, Dolor crónico","Aspirina, Ibuprofeno"
+"El paciente informa dolor de cabeza. Diagnosticado con obesidad. Prescrita atorvastatina, aspirina.",Obesidad,"Atorvastatina, Aspirina"
+"Paciente informa fiebre, dolor de garganta, náuseas. Diagnosticado con bronquitis. Amoxicilina prescrita, ciprofloxacina.",Bronquitis,"Amoxicilina, Ciprofloxacina"
+"El paciente informa fatiga. Diagnosticado con hipertensión, migraña. Lisinopril prescrito.","Hipertensión, Migraña",Lisinopril
+Paciente informa fiebre. Diagnosticado con anemia. Metformina prescrita.,Anemia,Metformina
+"El paciente informa fatiga, mareos. Diagnosticado con migraña. Metoprolol prescrito.",Migraña,Metoprolol
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con bronquitis, migraña. Ciprofloxacina prescrita.","Bronquitis, Migraña",Ciprofloxacina
+"Paciente informa fiebre. Diagnosticado con anemia. Prescrita de amoxicilina, ventolina.",Anemia,"Amoxicilina, Ventolina"
+"Paciente informa fiebre. Diagnosticado con artritis. Metformina prescrita, ventolina.",Artritis,"Metformina, Ventolina"
+"El paciente informa dolor de cabeza. Diagnosticado con artritis, diabetes. Ibuprofeno prescrito.","Artritis, Diabetes",Ibuprofeno
+"El paciente informa las náuseas. Diagnosticado con enfermedad cardíaca. Prescrita amoxicilina, aspirina.",Cardiopatía,"Amoxicilina, Aspirina"
+"El paciente informa mareos. Diagnosticado con artritis, migraña. Prescrita de amoxicilina, paracetamol.","Artritis, Migraña","Amoxicilina, Paracetamol"
+"El paciente informa mareos, fiebre. Diagnosticado con artritis. Paracetamol prescrito, ibuprofeno.",Artritis,"Paracetamol, Ibuprofeno"
+"El paciente informa dolor en el pecho, fiebre. Diagnosticado con artritis, asma. Atorvastatina prescrita, ciprofloxacina.","Artritis, Asma","Atorvastatina, Ciprofloxacina"
+"El paciente informa dolor en el pecho. Diagnosticado con diabetes, artritis. Prescrita de amoxicilina.","Diabetes, Artritis",Amoxicilina
+"Paciente informa fiebre. Diagnosticado con bronquitis. Metoprolol prescrito, metformina.",Bronquitis,"Metoprolol, Metformina"
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con obesidad. Lisinopril prescrito.",Obesidad,Lisinopril
+"El paciente informa dolor en el pecho, dolor de cabeza, mareos. Diagnosticado con artritis, hipertensión. Metformina prescrita.","Artritis, Hipertensión",Metformina
+"El paciente informa la falta de aliento, el dolor de cabeza, el dolor de garganta. Diagnosticado con enfermedad cardíaca. Ibuprofeno prescrito, metoprolol.",Cardiopatía,"Ibuprofeno, Metoprolol"
+"El paciente informa la falta de aliento, las náuseas, la tos. Diagnosticado con enfermedad cardíaca, asma. Ventolin prescrito.","Cardiopatía, Asma",Ventolina
+"El paciente informa fiebre, falta de aliento, dolor en el pecho. Diagnosticado con anemia, bronquitis. Ventolin prescrito, atorvastatina.","Anemia, Bronquitis","Ventolina, Atorvastatina"
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión. Paracetamol prescrito, amoxicilina.",Hipertensión,"Paracetamol, Amoxicilina"
+"El paciente informa fiebre, mareos, dolor de espalda. Diagnosticado con artritis, obesidad. Metoprolol prescrito.","Artritis, Obesidad",Metoprolol
+El paciente informa dolor de espalda. Diagnosticado con diabetes. Ventolin prescrito.,Diabetes,Ventolina
+"Paciente informa fiebre, fatiga. Diagnosticado con bronquitis. Paracetamol prescrito.",Bronquitis,Paracetamol
+"Tos de los informes del paciente. Diagnosticado con obesidad. Ciprofloxacina prescrita, metoprolol.",Obesidad,"Ciprofloxacina, Metoprolol"
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con hipertensión, obesidad. Ventolin prescrito, paracetamol.","Hipertensión, Obesidad","Ventolina, Paracetamol"
+"Paciente informa tos, fatiga. Diagnosticado con bronquitis, asma. Prescrita atorvastatina, aspirina.","Bronquitis, Asma","Atorvastatina, Aspirina"
+"El paciente informa mareos. Diagnosticado con hipertensión, asma. Metoprolol prescrito, paracetamol.","Hipertensión, Asma","Metoprolol, Paracetamol"
+"Los informes del paciente dolor de garganta, náuseas, dolor de espalda. Diagnosticado con dolor crónico, hipertensión. Ciprofloxacina prescrita.","Dolor crónico, Hipertensión",Ciprofloxacina
+"El paciente informa fatiga, mareos, dolor en el pecho. Diagnosticado con hipertensión, dolor crónico. Ciprofloxacina prescrita, metformina.","Hipertensión, Dolor crónico","Ciprofloxacina, Metformina"
+Informes de pacientes dolor de garganta. Diagnosticado con diabetes. Metoprolol prescrito.,Diabetes,Metoprolol
+Paciente informa fiebre. Diagnosticado con asma. Aspirina prescrita.,Asma,Aspirina
+"El paciente informa dolor en el pecho, dolor de espalda. Diagnosticado con enfermedad cardíaca. Metoprolol prescrito.",Cardiopatía,Metoprolol
+"El paciente informa dolor en el pecho, dolor de cabeza. Diagnosticado con obesidad, enfermedad cardíaca. Metformina prescrita.","Obesidad, Cardiopatía",Metformina
+"El paciente informa la falta de aliento. Diagnosticado con asma, artritis. Prescrito lisinopril, ventolin.","Asma, Artritis","Lisinopril, Ventolina"
+"El paciente informa fatiga. Diagnosticado con asma. Paracetamol prescrito, atorvastatina.",Asma,"Paracetamol, Atorvastatina"
+"El paciente informa que la falta de aliento, tos. Diagnosticado con asma. Prescrita atorvastatina.",Asma,Atorvastatina
+"El paciente informa mareos, fatiga, dolor en el pecho. Diagnosticado con hipertensión. Aspirina prescrita, ventolina.",Hipertensión,"Aspirina, Ventolina"
+"El paciente informa mareos, dolor en el pecho, náuseas. Diagnosticado con dolor crónico, diabetes. Aspirina prescrita, metformina.","Dolor crónico, Diabetes","Aspirina, Metformina"
+"El paciente informa dolor de espalda, mareos, falta de aliento. Diagnosticado con dolor crónico. Ciprofloxacina prescrita, Lisinopril.",Dolor crónico,"Ciprofloxacina, Lisinopril"
+"El paciente informa fatiga, mareos. Diagnosticado con dolor crónico. Ibuprofeno prescrito.",Dolor crónico,Ibuprofeno
+"El paciente informa las náuseas. Diagnosticado con bronquitis, obesidad. Lisinopril prescrito.","Bronquitis, Obesidad",Lisinopril
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con bronquitis, artritis. Ciprofloxacina prescrita, Lisinopril.","Bronquitis, Artritis","Ciprofloxacina, Lisinopril"
+El paciente informa las náuseas. Diagnosticado con asma. Lisinopril prescrito.,Asma,Lisinopril
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con asma, migraña. Aspirina prescrita, metformina.","Asma, Migraña","Aspirina, Metformina"
+"Informes de pacientes dolor de garganta. Diagnosticado con enfermedad cardíaca, migraña. Ibuprofeno prescrito.","Cardiopatía, Migraña",Ibuprofeno
+"El paciente informa fiebre, dolor en el pecho, dolor de cabeza. Diagnosticado con migraña, dolor crónico. Metformina prescrita.","Migraña, Dolor crónico",Metformina
+"El paciente informa fatiga. Diagnosticado con diabetes, migraña. Prescrito lisinopril, paracetamol.","Diabetes, Migraña","Lisinopril, Paracetamol"
+"El paciente informa la falta de aliento. Diagnosticado con enfermedad cardíaca, diabetes. Metoprolol prescrito.","Cardiopatía, Diabetes",Metoprolol
+"El paciente informa mareos, fatiga, dolor en el pecho. Diagnosticado con bronquitis, migraña. Metformina prescrita, amoxicilina.","Bronquitis, Migraña","Metformina, Amoxicilina"
+El paciente informa dolor de cabeza. Diagnosticado con bronquitis. Ibuprofeno prescrito.,Bronquitis,Ibuprofeno
+"Los informes del paciente dolor de garganta, dolor en el pecho. Diagnosticado con diabetes. Paracetamol prescrito.",Diabetes,Paracetamol
+"El paciente informa dolor de cabeza, mareos. Diagnosticado con bronquitis. Lisinopril prescrito.",Bronquitis,Lisinopril
+"El paciente informa fatiga, dolor de garganta, mareos. Diagnosticado con hipertensión. Ibuprofeno prescrito, metoprolol.",Hipertensión,"Ibuprofeno, Metoprolol"
+"El paciente informa fatiga, tos, dolor en el pecho. Diagnosticado con artritis, migraña. Atorvastatina prescrita, ciprofloxacina.","Artritis, Migraña","Atorvastatina, Ciprofloxacina"
+"El paciente informa fatiga, mareos. Diagnosticado con hipertensión. Lisinopril prescrito.",Hipertensión,Lisinopril
+"El paciente informa dolor en el pecho. Diagnosticado con bronquitis. Lisinopril prescrito, amoxicilina.",Bronquitis,"Lisinopril, Amoxicilina"
+"El paciente informa fatiga, mareos. Diagnosticado con anemia. Paracetamol prescrito.",Anemia,Paracetamol
+"Los informes del paciente dolor de garganta, dolor en el pecho, dolor de espalda. Diagnosticado con obesidad. Lisinopril prescrito.",Obesidad,Lisinopril
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con diabetes, enfermedad cardíaca. Prescrita de amoxicilina.","Diabetes, Cardiopatía",Amoxicilina
+"El paciente informa dolor de cabeza. Diagnosticado con dolor crónico, asma. Ciprofloxacina prescrita.","Dolor crónico, Asma",Ciprofloxacina
+"El paciente informa dolor de cabeza. Diagnosticado con obesidad. Ventolina prescrita, ciprofloxacina.",Obesidad,"Ventolina, Ciprofloxacina"
+El paciente informa dolor de cabeza. Diagnosticado con anemia. Metoprolol prescrito.,Anemia,Metoprolol
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con enfermedad cardíaca. Ventolin prescrito.",Cardiopatía,Ventolina
+"El paciente informa náuseas, dolor en el pecho, dolor de garganta. Diagnosticado con asma, artritis. Paracetamol prescrito.","Asma, Artritis",Paracetamol
+"El paciente informa dolor de espalda, tos. Diagnosticado con enfermedad cardíaca. Paracetamol prescrito.",Cardiopatía,Paracetamol
+"El paciente informa la falta de aliento. Diagnosticado con bronquitis. Ventolin prescrito, metformina.",Bronquitis,"Ventolina, Metformina"
+"Los informes del paciente dolor de garganta, fatiga, fiebre. Diagnosticado con diabetes. Paracetamol prescrito, metoprolol.",Diabetes,"Paracetamol, Metoprolol"
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con enfermedad cardíaca, artritis. Aspirina prescrita, atorvastatina.","Cardiopatía, Artritis","Aspirina, Atorvastatina"
+"El paciente informa dolor de espalda, dolor de garganta, dolor de cabeza. Diagnosticado con anemia. Metformina prescrita.",Anemia,Metformina
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con bronquitis, migraña. Ciprofloxacina prescrita.","Bronquitis, Migraña",Ciprofloxacina
+"El paciente informa dolor de cabeza, falta de aliento, fiebre. Diagnosticado con migraña, artritis. Prescrita de amoxicilina.","Migraña, Artritis",Amoxicilina
+"El paciente informa dolor de cabeza, fatiga, dolor de espalda. Diagnosticado con migraña, hipertensión. Prescrita de amoxicilina.","Migraña, Hipertensión",Amoxicilina
+"El paciente informa fatiga, falta de aliento. Diagnosticado con artritis. Aspirina prescrita, metoprolol.",Artritis,"Aspirina, Metoprolol"
+"El paciente informa dolor de espalda, dolor de cabeza, dolor de garganta. Diagnosticado con bronquitis. Metformina prescrita.",Bronquitis,Metformina
+"Pacientes informa dolor de garganta, fatiga, náuseas. Diagnosticado con diabetes. Ciprofloxacina prescrita.",Diabetes,Ciprofloxacina
+"El paciente informa mareos. Diagnosticado con bronquitis, hipertensión. Paracetamol prescrito.","Bronquitis, Hipertensión",Paracetamol
+"El paciente informa mareos, fiebre, tos. Diagnosticado con hipertensión, dolor crónico. Ventolin prescrito.","Hipertensión, Dolor crónico",Ventolina
+El paciente informa la falta de aliento. Diagnosticado con asma. Ibuprofeno prescrito.,Asma,Ibuprofeno
+"Informes de pacientes dolor de garganta, fatiga, tos. Diagnosticado con bronquitis. Paracetamol prescrito, amoxicilina.",Bronquitis,"Paracetamol, Amoxicilina"
+"El paciente informa dolor de espalda, mareos, dolor de garganta. Diagnosticado con migraña, obesidad. Metoprolol prescrito, atorvastatina.","Migraña, Obesidad","Metoprolol, Atorvastatina"
+"El paciente informa dolor en el pecho. Diagnosticado con dolor crónico, enfermedad cardíaca. Paracetamol prescrito.","Dolor crónico, Cardiopatía",Paracetamol
+"Informes de pacientes dolor de garganta, dolor de cabeza. Diagnosticado con enfermedad cardíaca. Lisinopril prescrito.",Cardiopatía,Lisinopril
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con bronquitis, enfermedad cardíaca. Amoxicilina prescrita, ciprofloxacina.","Bronquitis, Cardiopatía","Amoxicilina, Ciprofloxacina"
+"Paciente informa fiebre. Diagnosticado con artritis, enfermedad cardíaca. Lisinopril prescrito.","Artritis, Cardiopatía",Lisinopril
+"El paciente informa las náuseas. Diagnosticado con asma, obesidad. Lisinopril prescrito.","Asma, Obesidad",Lisinopril
+"Informes de pacientes dolor de garganta. Diagnosticado con artritis, hipertensión. Metoprolol prescrito.","Artritis, Hipertensión",Metoprolol
+"El paciente informa fatiga. Diagnosticado con hipertensión, enfermedad cardíaca. Amoxicilina prescrita, atorvastatina.","Hipertensión, Cardiopatía","Amoxicilina, Atorvastatina"
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con migraña. Prescrita de amoxicilina.",Migraña,Amoxicilina
+"El paciente informa dolor de cabeza, tos, mareos. Diagnosticado con enfermedad cardíaca, asma. Paracetamol prescrito, ciprofloxacina.","Cardiopatía, Asma","Paracetamol, Ciprofloxacina"
+"El paciente informa mareos, fiebre, tos. Diagnosticado con obesidad, anemia. Prescrita de amoxicilina.","Obesidad, Anemia",Amoxicilina
+"El paciente informa náuseas, tos, fatiga. Diagnosticado con artritis. Ventolin prescrito.",Artritis,Ventolina
+"Paciente informa fiebre. Diagnosticado con enfermedad cardíaca, artritis. Ibuprofeno prescrito.","Cardiopatía, Artritis",Ibuprofeno
+"El paciente informa falta de aliento, dolor en el pecho, náuseas. Diagnosticado con enfermedad cardíaca, migraña. Lisinopril prescrito.","Cardiopatía, Migraña",Lisinopril
+"Informes de pacientes dolor de garganta. Diagnosticado con enfermedad cardíaca, bronquitis. Ciprofloxacina prescrita.","Cardiopatía, Bronquitis",Ciprofloxacina
+"El paciente informa dolor en el pecho, náuseas, falta de aliento. Diagnosticado con dolor crónico. Ciprofloxacina prescrita, paracetamol.",Dolor crónico,"Ciprofloxacina, Paracetamol"
+"El paciente informa náuseas, dolor de cabeza. Diagnosticado con artritis. Prescrito lisinopril, aspirina.",Artritis,"Lisinopril, Aspirina"
+"El paciente informa fatiga, dolor de garganta, tos. Diagnosticado con obesidad. Metformina prescrita.",Obesidad,Metformina
+"El paciente informa la falta de aliento, las náuseas, la fatiga. Diagnosticado con diabetes. Ibuprofeno prescrito, metoprolol.",Diabetes,"Ibuprofeno, Metoprolol"
+"El paciente informa tos, dolor en el pecho. Diagnosticado con enfermedad cardíaca. Metoprolol prescrito, aspirina.",Cardiopatía,"Metoprolol, Aspirina"
+"El paciente informa fatiga, náuseas. Diagnosticado con obesidad, anemia. Metformina prescrita, ibuprofeno.","Obesidad, Anemia","Metformina, Ibuprofeno"
+"Paciente informa tos, dolor de garganta. Diagnosticado con dolor crónico. Lisinopril prescrito.",Dolor crónico,Lisinopril
+"El paciente informa mareos, dolor de garganta. Diagnosticado con bronquitis. Metformina prescrita.",Bronquitis,Metformina
+"Los informes del paciente dolor de garganta, dolor de cabeza, dolor en el pecho. Diagnosticado con artritis. Ibuprofeno prescrito, atorvastatina.",Artritis,"Ibuprofeno, Atorvastatina"
+"El paciente informa dolor de espalda, náuseas. Diagnosticado con bronquitis. Metoprolol prescrito.",Bronquitis,Metoprolol
+"Paciente informa fiebre. Diagnosticado con bronquitis, hipertensión. Ibuprofeno prescrito, amoxicilina.","Bronquitis, Hipertensión","Ibuprofeno, Amoxicilina"
+"Informes de pacientes dolor de garganta, tos. Diagnosticado con obesidad. Prescrita de amoxicilina.",Obesidad,Amoxicilina
+Informes de pacientes dolor de garganta. Diagnosticado con dolor crónico. Lisinopril prescrito.,Dolor crónico,Lisinopril
+"Tos de los informes del paciente. Diagnosticado con dolor crónico, migraña. Prescrita atorvastatina.","Dolor crónico, Migraña",Atorvastatina
+"El paciente informa dolor de cabeza, dolor de garganta. Diagnosticado con bronquitis, diabetes. Metoprolol prescrito.","Bronquitis, Diabetes",Metoprolol
+"El paciente informa la falta de aliento, la fiebre, las náuseas. Diagnosticado con enfermedad cardíaca, obesidad. Metoprolol prescrito, atorvastatina.","Cardiopatía, Obesidad","Metoprolol, Atorvastatina"
+Informes de pacientes dolor de garganta. Diagnosticado con hipertensión. Ciprofloxacina prescrita.,Hipertensión,Ciprofloxacina
+"El paciente informa dolor en el pecho, dolor de espalda, tos. Diagnosticado con artritis, enfermedad cardíaca. Amoxicilina prescrita, atorvastatina.","Artritis, Cardiopatía","Amoxicilina, Atorvastatina"
+Informes de pacientes dolor de garganta. Diagnosticado con diabetes. Aspirina prescrita.,Diabetes,Aspirina
+"El paciente informa dolor en el pecho, dolor de cabeza. Diagnosticado con asma. Paracetamol prescrito, ibuprofeno.",Asma,"Paracetamol, Ibuprofeno"
+"El paciente informa dolor de espalda, náuseas, dolor en el pecho. Diagnosticado con hipertensión. Ciprofloxacina prescrita.",Hipertensión,Ciprofloxacina
+"El paciente informa dolor en el pecho, fiebre, náuseas. Diagnosticado con obesidad. Ventolin prescrito, Lisinopril.",Obesidad,"Ventolina, Lisinopril"
+"El paciente informa la falta de aliento, el dolor de cabeza, la fatiga. Diagnosticado con anemia, hipertensión. Metformina prescrita, paracetamol.","Anemia, Hipertensión","Metformina, Paracetamol"
+"El paciente informa las náuseas. Diagnosticado con dolor crónico, asma. Ibuprofeno prescrito.","Dolor crónico, Asma",Ibuprofeno
+"Informes de pacientes dolor de garganta, dolor de cabeza. Diagnosticado con artritis. Metoprolol prescrito, ciprofloxacina.",Artritis,"Metoprolol, Ciprofloxacina"
+"El paciente informa dolor de cabeza. Diagnosticado con enfermedad cardíaca, diabetes. Ibuprofeno prescrito.","Cardiopatía, Diabetes",Ibuprofeno
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión, artritis. Aspirina prescrita, atorvastatina.","Hipertensión, Artritis","Aspirina, Atorvastatina"
+"El paciente informa dolor de cabeza. Diagnosticado con dolor crónico, enfermedad cardíaca. Paracetamol prescrito.","Dolor crónico, Cardiopatía",Paracetamol
+El paciente informa mareos. Diagnosticado con artritis. Aspirina prescrita.,Artritis,Aspirina
+"El paciente informa tos, dolor de espalda. Diagnosticado con obesidad. Prescrita atorvastatina, amoxicilina.",Obesidad,"Atorvastatina, Amoxicilina"
+"El paciente informa la falta de aliento, náuseas. Diagnosticado con obesidad, diabetes. Prescrita atorvastatina.","Obesidad, Diabetes",Atorvastatina
+"El paciente informa fatiga. Diagnosticado con artritis. Ciprofloxacina prescrita, metformina.",Artritis,"Ciprofloxacina, Metformina"
+"El paciente informa dolor en el pecho, falta de aliento, fatiga. Diagnosticado con diabetes. Metoprolol prescrito, amoxicilina.",Diabetes,"Metoprolol, Amoxicilina"
+"El paciente informa dolor en el pecho, dolor de espalda. Diagnosticado con enfermedad cardíaca. Prescrita de amoxicilina.",Cardiopatía,Amoxicilina
+"El paciente informa dolor de cabeza. Diagnosticado con diabetes, hipertensión. Ibuprofeno prescrito, atorvastatina.","Diabetes, Hipertensión","Ibuprofeno, Atorvastatina"
+"El paciente informa dolor de espalda, náuseas. Diagnosticado con dolor crónico, artritis. Metformina prescrita, ciprofloxacina.","Dolor crónico, Artritis","Metformina, Ciprofloxacina"
+"Informes de pacientes dolor de garganta. Diagnosticado con migraña, dolor crónico. Prescrita atorvastatina.","Migraña, Dolor crónico",Atorvastatina
+"Tos de los informes del paciente. Diagnosticado con anemia. Metoprolol prescrito, ibuprofeno.",Anemia,"Metoprolol, Ibuprofeno"
+"El paciente informa dolor en el pecho, dolor de cabeza. Diagnosticado con asma, artritis. Paracetamol prescrito, amoxicilina.","Asma, Artritis","Paracetamol, Amoxicilina"
+"El paciente informa dolor en el pecho, fiebre. Diagnosticado con obesidad. Paracetamol prescrito, aspirina.",Obesidad,"Paracetamol, Aspirina"
+"El paciente informa la tos, la falta de aliento. Diagnosticado con obesidad, enfermedad cardíaca. Prescrito lisinopril, ibuprofeno.","Obesidad, Cardiopatía","Lisinopril, Ibuprofeno"
+"El paciente informa la falta de aliento, el dolor de garganta. Diagnosticado con migraña. Metoprolol prescrito, ciprofloxacina.",Migraña,"Metoprolol, Ciprofloxacina"
+"Paciente informa tos, fatiga. Diagnosticado con migraña, obesidad. Ibuprofeno prescrito, atorvastatina.","Migraña, Obesidad","Ibuprofeno, Atorvastatina"
+"El paciente informa las náuseas. Diagnosticado con anemia. Metformina prescrita, paracetamol.",Anemia,"Metformina, Paracetamol"
+"El paciente informa tos, dolor de espalda. Diagnosticado con diabetes. Aspirina prescrita, ibuprofeno.",Diabetes,"Aspirina, Ibuprofeno"
+"Pacientes informa dolor de garganta, dolor de cabeza, tos. Diagnosticado con asma, dolor crónico. Prescrito ibuprofeno, aspirina.","Asma, Dolor crónico","Ibuprofeno, Aspirina"
+"El paciente informa dolor de espalda, dolor en el pecho. Diagnosticado con obesidad. Lisinopril prescrito.",Obesidad,Lisinopril
+"Los informes del paciente dolor de garganta, dolor de cabeza, dolor de espalda. Diagnosticado con enfermedad cardíaca, asma. Metformina prescrita, paracetamol.","Cardiopatía, Asma","Metformina, Paracetamol"
+"El paciente informa mareos. Diagnosticado con anemia, migraña. Ciprofloxacina prescrita.","Anemia, Migraña",Ciprofloxacina
+"El paciente informa la falta de aliento, la fiebre. Diagnosticado con bronquitis, dolor crónico. Ibuprofeno prescrito.","Bronquitis, Dolor crónico",Ibuprofeno
+"El paciente informa dolor de cabeza. Diagnosticado con obesidad, bronquitis. Metformina prescrita, atorvastatina.","Obesidad, Bronquitis","Metformina, Atorvastatina"
+"El paciente informa tos, mareos, dificultad para respirar. Diagnosticado con bronquitis. Paracetamol prescrito, aspirina.",Bronquitis,"Paracetamol, Aspirina"
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con diabetes. Lisinopril prescrito, metoprolol.",Diabetes,"Lisinopril, Metoprolol"
+"Paciente informa tos, fatiga. Diagnosticado con asma, bronquitis. Prescrito lisinopril, ibuprofeno.","Asma, Bronquitis","Lisinopril, Ibuprofeno"
+"El paciente informa dolor de espalda, fatiga. Diagnosticado con dolor crónico, asma. Metoprolol prescrito.","Dolor crónico, Asma",Metoprolol
+"El paciente informa dolor de espalda, dolor de garganta, tos. Diagnosticado con hipertensión, diabetes. Ventolin prescrito.","Hipertensión, Diabetes",Ventolina
+"Paciente informa fiebre. Diagnosticado con obesidad, anemia. Metoprolol prescrito.","Obesidad, Anemia",Metoprolol
+"Informes de pacientes dolor de garganta, fiebre. Diagnosticado con diabetes, enfermedad cardíaca. Aspirina prescrita.","Diabetes, Cardiopatía",Aspirina
+"El paciente informa dolor de espalda. Diagnosticado con bronquitis, obesidad. Prescrita de amoxicilina, paracetamol.","Bronquitis, Obesidad","Amoxicilina, Paracetamol"
+"El paciente informa la falta de aliento, el dolor de garganta, la fiebre. Diagnosticado con obesidad, bronquitis. Lisinopril prescrito, amoxicilina.","Obesidad, Bronquitis","Lisinopril, Amoxicilina"
+"El paciente informa tos, fiebre, dolor de espalda. Diagnosticado con dolor crónico, hipertensión. Ibuprofeno prescrito, metoprolol.","Dolor crónico, Hipertensión","Ibuprofeno, Metoprolol"
+Paciente informa fiebre. Diagnosticado con obesidad. Prescrita atorvastatina.,Obesidad,Atorvastatina
+"El paciente informa la falta de aliento, la fiebre. Diagnosticado con anemia, dolor crónico. Metoprolol prescrito, Lisinopril.","Anemia, Dolor crónico","Metoprolol, Lisinopril"
+"El paciente informa dolor en el pecho, tos, mareos. Diagnosticado con dolor crónico, diabetes. Ibuprofeno prescrito, amoxicilina.","Dolor crónico, Diabetes","Ibuprofeno, Amoxicilina"
+"Informes de pacientes dolor de garganta, fiebre. Diagnosticado con migraña, enfermedad cardíaca. Aspirina prescrita.","Migraña, Cardiopatía",Aspirina
+"El paciente informa mareos, dolor de espalda, falta de aliento. Diagnosticado con dolor crónico. Lisinopril prescrito.",Dolor crónico,Lisinopril
+"El paciente informa dolor de espalda, mareos, fatiga. Diagnosticado con hipertensión, migraña. Aspirina prescrita.","Hipertensión, Migraña",Aspirina
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con diabetes, dolor crónico. Prescrita atorvastatina.","Diabetes, Dolor crónico",Atorvastatina
+"Paciente informa fiebre, fatiga. Diagnosticado con diabetes, dolor crónico. Ciprofloxacina prescrita, atorvastatina.","Diabetes, Dolor crónico","Ciprofloxacina, Atorvastatina"
+"Paciente informa fiebre, fatiga. Diagnosticado con enfermedad cardíaca, asma. Paracetamol prescrito, metoprolol.","Cardiopatía, Asma","Paracetamol, Metoprolol"
+"Paciente informa tos, dolor de cabeza, mareos. Diagnosticado con obesidad. Prescrita de amoxicilina, ibuprofeno.",Obesidad,"Amoxicilina, Ibuprofeno"
+"Paciente informa fiebre. Diagnosticado con migraña. Lisinopril prescrito, ciprofloxacina.",Migraña,"Lisinopril, Ciprofloxacina"
+"El paciente informa fatiga, fiebre. Diagnosticado con anemia, enfermedad cardíaca. Aspirina prescrita.","Anemia, Cardiopatía",Aspirina
+"El paciente informa fiebre, falta de aliento, dolor de cabeza. Diagnosticado con obesidad, anemia. Metoprolol prescrito, ventolina.","Obesidad, Anemia","Metoprolol, Ventolina"
+El paciente informa las náuseas. Diagnosticado con enfermedad cardíaca. Metformina prescrita.,Cardiopatía,Metformina
+"Paciente informa tos, dolor de cabeza. Diagnosticado con obesidad. Ibuprofeno prescrito.",Obesidad,Ibuprofeno
+"Tos de los informes del paciente. Diagnosticado con migraña. Ventolina prescrita, aspirina.",Migraña,"Ventolina, Aspirina"
+"El paciente informa dolor en el pecho, fiebre. Diagnosticado con hipertensión, migraña. Ibuprofeno prescrito.","Hipertensión, Migraña",Ibuprofeno
+"Paciente informa fiebre, náuseas, tos. Diagnosticado con dolor crónico. Ibuprofeno prescrito, metformina.",Dolor crónico,"Ibuprofeno, Metformina"
+"El paciente informa dolor en el pecho, falta de aliento. Diagnosticado con migraña. Aspirina prescrita, paracetamol.",Migraña,"Aspirina, Paracetamol"
+"Paciente informa tos, fiebre. Diagnosticado con obesidad. Paracetamol prescrito.",Obesidad,Paracetamol
+"Los informes del paciente dolor de garganta, dolor de espalda. Diagnosticado con bronquitis. Prescrita atorvastatina.",Bronquitis,Atorvastatina
+"El paciente informa fatiga, dolor de garganta. Diagnosticado con dolor crónico. Ibuprofeno prescrito.",Dolor crónico,Ibuprofeno
+"Paciente informa fiebre. Diagnosticado con bronquitis. Paracetamol prescrito, ibuprofeno.",Bronquitis,"Paracetamol, Ibuprofeno"
+"El paciente informa fatiga. Diagnosticado con bronquitis. Ventolin prescrito, atorvastatina.",Bronquitis,"Ventolina, Atorvastatina"
+"El paciente informa náuseas, dolor en el pecho. Diagnosticado con dolor crónico, anemia. Metformina prescrita.","Dolor crónico, Anemia",Metformina
+"El paciente informa las náuseas. Diagnosticado con enfermedad cardíaca, bronquitis. Ciprofloxacina prescrita.","Cardiopatía, Bronquitis",Ciprofloxacina
+"Informes de pacientes dolor de garganta. Diagnosticado con diabetes, anemia. Amoxicilina prescrita, Lisinopril.","Diabetes, Anemia","Amoxicilina, Lisinopril"
+"El paciente informa mareos, fatiga, dolor en el pecho. Diagnosticado con hipertensión. Metformina prescrita.",Hipertensión,Metformina
+"Paciente informa náuseas, tos. Diagnosticado con dolor crónico. Ciprofloxacina prescrita, atorvastatina.",Dolor crónico,"Ciprofloxacina, Atorvastatina"
+"Paciente informa tos, fatiga, dolor de garganta. Diagnosticado con dolor crónico, hipertensión. Aspirina prescrita, metoprolol.","Dolor crónico, Hipertensión","Aspirina, Metoprolol"
+"El paciente informa dolor en el pecho, fatiga. Diagnosticado con hipertensión. Prescrito ibuprofeno, aspirina.",Hipertensión,"Ibuprofeno, Aspirina"
+"El paciente informa las náuseas. Diagnosticado con hipertensión. Ventolin prescrito, amoxicilina.",Hipertensión,"Ventolina, Amoxicilina"
+"El paciente informa náuseas, dolor en el pecho, fiebre. Diagnosticado con diabetes, anemia. Metoprolol prescrito.","Diabetes, Anemia",Metoprolol
+El paciente informa fatiga. Diagnosticado con migraña. Ciprofloxacina prescrita.,Migraña,Ciprofloxacina
+"El paciente informa mareos. Diagnosticado con obesidad, dolor crónico. Lisinopril prescrito.","Obesidad, Dolor crónico",Lisinopril
+"El paciente informa la falta de aliento, el dolor de cabeza. Diagnosticado con diabetes. Ibuprofeno prescrito.",Diabetes,Ibuprofeno
+"El paciente informa mareos, dolor en el pecho, tos. Diagnosticado con migraña, hipertensión. Ibuprofeno prescrito, atorvastatina.","Migraña, Hipertensión","Ibuprofeno, Atorvastatina"
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con artritis, diabetes. Atorvastatina prescrita, metoprolol.","Artritis, Diabetes","Atorvastatina, Metoprolol"
+"El paciente informa fiebre, fatiga, dolor en el pecho. Diagnosticado con artritis. Ibuprofeno prescrito, paracetamol.",Artritis,"Ibuprofeno, Paracetamol"
+"Paciente informa fatiga, tos. Diagnosticado con enfermedad cardíaca. Metformina prescrita, amoxicilina.",Cardiopatía,"Metformina, Amoxicilina"
+"El paciente informa dolor de cabeza, falta de aliento, fiebre. Diagnosticado con hipertensión. Ibuprofeno prescrito.",Hipertensión,Ibuprofeno
+"El paciente informa la falta de aliento. Diagnosticado con diabetes. Paracetamol prescrito, Lisinopril.",Diabetes,"Paracetamol, Lisinopril"
+"Paciente informa fiebre. Diagnosticado con diabetes, anemia. Ibuprofeno prescrito.","Diabetes, Anemia",Ibuprofeno
+"El paciente informa dolor de espalda, náuseas, dolor en el pecho. Diagnosticado con asma, anemia. Prescrita atorvastatina, paracetamol.","Asma, Anemia","Atorvastatina, Paracetamol"
+"El paciente informa la falta de aliento, el dolor de garganta. Diagnosticado con hipertensión. Ibuprofeno prescrito.",Hipertensión,Ibuprofeno
+Tos de los informes del paciente. Diagnosticado con bronquitis. Metoprolol prescrito.,Bronquitis,Metoprolol
+El paciente informa mareos. Diagnosticado con hipertensión. Aspirina prescrita.,Hipertensión,Aspirina
+"El paciente informa dolor en el pecho. Diagnosticado con bronquitis. Aspirina prescrita, paracetamol.",Bronquitis,"Aspirina, Paracetamol"
+"Los informes del paciente dolor de garganta, dolor en el pecho, náuseas. Diagnosticado con enfermedad cardíaca. Prescrita de amoxicilina.",Cardiopatía,Amoxicilina
+"El paciente informa la tos, la falta de aliento, el dolor de cabeza. Diagnosticado con hipertensión, diabetes. Lisinopril prescrito.","Hipertensión, Diabetes",Lisinopril
+"El paciente informa fiebre, dolor de espalda. Diagnosticado con bronquitis. Prescrito ibuprofeno, aspirina.",Bronquitis,"Ibuprofeno, Aspirina"
+"El paciente informa la falta de aliento, el dolor de garganta. Diagnosticado con artritis, anemia. Amoxicilina prescrita, metoprolol.","Artritis, Anemia","Amoxicilina, Metoprolol"
+"El paciente informa fatiga, dolor de garganta. Diagnosticado con dolor crónico, artritis. Lisinopril prescrito, amoxicilina.","Dolor crónico, Artritis","Lisinopril, Amoxicilina"
+"El paciente informa dolor de cabeza, fiebre, fatiga. Diagnosticado con dolor crónico. Ibuprofeno prescrito, ventolin.",Dolor crónico,"Ibuprofeno, Ventolina"
+"El paciente informa dolor en el pecho. Diagnosticado con diabetes. Ciprofloxacina prescrita, paracetamol.",Diabetes,"Ciprofloxacina, Paracetamol"
+"El paciente informa dolor de espalda, fatiga, dolor de cabeza. Diagnosticado con asma. Ciprofloxacina prescrita.",Asma,Ciprofloxacina
+"El paciente informa dolor en el pecho, dolor de espalda, fiebre. Diagnosticado con asma, diabetes. Ciprofloxacina prescrita.","Asma, Diabetes",Ciprofloxacina
+"El paciente informa mareos, dolor en el pecho. Diagnosticado con artritis. Prescrita de amoxicilina.",Artritis,Amoxicilina
+"El paciente informa dolor de espalda, tos. Diagnosticado con bronquitis, anemia. Lisinopril prescrito, metformina.","Bronquitis, Anemia","Lisinopril, Metformina"
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con dolor crónico. Paracetamol prescrito, metformina.",Dolor crónico,"Paracetamol, Metformina"
+"El paciente informa dolor en el pecho. Diagnosticado con diabetes, migraña. Lisinopril prescrito, metformina.","Diabetes, Migraña","Lisinopril, Metformina"
+"El paciente informa dolor en el pecho, dolor de espalda, náuseas. Diagnosticado con bronquitis, obesidad. Atorvastatina prescrita, ciprofloxacina.","Bronquitis, Obesidad","Atorvastatina, Ciprofloxacina"
+"El paciente informa fatiga, mareos. Diagnosticado con asma, obesidad. Ibuprofeno prescrito, metoprolol.","Asma, Obesidad","Ibuprofeno, Metoprolol"
+"El paciente informa la falta de aliento. Diagnosticado con anemia, hipertensión. Metformina prescrita, ventolina.","Anemia, Hipertensión","Metformina, Ventolina"
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con diabetes, anemia. Ciprofloxacina prescrita.","Diabetes, Anemia",Ciprofloxacina
+"El paciente informa fiebre, dolor en el pecho, dolor de garganta. Diagnosticado con obesidad. Metoprolol prescrito.",Obesidad,Metoprolol
+"El paciente informa dolor de cabeza, fiebre. Diagnosticado con asma, migraña. Ibuprofeno prescrito.","Asma, Migraña",Ibuprofeno
+"El paciente informa la tos, la falta de aliento. Diagnosticado con hipertensión, migraña. Ibuprofeno prescrito, metformina.","Hipertensión, Migraña","Ibuprofeno, Metformina"
+"Informes de pacientes dolor de garganta, mareos. Diagnosticado con enfermedad cardíaca. Metformina prescrita.",Cardiopatía,Metformina
+"Los informes del paciente dolor de garganta, náuseas, dolor de espalda. Diagnosticado con diabetes. Ciprofloxacina prescrita, Lisinopril.",Diabetes,"Ciprofloxacina, Lisinopril"
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con obesidad, migraña. Metformina prescrita, ventolina.","Obesidad, Migraña","Metformina, Ventolina"
+"El paciente informa náuseas, tos, dolor en el pecho. Diagnosticado con asma, enfermedad cardíaca. Ciprofloxacina prescrita, ventolina.","Asma, Cardiopatía","Ciprofloxacina, Ventolina"
+"Tos de informes de pacientes, mareos. Diagnosticado con dolor crónico, anemia. Metoprolol prescrito, amoxicilina.","Dolor crónico, Anemia","Metoprolol, Amoxicilina"
+"El paciente informa mareos, dolor de cabeza. Diagnosticado con diabetes, migraña. Lisinopril prescrito.","Diabetes, Migraña",Lisinopril
+El paciente informa dolor de cabeza. Diagnosticado con migraña. Prescrita atorvastatina.,Migraña,Atorvastatina
+"El paciente informa náuseas, mareos, fatiga. Diagnosticado con migraña. Ciprofloxacina prescrita, ventolina.",Migraña,"Ciprofloxacina, Ventolina"
+"El paciente informa dolor de espalda. Diagnosticado con enfermedad cardíaca. Ventolin prescrito, Lisinopril.",Cardiopatía,"Ventolina, Lisinopril"
+"Informes de pacientes dolor de garganta, fiebre. Diagnosticado con diabetes, dolor crónico. Ciprofloxacina prescrita, metformina.","Diabetes, Dolor crónico","Ciprofloxacina, Metformina"
+"El paciente informa dolor en el pecho, fiebre, tos. Diagnosticado con bronquitis, artritis. Aspirina prescrita, metoprolol.","Bronquitis, Artritis","Aspirina, Metoprolol"
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con bronquitis, asma. Prescrita atorvastatina.","Bronquitis, Asma",Atorvastatina
+Tos de los informes del paciente. Diagnosticado con migraña. Lisinopril prescrito.,Migraña,Lisinopril
+"El paciente informa dolor de espalda. Diagnosticado con enfermedad cardíaca, bronquitis. Metoprolol prescrito, Lisinopril.","Cardiopatía, Bronquitis","Metoprolol, Lisinopril"
+"El paciente informa dolor de espalda, fatiga, dolor en el pecho. Diagnosticado con asma, migraña. Lisinopril prescrito.","Asma, Migraña",Lisinopril
+"El paciente informa mareos, fatiga. Diagnosticado con enfermedad cardíaca, diabetes. Atorvastatina prescrita, metformina.","Cardiopatía, Diabetes","Atorvastatina, Metformina"
+"El paciente informa dolor en el pecho, dolor de cabeza, falta de aliento. Diagnosticado con dolor crónico, artritis. Lisinopril prescrito.","Dolor crónico, Artritis",Lisinopril
+"El paciente informa la falta de aliento. Diagnosticado con hipertensión. Metoprolol prescrito, Lisinopril.",Hipertensión,"Metoprolol, Lisinopril"
+"El paciente informa la falta de aliento. Diagnosticado con enfermedad cardíaca, bronquitis. Lisinopril prescrito, metformina.","Cardiopatía, Bronquitis","Lisinopril, Metformina"
+"El paciente informa dolor de garganta, falta de aliento, dolor en el pecho. Diagnosticado con artritis, obesidad. Paracetamol prescrito, ventolin.","Artritis, Obesidad","Paracetamol, Ventolina"
+"Paciente informa fiebre, tos, fatiga. Diagnosticado con enfermedad cardíaca, migraña. Ciprofloxacina prescrita, ibuprofeno.","Cardiopatía, Migraña","Ciprofloxacina, Ibuprofeno"
+"Paciente informa fiebre, mareos, tos. Diagnosticado con bronquitis. Metformina prescrita.",Bronquitis,Metformina
+"El paciente informa dolor de espalda, náuseas. Diagnosticado con artritis, migraña. Lisinopril prescrito, atorvastatina.","Artritis, Migraña","Lisinopril, Atorvastatina"
+"El paciente informa fatiga. Diagnosticado con bronquitis, anemia. Prescrita atorvastatina.","Bronquitis, Anemia",Atorvastatina
+"El paciente informa falta de aliento, dolor en el pecho. Diagnosticado con artritis. Ibuprofeno prescrito, metoprolol.",Artritis,"Ibuprofeno, Metoprolol"
+"El paciente informa que la falta de aliento, tos. Diagnosticado con bronquitis, obesidad. Aspirina prescrita, amoxicilina.","Bronquitis, Obesidad","Aspirina, Amoxicilina"
+"Tos de informes de pacientes, mareos. Diagnosticado con bronquitis. Prescrito lisinopril, aspirina.",Bronquitis,"Lisinopril, Aspirina"
+"Los informes del paciente dolor de garganta, dolor de cabeza, dolor en el pecho. Diagnosticado con migraña, obesidad. Atorvastatina prescrita, ciprofloxacina.","Migraña, Obesidad","Atorvastatina, Ciprofloxacina"
+"El paciente informa dolor en el pecho. Diagnosticado con hipertensión, enfermedad cardíaca. Prescrito lisinopril, aspirina.","Hipertensión, Cardiopatía","Lisinopril, Aspirina"
+"El paciente informa fiebre, dolor en el pecho. Diagnosticado con obesidad. Ventolin prescrito, Lisinopril.",Obesidad,"Ventolina, Lisinopril"
+Paciente informa fiebre. Diagnosticado con hipertensión. Metoprolol prescrito.,Hipertensión,Metoprolol
+El paciente informa dolor de cabeza. Diagnosticado con obesidad. Ibuprofeno prescrito.,Obesidad,Ibuprofeno
+"Paciente informa fiebre, mareos. Diagnosticado con obesidad, migraña. Prescrita de amoxicilina.","Obesidad, Migraña",Amoxicilina
+"El paciente informa fiebre, dolor de espalda. Diagnosticado con migraña, anemia. Ventolin prescrito, ibuprofeno.","Migraña, Anemia","Ventolina, Ibuprofeno"
+"El paciente informa náuseas, dolor de garganta, mareos. Diagnosticado con enfermedad cardíaca. Aspirina prescrita, atorvastatina.",Cardiopatía,"Aspirina, Atorvastatina"
+"El paciente informa fiebre, falta de aliento. Diagnosticado con enfermedad cardíaca, hipertensión. Ventolin prescrito.","Cardiopatía, Hipertensión",Ventolina
+"Tos de los informes del paciente. Diagnosticado con enfermedad cardíaca, obesidad. Metoprolol prescrito.","Cardiopatía, Obesidad",Metoprolol
+"El paciente informa dolor de cabeza, fiebre, mareos. Diagnosticado con enfermedad cardíaca, bronquitis. Ciprofloxacina prescrita.","Cardiopatía, Bronquitis",Ciprofloxacina
+"El paciente informa fiebre, falta de aliento. Diagnosticado con anemia, obesidad. Aspirina prescrita.","Anemia, Obesidad",Aspirina
+El paciente informa dolor de cabeza. Diagnosticado con dolor crónico. Metformina prescrita.,Dolor crónico,Metformina
+"El paciente informa dolor de cabeza, dolor en el pecho, fiebre. Diagnosticado con diabetes, obesidad. Ibuprofeno prescrito, paracetamol.","Diabetes, Obesidad","Ibuprofeno, Paracetamol"
+"El paciente informa dolor de espalda. Diagnosticado con obesidad, dolor crónico. Metoprolol prescrito.","Obesidad, Dolor crónico",Metoprolol
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con asma, artritis. Ibuprofeno prescrito.","Asma, Artritis",Ibuprofeno
+"El paciente informa dolor en el pecho, falta de aliento, dolor de cabeza. Diagnosticado con dolor crónico. Aspirina prescrita, atorvastatina.",Dolor crónico,"Aspirina, Atorvastatina"
+"El paciente informa dolor de cabeza, náuseas, dolor de garganta. Diagnosticado con diabetes. Prescrita amoxicilina, aspirina.",Diabetes,"Amoxicilina, Aspirina"
+"Paciente informa fiebre. Diagnosticado con anemia, asma. Prescrita de amoxicilina.","Anemia, Asma",Amoxicilina
+"El paciente informa dolor de cabeza. Diagnosticado con asma, artritis. Ibuprofeno prescrito.","Asma, Artritis",Ibuprofeno
+"El paciente informa mareos, fiebre. Diagnosticado con enfermedad cardíaca, anemia. Ibuprofeno prescrito.","Cardiopatía, Anemia",Ibuprofeno
+"Paciente informa tos, fiebre. Diagnosticado con anemia. Amoxicilina prescrita, metoprolol.",Anemia,"Amoxicilina, Metoprolol"
+"Paciente informa tos, dolor de garganta, náuseas. Diagnosticado con hipertensión. Metformina prescrita.",Hipertensión,Metformina
+El paciente informa dolor de cabeza. Diagnosticado con dolor crónico. Lisinopril prescrito.,Dolor crónico,Lisinopril
+"El paciente informa dolor en el pecho, dolor de garganta. Diagnosticado con obesidad. Amoxicilina prescrita, ciprofloxacina.",Obesidad,"Amoxicilina, Ciprofloxacina"
+"El paciente informa mareos. Diagnosticado con hipertensión. Lisinopril prescrito, metoprolol.",Hipertensión,"Lisinopril, Metoprolol"
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con obesidad, dolor crónico. Prescrito lisinopril, ventolin.","Obesidad, Dolor crónico","Lisinopril, Ventolina"
+"El paciente informa dolor de espalda, dolor en el pecho, dolor de cabeza. Diagnosticado con diabetes, artritis. Metoprolol prescrito, metformina.","Diabetes, Artritis","Metoprolol, Metformina"
+"El paciente informa mareos, náuseas, dolor en el pecho. Diagnosticado con diabetes, migraña. Ciprofloxacina prescrita.","Diabetes, Migraña",Ciprofloxacina
+"El paciente informa fatiga, dolor de espalda, dolor de garganta. Diagnosticado con migraña. Ibuprofeno prescrito.",Migraña,Ibuprofeno
+El paciente informa las náuseas. Diagnosticado con dolor crónico. Lisinopril prescrito.,Dolor crónico,Lisinopril
+"El paciente informa la falta de aliento, la fiebre, la fatiga. Diagnosticado con hipertensión. Prescrita de amoxicilina.",Hipertensión,Amoxicilina
+"El paciente informa dolor en el pecho, fatiga, mareos. Diagnosticado con artritis. Prescrita atorvastatina.",Artritis,Atorvastatina
+"El paciente informa la falta de aliento. Diagnosticado con diabetes. Aspirina prescrita, ventolina.",Diabetes,"Aspirina, Ventolina"
+"El paciente informa dolor en el pecho, fiebre. Diagnosticado con bronquitis, enfermedad cardíaca. Ventolin prescrito, ibuprofeno.","Bronquitis, Cardiopatía","Ventolina, Ibuprofeno"
+"El paciente informa mareos, dolor de cabeza, náuseas. Diagnosticado con enfermedad cardíaca, diabetes. Prescrita atorvastatina.","Cardiopatía, Diabetes",Atorvastatina
+Informes de pacientes dolor de garganta. Diagnosticado con asma. Ventolin prescrito.,Asma,Ventolina
+"Paciente informa fiebre. Diagnosticado con bronquitis, obesidad. Paracetamol prescrito.","Bronquitis, Obesidad",Paracetamol
+"El paciente informa fatiga, tos, dolor de cabeza. Diagnosticado con migraña, anemia. Metoprolol prescrito.","Migraña, Anemia",Metoprolol
+"El paciente informa dolor de cabeza, mareos. Diagnosticado con obesidad. Ciprofloxacina prescrita.",Obesidad,Ciprofloxacina
+"El paciente informa mareos, náuseas, dolor de cabeza. Diagnosticado con obesidad. Metformina prescrita.",Obesidad,Metformina
+"El paciente informa dolor en el pecho. Diagnosticado con dolor crónico, hipertensión. Metformina prescrita.","Dolor crónico, Hipertensión",Metformina
+"Paciente informa fatiga, tos. Diagnosticado con hipertensión. Paracetamol prescrito, ventolin.",Hipertensión,"Paracetamol, Ventolina"
+"Informes de pacientes dolor de garganta, fatiga, dolor de cabeza. Diagnosticado con enfermedad cardíaca. Aspirina prescrita.",Cardiopatía,Aspirina
+"Paciente informa fiebre. Diagnosticado con hipertensión, enfermedad cardíaca. Ciprofloxacina prescrita, ibuprofeno.","Hipertensión, Cardiopatía","Ciprofloxacina, Ibuprofeno"
+"El paciente informa dolor de cabeza, fiebre, tos. Diagnosticado con anemia. Ciprofloxacina prescrita, ventolina.",Anemia,"Ciprofloxacina, Ventolina"
+"El paciente informa dolor de cabeza, dolor de garganta, falta de aliento. Diagnosticado con anemia, asma. Ventolin prescrito.","Anemia, Asma",Ventolina
+"Los informes del paciente dolor de garganta, dolor en el pecho, náuseas. Diagnosticado con bronquitis, migraña. Metoprolol prescrito, ventolina.","Bronquitis, Migraña","Metoprolol, Ventolina"
+"El paciente informa náuseas, dolor de espalda. Diagnosticado con dolor crónico. Prescrita atorvastatina.",Dolor crónico,Atorvastatina
+"El paciente informa dolor de cabeza, dolor en el pecho. Diagnosticado con artritis, obesidad. Ciprofloxacina prescrita, metformina.","Artritis, Obesidad","Ciprofloxacina, Metformina"
+"El paciente informa dolor de cabeza, náuseas, dolor de garganta. Diagnosticado con migraña, asma. Ibuprofeno prescrito, metoprolol.","Migraña, Asma","Ibuprofeno, Metoprolol"
+"El paciente informa fatiga, falta de aliento. Diagnosticado con enfermedad cardíaca, migraña. Metoprolol prescrito.","Cardiopatía, Migraña",Metoprolol
+"Informes de pacientes dolor de garganta, fiebre. Diagnosticado con enfermedad cardíaca. Metformina prescrita.",Cardiopatía,Metformina
+"El paciente informa dolor en el pecho. Diagnosticado con migraña, enfermedad cardíaca. Metformina prescrita.","Migraña, Cardiopatía",Metformina
+"El paciente informa dolor de espalda. Diagnosticado con enfermedad cardíaca. Aspirina prescrita, metformina.",Cardiopatía,"Aspirina, Metformina"
+"El paciente informa dolor de cabeza, fatiga, dolor en el pecho. Diagnosticado con diabetes. Prescrita atorvastatina, ibuprofeno.",Diabetes,"Atorvastatina, Ibuprofeno"
+"Informes de pacientes dolor de garganta, dolor de cabeza. Diagnosticado con dolor crónico. Paracetamol prescrito.",Dolor crónico,Paracetamol
+"El paciente informa dolor de espalda, dolor de cabeza. Diagnosticado con dolor crónico. Metformina prescrita, amoxicilina.",Dolor crónico,"Metformina, Amoxicilina"
+"El paciente informa fiebre, dolor de garganta, dolor de espalda. Diagnosticado con asma, diabetes. Metformina prescrita, ciprofloxacina.","Asma, Diabetes","Metformina, Ciprofloxacina"
+"El paciente informa dolor en el pecho, falta de aliento, mareos. Diagnosticado con obesidad, hipertensión. Atorvastatina prescrita, ciprofloxacina.","Obesidad, Hipertensión","Atorvastatina, Ciprofloxacina"
+"El paciente informa fiebre, fatiga, mareos. Diagnosticado con migraña. Ventolin prescrito, Lisinopril.",Migraña,"Ventolina, Lisinopril"
+"El paciente informa dolor de espalda, tos, náuseas. Diagnosticado con anemia, bronquitis. Ciprofloxacina prescrita.","Anemia, Bronquitis",Ciprofloxacina
+"El paciente informa dolor de cabeza, fatiga. Diagnosticado con diabetes, dolor crónico. Lisinopril prescrito.","Diabetes, Dolor crónico",Lisinopril
+El paciente informa mareos. Diagnosticado con asma. Ibuprofeno prescrito.,Asma,Ibuprofeno
+"El paciente informa mareos. Diagnosticado con diabetes, obesidad. Prescrita atorvastatina, amoxicilina.","Diabetes, Obesidad","Atorvastatina, Amoxicilina"
+"El paciente informa dolor de cabeza, mareos, dolor de garganta. Diagnosticado con anemia, migraña. Prescrita atorvastatina.","Anemia, Migraña",Atorvastatina
+"El paciente informa dolor en el pecho. Diagnosticado con anemia, artritis. Ventolin prescrito, Lisinopril.","Anemia, Artritis","Ventolina, Lisinopril"
+"El paciente informa mareos. Diagnosticado con migraña, bronquitis. Ventolina prescrita, ciprofloxacina.","Migraña, Bronquitis","Ventolina, Ciprofloxacina"
+"El paciente informa dolor de cabeza. Diagnosticado con anemia, dolor crónico. Prescrita atorvastatina, aspirina.","Anemia, Dolor crónico","Atorvastatina, Aspirina"
+"El paciente informa dolor en el pecho, falta de aliento. Diagnosticado con bronquitis, migraña. Lisinopril prescrito.","Bronquitis, Migraña",Lisinopril
+"Paciente informa tos, dolor de cabeza. Diagnosticado con anemia. Ventolin prescrito, ibuprofeno.",Anemia,"Ventolina, Ibuprofeno"
+"Los informes del paciente dolor de garganta, dolor de espalda. Diagnosticado con bronquitis. Metoprolol prescrito, aspirina.",Bronquitis,"Metoprolol, Aspirina"
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con migraña. Lisinopril prescrito.",Migraña,Lisinopril
+"El paciente informa dolor de cabeza. Diagnosticado con asma, diabetes. Ibuprofeno prescrito, metformina.","Asma, Diabetes","Ibuprofeno, Metformina"
+"El paciente informa dolor en el pecho. Diagnosticado con asma, anemia. Ibuprofeno prescrito.","Asma, Anemia",Ibuprofeno
+"El paciente informa dolor de cabeza, mareos, dolor de garganta. Diagnosticado con bronquitis. Aspirina prescrita, metoprolol.",Bronquitis,"Aspirina, Metoprolol"
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con hipertensión, obesidad. Aspirina prescrita, paracetamol.","Hipertensión, Obesidad","Aspirina, Paracetamol"
+"El paciente informa fatiga, dolor de cabeza, tos. Diagnosticado con diabetes, enfermedad cardíaca. Ciprofloxacina prescrita, metformina.","Diabetes, Cardiopatía","Ciprofloxacina, Metformina"
+"El paciente informa tos, dolor en el pecho, fatiga. Diagnosticado con dolor crónico, obesidad. Aspirina prescrita.","Dolor crónico, Obesidad",Aspirina
+"Tos de los informes del paciente. Diagnosticado con bronquitis, hipertensión. Ibuprofeno prescrito, lisinopril.","Bronquitis, Hipertensión","Ibuprofeno, Lisinopril"
+"El paciente informa mareos, dolor de cabeza. Diagnosticado con asma. Lisinopril prescrito, metformina.",Asma,"Lisinopril, Metformina"
+"El paciente informa tos, fiebre, falta de aliento. Diagnosticado con dolor crónico. Ventolin prescrito.",Dolor crónico,Ventolina
+"El paciente informa mareos, fiebre, dolor en el pecho. Diagnosticado con enfermedad cardíaca. Prescrita amoxicilina, aspirina.",Cardiopatía,"Amoxicilina, Aspirina"
+"El paciente informa dolor de espalda. Diagnosticado con hipertensión, obesidad. Paracetamol prescrito, Lisinopril.","Hipertensión, Obesidad","Paracetamol, Lisinopril"
+"El paciente informa dolor de cabeza. Diagnosticado con artritis. Ventolin prescrito, amoxicilina.",Artritis,"Ventolina, Amoxicilina"
+"Paciente informa fiebre, mareos. Diagnosticado con enfermedad cardíaca. Prescrita de amoxicilina, ventolina.",Cardiopatía,"Amoxicilina, Ventolina"
+"El paciente informa la falta de aliento, los mareos, la fatiga. Diagnosticado con anemia. Ciprofloxacina prescrita.",Anemia,Ciprofloxacina
+"El paciente informa dolor en el pecho, náuseas, falta de aliento. Diagnosticado con asma, enfermedad cardíaca. Ciprofloxacina prescrita, Lisinopril.","Asma, Cardiopatía","Ciprofloxacina, Lisinopril"
+"El paciente informa mareos, dolor en el pecho, fiebre. Diagnosticado con diabetes. Ventolin prescrito.",Diabetes,Ventolina
+"Paciente informa fiebre, náuseas. Diagnosticado con artritis, hipertensión. Metformina prescrita.","Artritis, Hipertensión",Metformina
+"El paciente informa dolor de cabeza, fatiga. Diagnosticado con asma. Prescrita atorvastatina.",Asma,Atorvastatina
+"Paciente informa fatiga, tos. Diagnosticado con dolor crónico. Atorvastatina prescrita, metoprolol.",Dolor crónico,"Atorvastatina, Metoprolol"
+"El paciente informa fatiga, dolor de garganta. Diagnosticado con migraña, asma. Amoxicilina prescrita, metformina.","Migraña, Asma","Amoxicilina, Metformina"
+"El paciente informa la falta de aliento, las náuseas, el dolor de espalda. Diagnosticado con enfermedad cardíaca. Paracetamol prescrito.",Cardiopatía,Paracetamol
+"Pacientes informa dolor de garganta, falta de aliento, náuseas. Diagnosticado con anemia, diabetes. Aspirina prescrita.","Anemia, Diabetes",Aspirina
+El paciente informa fatiga. Diagnosticado con diabetes. Metformina prescrita.,Diabetes,Metformina
+"El paciente informa tos, dolor de espalda. Diagnosticado con bronquitis. Aspirina prescrita.",Bronquitis,Aspirina
+"Informes de pacientes dolor de garganta. Diagnosticado con dolor crónico, enfermedad cardíaca. Ibuprofeno prescrito, ventolin.","Dolor crónico, Cardiopatía","Ibuprofeno, Ventolina"
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con dolor crónico. Prescrita atorvastatina.",Dolor crónico,Atorvastatina
+"El paciente informa mareos. Diagnosticado con bronquitis, enfermedad cardíaca. Ventolin prescrito, Lisinopril.","Bronquitis, Cardiopatía","Ventolina, Lisinopril"
+"El paciente informa dolor de cabeza, fiebre, fatiga. Diagnosticado con migraña, enfermedad cardíaca. Lisinopril prescrito.","Migraña, Cardiopatía",Lisinopril
+"El paciente informa dolor de garganta, falta de aliento, fatiga. Diagnosticado con asma, migraña. Ibuprofeno prescrito, lisinopril.","Asma, Migraña","Ibuprofeno, Lisinopril"
+"Paciente informa tos, fiebre. Diagnosticado con diabetes. Ibuprofeno prescrito, ciprofloxacina.",Diabetes,"Ibuprofeno, Ciprofloxacina"
+"El paciente informa dolor de espalda. Diagnosticado con enfermedad cardíaca, obesidad. Aspirina prescrita, ventolina.","Cardiopatía, Obesidad","Aspirina, Ventolina"
+El paciente informa dolor en el pecho. Diagnosticado con asma. Paracetamol prescrito.,Asma,Paracetamol
+"El paciente informa fiebre, tos, dolor de garganta. Diagnosticado con migraña. Prescrita amoxicilina, aspirina.",Migraña,"Amoxicilina, Aspirina"
+"Tos de los informes del paciente. Diagnosticado con hipertensión, enfermedad cardíaca. Metformina prescrita, atorvastatina.","Hipertensión, Cardiopatía","Metformina, Atorvastatina"
+"Informes de pacientes dolor de garganta. Diagnosticado con diabetes. Ibuprofeno prescrito, lisinopril.",Diabetes,"Ibuprofeno, Lisinopril"
+"El paciente informa las náuseas, la falta de aliento. Diagnosticado con dolor crónico, hipertensión. Prescrita atorvastatina.","Dolor crónico, Hipertensión",Atorvastatina
+"El paciente informa náuseas, fiebre. Diagnosticado con migraña, bronquitis. Prescrita atorvastatina.","Migraña, Bronquitis",Atorvastatina
+"El paciente informa mareos, náuseas, fatiga. Diagnosticado con enfermedad cardíaca, hipertensión. Ciprofloxacina prescrita.","Cardiopatía, Hipertensión",Ciprofloxacina
+"El paciente informa falta de aliento, fiebre, dolor de espalda. Diagnosticado con asma, diabetes. Ibuprofeno prescrito.","Asma, Diabetes",Ibuprofeno
+"El paciente informa fatiga, dolor de espalda. Diagnosticado con anemia. Lisinopril prescrito.",Anemia,Lisinopril
+"Paciente informa tos, fiebre, dolor de cabeza. Diagnosticado con artritis, dolor crónico. Ibuprofeno prescrito.","Artritis, Dolor crónico",Ibuprofeno
+"El paciente informa fatiga, fiebre. Diagnosticado con enfermedad cardíaca, asma. Ventolin prescrito, Lisinopril.","Cardiopatía, Asma","Ventolina, Lisinopril"
+"Informes de pacientes dolor de garganta. Diagnosticado con asma, hipertensión. Ibuprofeno prescrito, lisinopril.","Asma, Hipertensión","Ibuprofeno, Lisinopril"
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con anemia, dolor crónico. Lisinopril prescrito, metformina.","Anemia, Dolor crónico","Lisinopril, Metformina"
+"El paciente informa fiebre, dolor de espalda. Diagnosticado con anemia, hipertensión. Metoprolol prescrito.","Anemia, Hipertensión",Metoprolol
+"El paciente informa náuseas, dolor de garganta. Diagnosticado con artritis. Ventolina prescrita, metoprolol.",Artritis,"Ventolina, Metoprolol"
+"El paciente informa mareos. Diagnosticado con hipertensión, artritis. Metformina prescrita.","Hipertensión, Artritis",Metformina
+"El paciente informa fatiga, dolor de espalda, mareos. Diagnosticado con diabetes. Ciprofloxacina prescrita.",Diabetes,Ciprofloxacina
+"Paciente informa fiebre. Diagnosticado con migraña, enfermedad cardíaca. Ventolina prescrita, aspirina.","Migraña, Cardiopatía","Ventolina, Aspirina"
+"El paciente informa náuseas, mareos, fiebre. Diagnosticado con obesidad. Metformina prescrita, Lisinopril.",Obesidad,"Metformina, Lisinopril"
+"El paciente informa mareos. Diagnosticado con artritis, enfermedad cardíaca. Ciprofloxacina prescrita.","Artritis, Cardiopatía",Ciprofloxacina
+"El paciente informa náuseas, falta de aliento, dolor de garganta. Diagnosticado con artritis. Paracetamol prescrito, Lisinopril.",Artritis,"Paracetamol, Lisinopril"
+"El paciente informa dolor de espalda, fatiga. Diagnosticado con hipertensión, artritis. Paracetamol prescrito.","Hipertensión, Artritis",Paracetamol
+"El paciente informa náuseas, dolor de cabeza. Diagnosticado con artritis, enfermedad cardíaca. Paracetamol prescrito.","Artritis, Cardiopatía",Paracetamol
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con dolor crónico. Ventolina prescrita, ciprofloxacina.",Dolor crónico,"Ventolina, Ciprofloxacina"
+"El paciente informa tos, dolor en el pecho, dolor de garganta. Diagnosticado con obesidad, anemia. Ibuprofeno prescrito.","Obesidad, Anemia",Ibuprofeno
+"El paciente informa dolor de espalda, falta de aliento, fatiga. Diagnosticado con dolor crónico. Ibuprofeno prescrito.",Dolor crónico,Ibuprofeno
+"El paciente informa las náuseas. Diagnosticado con hipertensión. Lisinopril prescrito, metformina.",Hipertensión,"Lisinopril, Metformina"
+"El paciente informa dolor de cabeza. Diagnosticado con enfermedad cardíaca. Metoprolol prescrito, ibuprofeno.",Cardiopatía,"Metoprolol, Ibuprofeno"
+"Paciente informa fiebre. Diagnosticado con anemia, migraña. Paracetamol prescrito, aspirina.","Anemia, Migraña","Paracetamol, Aspirina"
+"El paciente informa dolor de cabeza, falta de aliento, dolor en el pecho. Diagnosticado con dolor crónico, anemia. Metoprolol prescrito.","Dolor crónico, Anemia",Metoprolol
+"El paciente informa dolor en el pecho. Diagnosticado con artritis. Prescrito ibuprofeno, aspirina.",Artritis,"Ibuprofeno, Aspirina"
+"El paciente informa dolor de cabeza. Diagnosticado con enfermedad cardíaca. Metformina prescrita, ventolina.",Cardiopatía,"Metformina, Ventolina"
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con bronquitis. Metformina prescrita, ciprofloxacina.",Bronquitis,"Metformina, Ciprofloxacina"
+"El paciente informa dolor de espalda. Diagnosticado con asma, enfermedad cardíaca. Paracetamol prescrito.","Asma, Cardiopatía",Paracetamol
+El paciente informa fatiga. Diagnosticado con diabetes. Metoprolol prescrito.,Diabetes,Metoprolol
+"El paciente informa la falta de aliento, náuseas. Diagnosticado con dolor crónico, enfermedad cardíaca. Metformina prescrita, ventolina.","Dolor crónico, Cardiopatía","Metformina, Ventolina"
+"El paciente informa dolor en el pecho, mareos. Diagnosticado con bronquitis, enfermedad cardíaca. Paracetamol prescrito.","Bronquitis, Cardiopatía",Paracetamol
+"El paciente informa las náuseas. Diagnosticado con asma. Ibuprofeno prescrito, metformina.",Asma,"Ibuprofeno, Metformina"
+"El paciente informa dolor de garganta, falta de aliento. Diagnosticado con diabetes, bronquitis. Prescrita atorvastatina, ventolina.","Diabetes, Bronquitis","Atorvastatina, Ventolina"
+"El paciente informa dolor en el pecho, náuseas, falta de aliento. Diagnosticado con obesidad. Prescrita de amoxicilina.",Obesidad,Amoxicilina
+"El paciente informa mareos. Diagnosticado con artritis, hipertensión. Amoxicilina prescrita, ciprofloxacina.","Artritis, Hipertensión","Amoxicilina, Ciprofloxacina"
+"Paciente informa fiebre, dolor de garganta. Diagnosticado con enfermedad cardíaca, artritis. Prescrita atorvastatina.","Cardiopatía, Artritis",Atorvastatina
+"El paciente informa dolor de espalda. Diagnosticado con dolor crónico, asma. Ibuprofeno prescrito, metformina.","Dolor crónico, Asma","Ibuprofeno, Metformina"
+Paciente informa fiebre. Diagnosticado con diabetes. Ventolin prescrito.,Diabetes,Ventolina
+"El paciente informa mareos. Diagnosticado con diabetes, artritis. Ciprofloxacina prescrita.","Diabetes, Artritis",Ciprofloxacina
+"El paciente informa la falta de aliento. Diagnosticado con bronquitis. Lisinopril prescrito, ciprofloxacina.",Bronquitis,"Lisinopril, Ciprofloxacina"
+"El paciente informa fatiga, náuseas. Diagnosticado con anemia. Paracetamol prescrito, metoprolol.",Anemia,"Paracetamol, Metoprolol"
+"El paciente informa tos, dolor en el pecho. Diagnosticado con obesidad. Ibuprofeno prescrito, lisinopril.",Obesidad,"Ibuprofeno, Lisinopril"
+"El paciente informa dolor de espalda. Diagnosticado con migraña, anemia. Ciprofloxacina prescrita.","Migraña, Anemia",Ciprofloxacina
+"El paciente informa dolor de espalda, fiebre, tos. Diagnosticado con migraña, bronquitis. Ventolina prescrita, metoprolol.","Migraña, Bronquitis","Ventolina, Metoprolol"
+"El paciente informa mareos, dolor de espalda. Diagnosticado con migraña, asma. Metoprolol prescrito, aspirina.","Migraña, Asma","Metoprolol, Aspirina"
+"El paciente informa las náuseas. Diagnosticado con migraña, dolor crónico. Aspirina prescrita, ventolina.","Migraña, Dolor crónico","Aspirina, Ventolina"
+"El paciente informa mareos. Diagnosticado con asma, dolor crónico. Metformina prescrita, ventolina.","Asma, Dolor crónico","Metformina, Ventolina"
+"El paciente informa fiebre, falta de aliento. Diagnosticado con diabetes. Aspirina prescrita, ventolina.",Diabetes,"Aspirina, Ventolina"
+"El paciente informa fiebre, falta de aliento. Diagnosticado con artritis, enfermedad cardíaca. Lisinopril prescrito, atorvastatina.","Artritis, Cardiopatía","Lisinopril, Atorvastatina"
+"Tos de los informes del paciente. Diagnosticado con enfermedad cardíaca, obesidad. Paracetamol prescrito.","Cardiopatía, Obesidad",Paracetamol
+"Informes de pacientes dolor de garganta. Diagnosticado con bronquitis. Ventolin prescrito, metformina.",Bronquitis,"Ventolina, Metformina"
+"Paciente informa tos, fiebre. Diagnosticado con artritis, asma. Metoprolol prescrito.","Artritis, Asma",Metoprolol
+"El paciente informa dolor de espalda, dolor de garganta, fatiga. Diagnosticado con enfermedad cardíaca, dolor crónico. Ibuprofeno prescrito, metoprolol.","Cardiopatía, Dolor crónico","Ibuprofeno, Metoprolol"
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con artritis, dolor crónico. Aspirina prescrita, metformina.","Artritis, Dolor crónico","Aspirina, Metformina"
+"El paciente informa la falta de aliento, la fiebre, las náuseas. Diagnosticado con migraña. Ventolin prescrito.",Migraña,Ventolina
+"El paciente informa mareos, fiebre. Diagnosticado con dolor crónico. Aspirina prescrita, amoxicilina.",Dolor crónico,"Aspirina, Amoxicilina"
+"Paciente informa tos, fatiga, náuseas. Diagnosticado con anemia, asma. Metoprolol prescrito.","Anemia, Asma",Metoprolol
+Informes de pacientes dolor de garganta. Diagnosticado con dolor crónico. Metformina prescrita.,Dolor crónico,Metformina
+"El paciente informa dolor en el pecho, falta de aliento, fatiga. Diagnosticado con migraña, obesidad. Ventolin prescrito.","Migraña, Obesidad",Ventolina
+"El paciente informa fiebre, náuseas, mareos. Diagnosticado con artritis, asma. Prescrita atorvastatina, lisinopril.","Artritis, Asma","Atorvastatina, Lisinopril"
+"El paciente informa dolor de cabeza. Diagnosticado con migraña. Amoxicilina prescrita, metoprolol.",Migraña,"Amoxicilina, Metoprolol"
+"El paciente informa tos, dolor de cabeza, dolor de espalda. Diagnosticado con anemia, bronquitis. Aspirina prescrita.","Anemia, Bronquitis",Aspirina
+"El paciente informa dolor en el pecho. Diagnosticado con artritis. Prescrita atorvastatina, ventolina.",Artritis,"Atorvastatina, Ventolina"
+"El paciente informa fiebre, mareos, dolor de garganta. Diagnosticado con anemia, bronquitis. Ventolin prescrito.","Anemia, Bronquitis",Ventolina
+"El paciente informa dolor de espalda, tos. Diagnosticado con dolor crónico, asma. Aspirina prescrita, amoxicilina.","Dolor crónico, Asma","Aspirina, Amoxicilina"
+"El paciente informa náuseas, dolor en el pecho. Diagnosticado con migraña. Ventolin prescrito.",Migraña,Ventolina
+"El paciente informa dolor de cabeza, dolor de garganta, falta de aliento. Diagnosticado con dolor crónico. Paracetamol prescrito, aspirina.",Dolor crónico,"Paracetamol, Aspirina"
+"Informes de pacientes dolor de garganta. Diagnosticado con diabetes, asma. Metformina prescrita.","Diabetes, Asma",Metformina
+"El paciente informa dolor en el pecho, fatiga, tos. Diagnosticado con migraña. Ibuprofeno prescrito, atorvastatina.",Migraña,"Ibuprofeno, Atorvastatina"
+"El paciente informa tos, dolor de espalda, náuseas. Diagnosticado con dolor crónico, anemia. Aspirina prescrita.","Dolor crónico, Anemia",Aspirina
+Informes de pacientes dolor de garganta. Diagnosticado con anemia. Ibuprofeno prescrito.,Anemia,Ibuprofeno
+"El paciente informa dolor de espalda, dolor de cabeza. Diagnosticado con artritis, obesidad. Ventolin prescrito.","Artritis, Obesidad",Ventolina
+"El paciente informa mareos, náuseas. Diagnosticado con diabetes, bronquitis. Ventolin prescrito.","Diabetes, Bronquitis",Ventolina
+"El paciente informa mareos. Diagnosticado con obesidad, asma. Aspirina prescrita.","Obesidad, Asma",Aspirina
+"El paciente informa náuseas, fiebre, mareos. Diagnosticado con migraña. Amoxicilina prescrita, atorvastatina.",Migraña,"Amoxicilina, Atorvastatina"
+"El paciente informa mareos. Diagnosticado con hipertensión, migraña. Lisinopril prescrito.","Hipertensión, Migraña",Lisinopril
+"El paciente informa dolor en el pecho, dolor de espalda. Diagnosticado con asma, obesidad. Aspirina prescrita, Lisinopril.","Asma, Obesidad","Aspirina, Lisinopril"
+"El paciente informa la falta de aliento, el dolor de garganta, el dolor de cabeza. Diagnosticado con hipertensión. Paracetamol prescrito, aspirina.",Hipertensión,"Paracetamol, Aspirina"
+"El paciente informa falta de aliento, dolor de espalda. Diagnosticado con anemia, migraña. Amoxicilina prescrita, metformina.","Anemia, Migraña","Amoxicilina, Metformina"
+"El paciente informa mareos, falta de aliento, fatiga. Diagnosticado con bronquitis, diabetes. Paracetamol prescrito.","Bronquitis, Diabetes",Paracetamol
+"El paciente informa dolor de cabeza, fatiga. Diagnosticado con dolor crónico. Prescrita atorvastatina, aspirina.",Dolor crónico,"Atorvastatina, Aspirina"
+"Los informes del paciente dolor de garganta, dolor en el pecho, falta de aliento. Diagnosticado con artritis. Metformina prescrita, aspirina.",Artritis,"Metformina, Aspirina"
+"El paciente informa fatiga, dolor en el pecho. Diagnosticado con bronquitis, obesidad. Ventolin prescrito.","Bronquitis, Obesidad",Ventolina
+"El paciente informa dolor de cabeza, dolor en el pecho, fatiga. Diagnosticado con asma, hipertensión. Metformina prescrita, atorvastatina.","Asma, Hipertensión","Metformina, Atorvastatina"
+"El paciente informa tos, dolor en el pecho, dolor de garganta. Diagnosticado con diabetes. Prescrita atorvastatina, paracetamol.",Diabetes,"Atorvastatina, Paracetamol"
+"Tos de los informes del paciente. Diagnosticado con obesidad, bronquitis. Ventolin prescrito.","Obesidad, Bronquitis",Ventolina
+"El paciente informa fatiga. Diagnosticado con obesidad. Prescrita atorvastatina, ibuprofeno.",Obesidad,"Atorvastatina, Ibuprofeno"
+"Paciente informa fiebre, mareos. Diagnosticado con hipertensión. Aspirina prescrita, ciprofloxacina.",Hipertensión,"Aspirina, Ciprofloxacina"
+El paciente informa dolor en el pecho. Diagnosticado con anemia. Ciprofloxacina prescrita.,Anemia,Ciprofloxacina
+"El paciente informa fiebre, dolor en el pecho. Diagnosticado con bronquitis. Ciprofloxacina prescrita, aspirina.",Bronquitis,"Ciprofloxacina, Aspirina"
+"El paciente informa la falta de aliento. Diagnosticado con bronquitis. Atorvastatina prescrita, ciprofloxacina.",Bronquitis,"Atorvastatina, Ciprofloxacina"
+"El paciente informa tos, náuseas, dolor de espalda. Diagnosticado con dolor crónico. Metformina prescrita, aspirina.",Dolor crónico,"Metformina, Aspirina"
+"El paciente informa mareos. Diagnosticado con obesidad, enfermedad cardíaca. Lisinopril prescrito, metformina.","Obesidad, Cardiopatía","Lisinopril, Metformina"
+"El paciente informa fatiga, falta de aliento. Diagnosticado con asma. Ciprofloxacina prescrita, atorvastatina.",Asma,"Ciprofloxacina, Atorvastatina"
+"El paciente informa dolor de cabeza, fatiga, dolor en el pecho. Diagnosticado con hipertensión, obesidad. Aspirina prescrita, ventolina.","Hipertensión, Obesidad","Aspirina, Ventolina"
+"Paciente informa fatiga, tos. Diagnosticado con dolor crónico. Paracetamol prescrito.",Dolor crónico,Paracetamol
+"El paciente informa fatiga, dolor en el pecho. Diagnosticado con dolor crónico, diabetes. Metoprolol prescrito.","Dolor crónico, Diabetes",Metoprolol
+"Paciente informa fiebre. Diagnosticado con obesidad. Prescrita atorvastatina, lisinopril.",Obesidad,"Atorvastatina, Lisinopril"
+"El paciente informa dolor de espalda, dolor de cabeza. Diagnosticado con obesidad. Lisinopril prescrito.",Obesidad,Lisinopril
+"El paciente informa dolor de cabeza, tos, fatiga. Diagnosticado con obesidad, diabetes. Aspirina prescrita, ibuprofeno.","Obesidad, Diabetes","Aspirina, Ibuprofeno"
+"El paciente informa fatiga, dolor de cabeza, fiebre. Diagnosticado con bronquitis, asma. Metoprolol prescrito, amoxicilina.","Bronquitis, Asma","Metoprolol, Amoxicilina"
+"Informes de pacientes dolor de garganta. Diagnosticado con hipertensión, bronquitis. Prescrita atorvastatina.","Hipertensión, Bronquitis",Atorvastatina
+"El paciente informa dolor en el pecho. Diagnosticado con hipertensión, diabetes. Metformina prescrita, ciprofloxacina.","Hipertensión, Diabetes","Metformina, Ciprofloxacina"
+"El paciente informa fatiga, dolor de garganta. Diagnosticado con dolor crónico, hipertensión. Paracetamol prescrito, ciprofloxacina.","Dolor crónico, Hipertensión","Paracetamol, Ciprofloxacina"
+"Informes de pacientes dolor de garganta, náuseas, fiebre. Diagnosticado con dolor crónico, anemia. Ciprofloxacina prescrita.","Dolor crónico, Anemia",Ciprofloxacina
+"El paciente informa dolor en el pecho, dolor de garganta, falta de aliento. Diagnosticado con hipertensión, obesidad. Atorvastatina prescrita, ciprofloxacina.","Hipertensión, Obesidad","Atorvastatina, Ciprofloxacina"
+"El paciente informa mareos. Diagnosticado con diabetes. Metoprolol prescrito, Lisinopril.",Diabetes,"Metoprolol, Lisinopril"
+"Paciente informa fiebre. Diagnosticado con anemia, diabetes. Lisinopril prescrito, amoxicilina.","Anemia, Diabetes","Lisinopril, Amoxicilina"
+"El paciente informa la falta de aliento, náuseas. Diagnosticado con obesidad. Paracetamol prescrito.",Obesidad,Paracetamol
+"El paciente informa dolor de cabeza, fiebre, mareos. Diagnosticado con anemia, enfermedad cardíaca. Prescrito lisinopril, ventolin.","Anemia, Cardiopatía","Lisinopril, Ventolina"
+"El paciente informa náuseas, mareos. Diagnosticado con diabetes. Paracetamol prescrito, amoxicilina.",Diabetes,"Paracetamol, Amoxicilina"
+"Los informes del paciente dolor de garganta, dolor de espalda. Diagnosticado con bronquitis, dolor crónico. Metoprolol prescrito.","Bronquitis, Dolor crónico",Metoprolol
+"El paciente informa mareos. Diagnosticado con migraña, obesidad. Prescrita amoxicilina, aspirina.","Migraña, Obesidad","Amoxicilina, Aspirina"
+"El paciente informa dolor de cabeza. Diagnosticado con bronquitis, obesidad. Aspirina prescrita.","Bronquitis, Obesidad",Aspirina
+"El paciente informa las náuseas. Diagnosticado con anemia, obesidad. Metoprolol prescrito.","Anemia, Obesidad",Metoprolol
+"El paciente informa mareos, fiebre, náuseas. Diagnosticado con anemia, diabetes. Metoprolol prescrito, aspirina.","Anemia, Diabetes","Metoprolol, Aspirina"
+"El paciente informa fatiga, fiebre. Diagnosticado con diabetes. Ciprofloxacina prescrita, atorvastatina.",Diabetes,"Ciprofloxacina, Atorvastatina"
+"Informes de pacientes dolor de garganta, fiebre. Diagnosticado con bronquitis, diabetes. Paracetamol prescrito, ibuprofeno.","Bronquitis, Diabetes","Paracetamol, Ibuprofeno"
+"Paciente informa tos, fatiga. Diagnosticado con enfermedad cardíaca, obesidad. Metformina prescrita.","Cardiopatía, Obesidad",Metformina
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con obesidad, migraña. Ventolin prescrito, ibuprofeno.","Obesidad, Migraña","Ventolina, Ibuprofeno"
+"Los informes del paciente dolor de garganta, dolor en el pecho. Diagnosticado con enfermedad cardíaca, dolor crónico. Metoprolol prescrito, amoxicilina.","Cardiopatía, Dolor crónico","Metoprolol, Amoxicilina"
+"El paciente informa dolor de cabeza, dolor de garganta, fatiga. Diagnosticado con diabetes. Atorvastatina prescrita, metformina.",Diabetes,"Atorvastatina, Metformina"
+"El paciente informa mareos, falta de aliento, náuseas. Diagnosticado con migraña. Aspirina prescrita.",Migraña,Aspirina
+"El paciente informa mareos, dolor de cabeza, dolor de garganta. Diagnosticado con obesidad, hipertensión. Metoprolol prescrito, ventolina.","Obesidad, Hipertensión","Metoprolol, Ventolina"
+"El paciente informa fatiga, tos, dolor de espalda. Diagnosticado con diabetes, hipertensión. Ventolin prescrito.","Diabetes, Hipertensión",Ventolina
+"Paciente informa dolor de cabeza, tos. Diagnosticado con migraña. Metformina prescrita, paracetamol.",Migraña,"Metformina, Paracetamol"
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con enfermedad cardíaca. Aspirina prescrita.",Cardiopatía,Aspirina
+"El paciente informa náuseas, dolor de garganta, dolor de espalda. Diagnosticado con enfermedad cardíaca. Prescrita de amoxicilina.",Cardiopatía,Amoxicilina
+"El paciente informa dolor en el pecho, fiebre, mareos. Diagnosticado con hipertensión, migraña. Lisinopril prescrito, metformina.","Hipertensión, Migraña","Lisinopril, Metformina"
+"El paciente informa dolor en el pecho, tos. Diagnosticado con anemia. Prescrita atorvastatina.",Anemia,Atorvastatina
+El paciente informa dolor en el pecho. Diagnosticado con asma. Metoprolol prescrito.,Asma,Metoprolol
+"El paciente informa náuseas, dolor de cabeza. Diagnosticado con asma, bronquitis. Ibuprofeno prescrito, ventolin.","Asma, Bronquitis","Ibuprofeno, Ventolina"
+"Informes de pacientes dolor de garganta. Diagnosticado con anemia. Metformina prescrita, ventolina.",Anemia,"Metformina, Ventolina"
+"El paciente informa fiebre, dolor en el pecho, dolor de cabeza. Diagnosticado con artritis, diabetes. Aspirina prescrita.","Artritis, Diabetes",Aspirina
+"Paciente informa tos, dolor de cabeza. Diagnosticado con obesidad. Ventolin prescrito, atorvastatina.",Obesidad,"Ventolina, Atorvastatina"
+"El paciente informa la falta de aliento, la tos, la fiebre. Diagnosticado con asma, enfermedad cardíaca. Lisinopril prescrito.","Asma, Cardiopatía",Lisinopril
+"El paciente informa dolor de cabeza, dolor en el pecho, fiebre. Diagnosticado con migraña, dolor crónico. Prescrita atorvastatina.","Migraña, Dolor crónico",Atorvastatina
+"Paciente informa fatiga, tos. Diagnosticado con artritis, migraña. Prescrita de amoxicilina, paracetamol.","Artritis, Migraña","Amoxicilina, Paracetamol"
+"Paciente informa fiebre, tos. Diagnosticado con artritis. Prescrito lisinopril, aspirina.",Artritis,"Lisinopril, Aspirina"
+"El paciente informa fiebre, falta de aliento, dolor de cabeza. Diagnosticado con enfermedad cardíaca. Lisinopril prescrito, ciprofloxacina.",Cardiopatía,"Lisinopril, Ciprofloxacina"
+"El paciente informa dolor en el pecho, fatiga. Diagnosticado con diabetes. Lisinopril prescrito.",Diabetes,Lisinopril
+"El paciente informa tos, dolor de espalda. Diagnosticado con migraña. Metoprolol prescrito, ibuprofeno.",Migraña,"Metoprolol, Ibuprofeno"
+"El paciente informa dolor en el pecho, dolor de garganta, falta de aliento. Diagnosticado con asma. Prescrita amoxicilina, aspirina.",Asma,"Amoxicilina, Aspirina"
+El paciente informa dolor en el pecho. Diagnosticado con bronquitis. Ibuprofeno prescrito.,Bronquitis,Ibuprofeno
+"Tos de los informes del paciente. Diagnosticado con migraña, diabetes. Ventolin prescrito.","Migraña, Diabetes",Ventolina
+"El paciente informa dolor de espalda, náuseas, dolor de cabeza. Diagnosticado con dolor crónico, enfermedad cardíaca. Metformina prescrita.","Dolor crónico, Cardiopatía",Metformina
+"El paciente informa las náuseas. Diagnosticado con diabetes, obesidad. Metoprolol prescrito.","Diabetes, Obesidad",Metoprolol
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con diabetes, hipertensión. Paracetamol prescrito, ciprofloxacina.","Diabetes, Hipertensión","Paracetamol, Ciprofloxacina"
+El paciente informa fatiga. Diagnosticado con bronquitis. Aspirina prescrita.,Bronquitis,Aspirina
+"El paciente informa dolor de cabeza. Diagnosticado con anemia. Prescrito ibuprofeno, aspirina.",Anemia,"Ibuprofeno, Aspirina"
+"Paciente informa tos, fatiga. Diagnosticado con migraña, artritis. Aspirina prescrita.","Migraña, Artritis",Aspirina
+"El paciente informa dolor en el pecho. Diagnosticado con artritis, asma. Metformina prescrita.","Artritis, Asma",Metformina
+"El paciente informa fatiga. Diagnosticado con hipertensión, enfermedad cardíaca. Ventolina prescrita, ciprofloxacina.","Hipertensión, Cardiopatía","Ventolina, Ciprofloxacina"
+"El paciente informa náuseas, dolor de garganta. Diagnosticado con diabetes. Prescrita de amoxicilina.",Diabetes,Amoxicilina
+"El paciente informa dolor en el pecho. Diagnosticado con bronquitis. Atorvastatina prescrita, metoprolol.",Bronquitis,"Atorvastatina, Metoprolol"
+"El paciente informa fatiga. Diagnosticado con bronquitis. Aspirina prescrita, ibuprofeno.",Bronquitis,"Aspirina, Ibuprofeno"
+"El paciente informa dolor de cabeza, náuseas. Diagnosticado con bronquitis. Ventolin prescrito, metformina.",Bronquitis,"Ventolina, Metformina"
+"El paciente informa dolor de espalda, náuseas. Diagnosticado con dolor crónico, asma. Ciprofloxacina prescrita.","Dolor crónico, Asma",Ciprofloxacina
+"El paciente informa fatiga, dolor de espalda. Diagnosticado con enfermedad cardíaca. Lisinopril prescrito, metformina.",Cardiopatía,"Lisinopril, Metformina"
+"El paciente informa mareos, dolor de espalda. Diagnosticado con hipertensión, enfermedad cardíaca. Metformina prescrita.","Hipertensión, Cardiopatía",Metformina
+"Tos de informes de pacientes, mareos. Diagnosticado con bronquitis. Aspirina prescrita, amoxicilina.",Bronquitis,"Aspirina, Amoxicilina"
+"El paciente informa fiebre, falta de aliento, náuseas. Diagnosticado con diabetes. Metformina prescrita.",Diabetes,Metformina
+"El paciente informa dolor en el pecho, dolor de garganta, mareos. Diagnosticado con dolor crónico. Paracetamol prescrito.",Dolor crónico,Paracetamol
+"Tos de los informes del paciente. Diagnosticado con diabetes, bronquitis. Aspirina prescrita, atorvastatina.","Diabetes, Bronquitis","Aspirina, Atorvastatina"
+"El paciente informa dolor en el pecho, falta de aliento. Diagnosticado con artritis, enfermedad cardíaca. Aspirina prescrita.","Artritis, Cardiopatía",Aspirina
+"Paciente informa tos, dolor de cabeza, fatiga. Diagnosticado con artritis. Paracetamol prescrito, metformina.",Artritis,"Paracetamol, Metformina"
+"El paciente informa dolor de cabeza, dolor de garganta, falta de aliento. Diagnosticado con hipertensión, dolor crónico. Prescrita atorvastatina, amoxicilina.","Hipertensión, Dolor crónico","Atorvastatina, Amoxicilina"
+"El paciente informa fatiga, dolor de garganta. Diagnosticado con diabetes. Aspirina prescrita, amoxicilina.",Diabetes,"Aspirina, Amoxicilina"
+"El paciente informa fatiga, dolor de cabeza, dolor de espalda. Diagnosticado con migraña, asma. Amoxicilina prescrita, metformina.","Migraña, Asma","Amoxicilina, Metformina"
+"El paciente informa fatiga. Diagnosticado con artritis, asma. Aspirina prescrita.","Artritis, Asma",Aspirina
+"El paciente informa dolor en el pecho. Diagnosticado con hipertensión, diabetes. Ventolin prescrito, Lisinopril.","Hipertensión, Diabetes","Ventolina, Lisinopril"
+"Paciente informa fiebre. Diagnosticado con obesidad. Ciprofloxacina prescrita, paracetamol.",Obesidad,"Ciprofloxacina, Paracetamol"
+"El paciente informa fatiga, dolor de garganta, mareos. Diagnosticado con enfermedad cardíaca. Prescrito lisinopril, aspirina.",Cardiopatía,"Lisinopril, Aspirina"
+"Informes de pacientes dolor de garganta. Diagnosticado con obesidad, enfermedad cardíaca. Ventolina prescrita, aspirina.","Obesidad, Cardiopatía","Ventolina, Aspirina"
+"El paciente informa tos, náuseas, falta de aliento. Diagnosticado con asma. Ventolina prescrita, aspirina.",Asma,"Ventolina, Aspirina"
+"El paciente informa la falta de aliento. Diagnosticado con dolor crónico. Aspirina prescrita, atorvastatina.",Dolor crónico,"Aspirina, Atorvastatina"
+"El paciente informa la falta de aliento, náuseas. Diagnosticado con obesidad. Prescrita atorvastatina.",Obesidad,Atorvastatina
+"El paciente informa dolor de espalda. Diagnosticado con asma, bronquitis. Paracetamol prescrito, aspirina.","Asma, Bronquitis","Paracetamol, Aspirina"
+"El paciente informa náuseas, dolor de espalda. Diagnosticado con anemia, hipertensión. Prescrito ibuprofeno, aspirina.","Anemia, Hipertensión","Ibuprofeno, Aspirina"
+Informes de pacientes dolor de garganta. Diagnosticado con artritis. Prescrita atorvastatina.,Artritis,Atorvastatina
+"El paciente informa mareos. Diagnosticado con artritis. Prescrito lisinopril, aspirina.",Artritis,"Lisinopril, Aspirina"
+"El paciente informa fiebre, dolor en el pecho, dolor de cabeza. Diagnosticado con anemia, obesidad. Ibuprofeno prescrito, ciprofloxacina.","Anemia, Obesidad","Ibuprofeno, Ciprofloxacina"
+"Los informes del paciente dolor de garganta, mareos, dolor en el pecho. Diagnosticado con asma, migraña. Ibuprofeno prescrito, ventolin.","Asma, Migraña","Ibuprofeno, Ventolina"
+"El paciente informa la falta de aliento. Diagnosticado con enfermedad cardíaca, artritis. Metoprolol prescrito, Lisinopril.","Cardiopatía, Artritis","Metoprolol, Lisinopril"
+"El paciente informa la falta de aliento, el dolor de garganta. Diagnosticado con bronquitis, hipertensión. Ciprofloxacina prescrita, aspirina.","Bronquitis, Hipertensión","Ciprofloxacina, Aspirina"
+"El paciente informa fiebre, dolor de espalda. Diagnosticado con asma. Prescrita atorvastatina.",Asma,Atorvastatina
+"El paciente informa mareos, dolor de cabeza, tos. Diagnosticado con asma, diabetes. Metformina prescrita, metoprolol.","Asma, Diabetes","Metformina, Metoprolol"
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con dolor crónico, hipertensión. Metoprolol prescrito.","Dolor crónico, Hipertensión",Metoprolol
+"El paciente informa mareos, dolor de cabeza. Diagnosticado con artritis, diabetes. Prescrita de amoxicilina.","Artritis, Diabetes",Amoxicilina
+"El paciente informa dolor de espalda, fatiga, dolor en el pecho. Diagnosticado con artritis. Aspirina prescrita, ibuprofeno.",Artritis,"Aspirina, Ibuprofeno"
+El paciente informa las náuseas. Diagnosticado con asma. Ibuprofeno prescrito.,Asma,Ibuprofeno
+"El paciente informa fatiga. Diagnosticado con artritis, diabetes. Prescrita de amoxicilina.","Artritis, Diabetes",Amoxicilina
+"El paciente informa náuseas, dolor de cabeza. Diagnosticado con diabetes, migraña. Amoxicilina prescrita, ciprofloxacina.","Diabetes, Migraña","Amoxicilina, Ciprofloxacina"
+"El paciente informa dolor de cabeza, tos, dolor de espalda. Diagnosticado con enfermedad cardíaca, anemia. Ciprofloxacina prescrita.","Cardiopatía, Anemia",Ciprofloxacina
+"El paciente informa dolor de cabeza, dolor de espalda, mareos. Diagnosticado con dolor crónico, enfermedad cardíaca. Metformina prescrita.","Dolor crónico, Cardiopatía",Metformina
+"Los informes del paciente dolor de garganta, dolor de espalda. Diagnosticado con migraña, artritis. Ciprofloxacina prescrita, Lisinopril.","Migraña, Artritis","Ciprofloxacina, Lisinopril"
+"El paciente informa dolor de espalda, dolor de garganta, náuseas. Diagnosticado con dolor crónico, asma. Ventolin prescrito.","Dolor crónico, Asma",Ventolina
+"El paciente informa dolor de cabeza, náuseas. Diagnosticado con hipertensión, dolor crónico. Metformina prescrita.","Hipertensión, Dolor crónico",Metformina
+"El paciente informa dolor de cabeza, mareos. Diagnosticado con asma, migraña. Paracetamol prescrito, metoprolol.","Asma, Migraña","Paracetamol, Metoprolol"
+"El paciente informa falta de aliento, dolor de espalda. Diagnosticado con obesidad. Metoprolol prescrito, metformina.",Obesidad,"Metoprolol, Metformina"
+"El paciente informa dolor de cabeza, fiebre, tos. Diagnosticado con obesidad. Ibuprofeno prescrito, atorvastatina.",Obesidad,"Ibuprofeno, Atorvastatina"
+"El paciente informa dolor de espalda. Diagnosticado con asma, migraña. Prescrita de amoxicilina.","Asma, Migraña",Amoxicilina
+"El paciente informa fatiga. Diagnosticado con artritis, obesidad. Ciprofloxacina prescrita, amoxicilina.","Artritis, Obesidad","Ciprofloxacina, Amoxicilina"
+"El paciente informa mareos, fatiga. Diagnosticado con enfermedad cardíaca. Aspirina prescrita.",Cardiopatía,Aspirina
+"El paciente informa mareos, dolor de espalda. Diagnosticado con artritis, obesidad. Paracetamol prescrito, amoxicilina.","Artritis, Obesidad","Paracetamol, Amoxicilina"
+"El paciente informa dolor de espalda, falta de aliento, fiebre. Diagnosticado con obesidad, artritis. Metformina prescrita.","Obesidad, Artritis",Metformina
+"Paciente informa fiebre. Diagnosticado con bronquitis, obesidad. Lisinopril prescrito.","Bronquitis, Obesidad",Lisinopril
+"El paciente informa dolor de espalda, dolor de garganta, dolor en el pecho. Diagnosticado con obesidad. Metformina prescrita, amoxicilina.",Obesidad,"Metformina, Amoxicilina"
+"El paciente informa dolor en el pecho, náuseas, fiebre. Diagnosticado con migraña, dolor crónico. Paracetamol prescrito, aspirina.","Migraña, Dolor crónico","Paracetamol, Aspirina"
+"El paciente informa fatiga, dolor de garganta, náuseas. Diagnosticado con artritis. Ibuprofeno prescrito, metformina.",Artritis,"Ibuprofeno, Metformina"
+"El paciente informa dolor en el pecho, náuseas, falta de aliento. Diagnosticado con diabetes. Paracetamol prescrito, ciprofloxacina.",Diabetes,"Paracetamol, Ciprofloxacina"
+"El paciente informa dolor de cabeza. Diagnosticado con asma, artritis. Prescrita de amoxicilina.","Asma, Artritis",Amoxicilina
+"El paciente informa tos, dolor de espalda, mareos. Diagnosticado con diabetes. Ibuprofeno prescrito.",Diabetes,Ibuprofeno
+"El paciente informa fatiga, mareos. Diagnosticado con obesidad. Ibuprofeno prescrito.",Obesidad,Ibuprofeno
+"El paciente informa las náuseas. Diagnosticado con diabetes, hipertensión. Ciprofloxacina prescrita.","Diabetes, Hipertensión",Ciprofloxacina
+"El paciente informa náuseas, dolor en el pecho. Diagnosticado con bronquitis. Metoprolol prescrito.",Bronquitis,Metoprolol
+"El paciente informa dolor de espalda, falta de aliento, fatiga. Diagnosticado con asma, bronquitis. Ibuprofeno prescrito, amoxicilina.","Asma, Bronquitis","Ibuprofeno, Amoxicilina"
+"El paciente informa falta de aliento, dolor en el pecho. Diagnosticado con asma, artritis. Metformina prescrita, atorvastatina.","Asma, Artritis","Metformina, Atorvastatina"
+El paciente informa dolor de espalda. Diagnosticado con hipertensión. Aspirina prescrita.,Hipertensión,Aspirina
+"El paciente informa fatiga, fiebre, falta de aliento. Diagnosticado con anemia, asma. Aspirina prescrita.","Anemia, Asma",Aspirina
+"El paciente informa dolor de cabeza, dolor de garganta, tos. Diagnosticado con anemia, obesidad. Metformina prescrita, Lisinopril.","Anemia, Obesidad","Metformina, Lisinopril"
+"El paciente informa dolor de espalda, fatiga, tos. Diagnosticado con artritis. Ibuprofeno prescrito, metoprolol.",Artritis,"Ibuprofeno, Metoprolol"
+"El paciente informa dolor de espalda, fatiga. Diagnosticado con migraña. Lisinopril prescrito, metoprolol.",Migraña,"Lisinopril, Metoprolol"
+"El paciente informa dolor de espalda. Diagnosticado con anemia. Metoprolol prescrito, atorvastatina.",Anemia,"Metoprolol, Atorvastatina"
+"El paciente informa náuseas, mareos. Diagnosticado con obesidad. Ciprofloxacina prescrita, ventolina.",Obesidad,"Ciprofloxacina, Ventolina"
+"El paciente informa las náuseas. Diagnosticado con asma, anemia. Paracetamol prescrito, metoprolol.","Asma, Anemia","Paracetamol, Metoprolol"
+"Tos de los informes del paciente. Diagnosticado con asma, obesidad. Metformina prescrita.","Asma, Obesidad",Metformina
+"El paciente informa dolor de espalda, dolor en el pecho, mareos. Diagnosticado con hipertensión. Paracetamol prescrito, Lisinopril.",Hipertensión,"Paracetamol, Lisinopril"
+"El paciente informa dolor en el pecho, dolor de garganta. Diagnosticado con enfermedad cardíaca, obesidad. Aspirina prescrita, atorvastatina.","Cardiopatía, Obesidad","Aspirina, Atorvastatina"
+El paciente informa mareos. Diagnosticado con asma. Aspirina prescrita.,Asma,Aspirina
+"El paciente informa fatiga, dolor de garganta, mareos. Diagnosticado con anemia. Ibuprofeno prescrito, metoprolol.",Anemia,"Ibuprofeno, Metoprolol"
+"El paciente informa náuseas, fatiga. Diagnosticado con dolor crónico, hipertensión. Aspirina prescrita, metformina.","Dolor crónico, Hipertensión","Aspirina, Metformina"
+"Tos de los informes del paciente. Diagnosticado con migraña. Metformina prescrita, Lisinopril.",Migraña,"Metformina, Lisinopril"
+"Tos de los informes del paciente. Diagnosticado con enfermedad cardíaca, anemia. Ciprofloxacina prescrita, aspirina.","Cardiopatía, Anemia","Ciprofloxacina, Aspirina"
+Paciente informa fiebre. Diagnosticado con asma. Aspirina prescrita.,Asma,Aspirina
+"El paciente informa tos, dolor de espalda, fiebre. Diagnosticado con asma, artritis. Metoprolol prescrito, paracetamol.","Asma, Artritis","Metoprolol, Paracetamol"
+"Paciente informa tos, fiebre. Diagnosticado con dolor crónico. Prescrita atorvastatina.",Dolor crónico,Atorvastatina
+"Paciente informa tos, dolor de garganta. Diagnosticado con asma. Aspirina prescrita, Lisinopril.",Asma,"Aspirina, Lisinopril"
+"El paciente informa fatiga, dolor de garganta, mareos. Diagnosticado con diabetes. Ventolin prescrito.",Diabetes,Ventolina
+"Tos de informes de pacientes, mareos. Diagnosticado con migraña. Metoprolol prescrito, aspirina.",Migraña,"Metoprolol, Aspirina"
+"Tos de informes de pacientes, mareos. Diagnosticado con diabetes, artritis. Atorvastatina prescrita, ciprofloxacina.","Diabetes, Artritis","Atorvastatina, Ciprofloxacina"
+"Paciente informa fiebre, náuseas, tos. Diagnosticado con obesidad, diabetes. Metformina prescrita, aspirina.","Obesidad, Diabetes","Metformina, Aspirina"
+"El paciente informa mareos, falta de aliento, fiebre. Diagnosticado con anemia, asma. Ventolin prescrito.","Anemia, Asma",Ventolina
+El paciente informa dolor de cabeza. Diagnosticado con bronquitis. Aspirina prescrita.,Bronquitis,Aspirina
+"El paciente informa falta de aliento, dolor en el pecho, fatiga. Diagnosticado con hipertensión. Prescrita atorvastatina.",Hipertensión,Atorvastatina
+"El paciente informa las náuseas. Diagnosticado con migraña. Ibuprofeno prescrito, metoprolol.",Migraña,"Ibuprofeno, Metoprolol"
+"Paciente informa fiebre, fatiga. Diagnosticado con obesidad, diabetes. Paracetamol prescrito, ventolin.","Obesidad, Diabetes","Paracetamol, Ventolina"
+"Paciente informa tos, fatiga, náuseas. Diagnosticado con migraña, bronquitis. Prescrito lisinopril, ibuprofeno.","Migraña, Bronquitis","Lisinopril, Ibuprofeno"
+"Informes de pacientes dolor de garganta. Diagnosticado con bronquitis, migraña. Paracetamol prescrito, Lisinopril.","Bronquitis, Migraña","Paracetamol, Lisinopril"
+"El paciente informa la falta de aliento, los mareos. Diagnosticado con bronquitis, dolor crónico. Aspirina prescrita.","Bronquitis, Dolor crónico",Aspirina
+"El paciente informa la falta de aliento, el dolor de cabeza, el dolor de garganta. Diagnosticado con asma. Paracetamol prescrito.",Asma,Paracetamol
+"El paciente informa dolor de cabeza, fiebre, náuseas. Diagnosticado con anemia. Amoxicilina prescrita, metoprolol.",Anemia,"Amoxicilina, Metoprolol"
+Tos de los informes del paciente. Diagnosticado con diabetes. Prescrita de amoxicilina.,Diabetes,Amoxicilina
+"El paciente informa mareos, fatiga, náuseas. Diagnosticado con enfermedad cardíaca, anemia. Ciprofloxacina prescrita.","Cardiopatía, Anemia",Ciprofloxacina
+"El paciente informa dolor de espalda, fiebre. Diagnosticado con dolor crónico. Aspirina prescrita.",Dolor crónico,Aspirina
+"El paciente informa dolor en el pecho, fiebre, falta de aliento. Diagnosticado con obesidad. Lisinopril prescrito, ciprofloxacina.",Obesidad,"Lisinopril, Ciprofloxacina"
+"El paciente informa náuseas, mareos, dolor en el pecho. Diagnosticado con artritis. Paracetamol prescrito.",Artritis,Paracetamol
+"El paciente informa dolor de cabeza, náuseas, fiebre. Diagnosticado con enfermedad cardíaca. Ciprofloxacina prescrita, Lisinopril.",Cardiopatía,"Ciprofloxacina, Lisinopril"
+"El paciente informa dolor en el pecho, tos. Diagnosticado con anemia, bronquitis. Paracetamol prescrito, aspirina.","Anemia, Bronquitis","Paracetamol, Aspirina"
+"El paciente informa dolor de espalda, mareos. Diagnosticado con obesidad. Ventolin prescrito, paracetamol.",Obesidad,"Ventolina, Paracetamol"
+"Tos de los informes del paciente. Diagnosticado con dolor crónico, migraña. Prescrita de amoxicilina.","Dolor crónico, Migraña",Amoxicilina
+"El paciente informa dolor de espalda. Diagnosticado con artritis, hipertensión. Ibuprofeno prescrito.","Artritis, Hipertensión",Ibuprofeno
+"Paciente informa fiebre, dolor de cabeza. Diagnosticado con asma. Ibuprofeno prescrito, lisinopril.",Asma,"Ibuprofeno, Lisinopril"
+"El paciente informa fatiga, dolor en el pecho, dolor de cabeza. Diagnosticado con artritis, dolor crónico. Aspirina prescrita, Lisinopril.","Artritis, Dolor crónico","Aspirina, Lisinopril"
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con hipertensión. Ciprofloxacina prescrita, ibuprofeno.",Hipertensión,"Ciprofloxacina, Ibuprofeno"
+"El paciente informa dolor en el pecho, fatiga. Diagnosticado con dolor crónico, hipertensión. Ventolin prescrito.","Dolor crónico, Hipertensión",Ventolina
+"Informes de pacientes dolor de garganta, mareos, dolor de cabeza. Diagnosticado con artritis. Metoprolol prescrito.",Artritis,Metoprolol
+"El paciente informa dolor de cabeza, dolor de garganta, fatiga. Diagnosticado con obesidad, asma. Aspirina prescrita, atorvastatina.","Obesidad, Asma","Aspirina, Atorvastatina"
+"Informes de pacientes dolor de garganta. Diagnosticado con diabetes, bronquitis. Ibuprofeno prescrito, paracetamol.","Diabetes, Bronquitis","Ibuprofeno, Paracetamol"
+"El paciente informa dolor en el pecho, fiebre, mareos. Diagnosticado con obesidad. Aspirina prescrita.",Obesidad,Aspirina
+"El paciente informa dolor de espalda, fatiga. Diagnosticado con anemia, asma. Atorvastatina prescrita, metoprolol.","Anemia, Asma","Atorvastatina, Metoprolol"
+Paciente informa fiebre. Diagnosticado con hipertensión. Metformina prescrita.,Hipertensión,Metformina
+"El paciente informa náuseas, dolor de cabeza, falta de aliento. Diagnosticado con artritis, enfermedad cardíaca. Prescrita de amoxicilina, paracetamol.","Artritis, Cardiopatía","Amoxicilina, Paracetamol"
+"El paciente informa fiebre, dolor en el pecho, falta de aliento. Diagnosticado con anemia, dolor crónico. Prescrita atorvastatina.","Anemia, Dolor crónico",Atorvastatina
+"Paciente informa fiebre. Diagnosticado con hipertensión. Amoxicilina prescrita, Lisinopril.",Hipertensión,"Amoxicilina, Lisinopril"
+"El paciente informa fatiga, náuseas. Diagnosticado con enfermedad cardíaca. Prescrito lisinopril, ibuprofeno.",Cardiopatía,"Lisinopril, Ibuprofeno"
+Tos de los informes del paciente. Diagnosticado con dolor crónico. Metformina prescrita.,Dolor crónico,Metformina
+"El paciente informa mareos. Diagnosticado con diabetes, anemia. Prescrito ibuprofeno, aspirina.","Diabetes, Anemia","Ibuprofeno, Aspirina"
+"El paciente informa fiebre, náuseas, dolor de espalda. Diagnosticado con asma, anemia. Amoxicilina prescrita, Lisinopril.","Asma, Anemia","Amoxicilina, Lisinopril"
+Informes de pacientes dolor de garganta. Diagnosticado con obesidad. Aspirina prescrita.,Obesidad,Aspirina
+"Paciente informa fiebre, tos. Diagnosticado con enfermedad cardíaca, anemia. Paracetamol prescrito, Lisinopril.","Cardiopatía, Anemia","Paracetamol, Lisinopril"
+"El paciente informa fatiga. Diagnosticado con anemia. Ventolin prescrito, Lisinopril.",Anemia,"Ventolina, Lisinopril"
+"Informes de pacientes dolor de garganta, tos, náuseas. Diagnosticado con bronquitis, asma. Ibuprofeno prescrito, amoxicilina.","Bronquitis, Asma","Ibuprofeno, Amoxicilina"
+El paciente informa la falta de aliento. Diagnosticado con enfermedad cardíaca. Lisinopril prescrito.,Cardiopatía,Lisinopril
+"El paciente informa dolor de cabeza, fiebre. Diagnosticado con anemia, enfermedad cardíaca. Ventolina prescrita, aspirina.","Anemia, Cardiopatía","Ventolina, Aspirina"
+"El paciente informa dolor en el pecho, mareos. Diagnosticado con enfermedad cardíaca. Metformina prescrita.",Cardiopatía,Metformina
+"El paciente informa las náuseas, la falta de aliento. Diagnosticado con artritis, dolor crónico. Ventolin prescrito, ibuprofeno.","Artritis, Dolor crónico","Ventolina, Ibuprofeno"
+"El paciente informa dolor de espalda, dolor de garganta. Diagnosticado con migraña. Metoprolol prescrito, Lisinopril.",Migraña,"Metoprolol, Lisinopril"
+"El paciente informa fatiga, falta de aliento. Diagnosticado con diabetes. Aspirina prescrita, amoxicilina.",Diabetes,"Aspirina, Amoxicilina"
+"El paciente informa dolor de espalda. Diagnosticado con migraña. Prescrito lisinopril, ventolin.",Migraña,"Lisinopril, Ventolina"
+"El paciente informa la falta de aliento, el dolor de garganta. Diagnosticado con asma. Prescrita de amoxicilina.",Asma,Amoxicilina
+"El paciente informa la falta de aliento, la fatiga, el dolor de garganta. Diagnosticado con enfermedad cardíaca, artritis. Aspirina prescrita.","Cardiopatía, Artritis",Aspirina
+"Paciente informa tos, dolor de cabeza. Diagnosticado con dolor crónico. Metoprolol prescrito.",Dolor crónico,Metoprolol
+"El paciente informa dolor de cabeza, náuseas, fiebre. Diagnosticado con dolor crónico. Paracetamol prescrito.",Dolor crónico,Paracetamol
+"El paciente informa dolor en el pecho, fiebre, tos. Diagnosticado con enfermedad cardíaca. Atorvastatina prescrita, metoprolol.",Cardiopatía,"Atorvastatina, Metoprolol"
+"El paciente informa dolor de espalda. Diagnosticado con artritis, asma. Ciprofloxacina prescrita.","Artritis, Asma",Ciprofloxacina
+"El paciente informa la falta de aliento. Diagnosticado con asma. Metformina prescrita, aspirina.",Asma,"Metformina, Aspirina"
+"El paciente informa mareos, tos. Diagnosticado con obesidad. Metoprolol prescrito.",Obesidad,Metoprolol
+"El paciente informa dolor de espalda. Diagnosticado con bronquitis. Ibuprofeno prescrito, lisinopril.",Bronquitis,"Ibuprofeno, Lisinopril"
+"Paciente informa fiebre, mareos. Diagnosticado con dolor crónico, migraña. Metformina prescrita, ciprofloxacina.","Dolor crónico, Migraña","Metformina, Ciprofloxacina"
+"El paciente informa dolor en el pecho, falta de aliento, dolor de cabeza. Diagnosticado con enfermedad cardíaca, diabetes. Ventolin prescrito, Lisinopril.","Cardiopatía, Diabetes","Ventolina, Lisinopril"
+"El paciente informa dolor en el pecho, dolor de garganta. Diagnosticado con dolor crónico, anemia. Metformina prescrita.","Dolor crónico, Anemia",Metformina
+"El paciente informa fatiga, mareos, dificultad para respirar. Diagnosticado con anemia, dolor crónico. Prescrita de amoxicilina.","Anemia, Dolor crónico",Amoxicilina
+"Paciente informa tos, fatiga, mareos. Diagnosticado con obesidad. Ciprofloxacina prescrita.",Obesidad,Ciprofloxacina
+"Paciente informa tos, fiebre. Diagnosticado con obesidad, migraña. Ibuprofeno prescrito.","Obesidad, Migraña",Ibuprofeno
+"El paciente informa dolor en el pecho, fiebre, náuseas. Diagnosticado con hipertensión, dolor crónico. Ibuprofeno prescrito, atorvastatina.","Hipertensión, Dolor crónico","Ibuprofeno, Atorvastatina"
+"Tos de los informes del paciente. Diagnosticado con bronquitis, dolor crónico. Ibuprofeno prescrito, metoprolol.","Bronquitis, Dolor crónico","Ibuprofeno, Metoprolol"
+"Informes de pacientes dolor de garganta, náuseas, fiebre. Diagnosticado con hipertensión. Paracetamol prescrito, atorvastatina.",Hipertensión,"Paracetamol, Atorvastatina"
+"El paciente informa fatiga, dolor de cabeza. Diagnosticado con diabetes. Prescrita amoxicilina, aspirina.",Diabetes,"Amoxicilina, Aspirina"
+"El paciente informa náuseas, fiebre, tos. Diagnosticado con enfermedad cardíaca. Ventolin prescrito, metformina.",Cardiopatía,"Ventolina, Metformina"
+"El paciente informa náuseas, dolor de espalda, fatiga. Diagnosticado con hipertensión, obesidad. Prescrita de amoxicilina.","Hipertensión, Obesidad",Amoxicilina
+"El paciente informa mareos, dolor en el pecho, falta de aliento. Diagnosticado con diabetes. Ciprofloxacina prescrita, ibuprofeno.",Diabetes,"Ciprofloxacina, Ibuprofeno"
+"El paciente informa mareos, náuseas. Diagnosticado con migraña. Metformina prescrita, atorvastatina.",Migraña,"Metformina, Atorvastatina"
+"El paciente informa falta de aliento, dolor en el pecho. Diagnosticado con hipertensión, dolor crónico. Prescrita de amoxicilina.","Hipertensión, Dolor crónico",Amoxicilina
+"El paciente informa dolor de cabeza. Diagnosticado con diabetes, asma. Metformina prescrita, ibuprofeno.","Diabetes, Asma","Metformina, Ibuprofeno"
+"El paciente informa dolor de cabeza, dolor de espalda. Diagnosticado con diabetes, bronquitis. Prescrita atorvastatina.","Diabetes, Bronquitis",Atorvastatina
+El paciente informa mareos. Diagnosticado con dolor crónico. Paracetamol prescrito.,Dolor crónico,Paracetamol
+"El paciente informa mareos, dolor en el pecho, dolor de espalda. Diagnosticado con anemia, dolor crónico. Metformina prescrita.","Anemia, Dolor crónico",Metformina
+"El paciente informa mareos, fatiga. Diagnosticado con enfermedad cardíaca. Ciprofloxacina prescrita, ventolina.",Cardiopatía,"Ciprofloxacina, Ventolina"
+"Paciente informa tos, mareos, fatiga. Diagnosticado con obesidad, asma. Atorvastatina prescrita, metformina.","Obesidad, Asma","Atorvastatina, Metformina"
+"El paciente informa fatiga. Diagnosticado con hipertensión. Ibuprofeno prescrito, amoxicilina.",Hipertensión,"Ibuprofeno, Amoxicilina"
+Informes de pacientes dolor de garganta. Diagnosticado con hipertensión. Aspirina prescrita.,Hipertensión,Aspirina
+"El paciente informa las náuseas, la falta de aliento. Diagnosticado con anemia. Ventolin prescrito.",Anemia,Ventolina
+"El paciente informa dolor de espalda, náuseas. Diagnosticado con anemia. Paracetamol prescrito.",Anemia,Paracetamol
+"Informes de pacientes dolor de garganta, tos, dolor de cabeza. Diagnosticado con enfermedad cardíaca. Aspirina prescrita.",Cardiopatía,Aspirina
+"El paciente informa tos, dolor en el pecho, dolor de espalda. Diagnosticado con obesidad. Ciprofloxacina prescrita.",Obesidad,Ciprofloxacina
+"Paciente informa fiebre. Diagnosticado con bronquitis, dolor crónico. Ibuprofeno prescrito, ciprofloxacina.","Bronquitis, Dolor crónico","Ibuprofeno, Ciprofloxacina"
+"El paciente informa la falta de aliento. Diagnosticado con enfermedad cardíaca, obesidad. Aspirina prescrita, amoxicilina.","Cardiopatía, Obesidad","Aspirina, Amoxicilina"
+"El paciente informa la tos, la falta de aliento, los mareos. Diagnosticado con diabetes. Prescrita de amoxicilina.",Diabetes,Amoxicilina
+"El paciente informa dolor de cabeza, fiebre. Diagnosticado con diabetes, dolor crónico. Prescrita de amoxicilina.","Diabetes, Dolor crónico",Amoxicilina
+"Tos de los informes del paciente. Diagnosticado con diabetes, obesidad. Lisinopril prescrito.","Diabetes, Obesidad",Lisinopril
+"El paciente informa náuseas, tos, falta de aliento. Diagnosticado con asma, obesidad. Metformina prescrita.","Asma, Obesidad",Metformina
+"El paciente informa dolor de cabeza, dolor en el pecho, tos. Diagnosticado con migraña, obesidad. Ibuprofeno prescrito, metoprolol.","Migraña, Obesidad","Ibuprofeno, Metoprolol"
+"El paciente informa dolor de cabeza, náuseas. Diagnosticado con dolor crónico, hipertensión. Paracetamol prescrito.","Dolor crónico, Hipertensión",Paracetamol
+"El paciente informa tos, náuseas, dolor de garganta. Diagnosticado con bronquitis, obesidad. Lisinopril prescrito.","Bronquitis, Obesidad",Lisinopril
+"Los informes del paciente dolor de garganta, fatiga, fiebre. Diagnosticado con bronquitis, obesidad. Paracetamol prescrito.","Bronquitis, Obesidad",Paracetamol
+"El paciente informa mareos, fiebre. Diagnosticado con asma, artritis. Paracetamol prescrito, ciprofloxacina.","Asma, Artritis","Paracetamol, Ciprofloxacina"
+"El paciente informa dolor de cabeza, fatiga. Diagnosticado con dolor crónico. Ciprofloxacina prescrita, paracetamol.",Dolor crónico,"Ciprofloxacina, Paracetamol"
+"El paciente informa mareos, falta de aliento, dolor de cabeza. Diagnosticado con diabetes. Prescrita atorvastatina, paracetamol.",Diabetes,"Atorvastatina, Paracetamol"
+"El paciente informa tos, náuseas, dolor en el pecho. Diagnosticado con migraña, bronquitis. Metoprolol prescrito, ciprofloxacina.","Migraña, Bronquitis","Metoprolol, Ciprofloxacina"
+"El paciente informa fiebre, náuseas, fatiga. Diagnosticado con obesidad, migraña. Metformina prescrita, ibuprofeno.","Obesidad, Migraña","Metformina, Ibuprofeno"
+"El paciente informa la falta de aliento. Diagnosticado con asma. Ibuprofeno prescrito, amoxicilina.",Asma,"Ibuprofeno, Amoxicilina"
+"Informes de pacientes dolor de garganta, fiebre. Diagnosticado con dolor crónico, asma. Ciprofloxacina prescrita.","Dolor crónico, Asma",Ciprofloxacina
+"El paciente informa náuseas, dolor de espalda. Diagnosticado con asma. Metformina prescrita.",Asma,Metformina
+"Los informes del paciente dolor de garganta, dolor de espalda. Diagnosticado con artritis. Ciprofloxacina prescrita, paracetamol.",Artritis,"Ciprofloxacina, Paracetamol"
+"El paciente informa dolor en el pecho, fiebre. Diagnosticado con dolor crónico. Paracetamol prescrito, Lisinopril.",Dolor crónico,"Paracetamol, Lisinopril"
+"Informes de pacientes dolor de garganta. Diagnosticado con enfermedad cardíaca. Metformina prescrita, aspirina.",Cardiopatía,"Metformina, Aspirina"
+"El paciente informa dolor de espalda, dolor en el pecho. Diagnosticado con asma, bronquitis. Prescrita atorvastatina.","Asma, Bronquitis",Atorvastatina
+"Informes de pacientes dolor de garganta. Diagnosticado con dolor crónico, diabetes. Ventolin prescrito, Lisinopril.","Dolor crónico, Diabetes","Ventolina, Lisinopril"
+"El paciente informa dolor de espalda, tos. Diagnosticado con migraña, anemia. Prescrita atorvastatina, aspirina.","Migraña, Anemia","Atorvastatina, Aspirina"
+"El paciente informa dolor en el pecho, fiebre, falta de aliento. Diagnosticado con enfermedad cardíaca, obesidad. Metoprolol prescrito.","Cardiopatía, Obesidad",Metoprolol
+"El paciente informa fatiga, dolor de garganta. Diagnosticado con obesidad, diabetes. Ciprofloxacina prescrita.","Obesidad, Diabetes",Ciprofloxacina
+"El paciente informa fiebre, dolor de garganta, dolor en el pecho. Diagnosticado con anemia, diabetes. Ibuprofeno prescrito, metformina.","Anemia, Diabetes","Ibuprofeno, Metformina"
+"El paciente informa náuseas, dolor en el pecho, dolor de espalda. Diagnosticado con migraña. Lisinopril prescrito, metoprolol.",Migraña,"Lisinopril, Metoprolol"
+"El paciente informa dolor de cabeza, tos, mareos. Diagnosticado con diabetes, artritis. Ciprofloxacina prescrita, atorvastatina.","Diabetes, Artritis","Ciprofloxacina, Atorvastatina"
+El paciente informa dolor de cabeza. Diagnosticado con artritis. Metformina prescrita.,Artritis,Metformina
+"El paciente informa dolor de espalda, dolor de cabeza, náuseas. Diagnosticado con anemia, obesidad. Prescrito ibuprofeno, aspirina.","Anemia, Obesidad","Ibuprofeno, Aspirina"
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con diabetes, hipertensión. Ventolin prescrito.","Diabetes, Hipertensión",Ventolina
+"El paciente informa falta de aliento, náuseas, dolor en el pecho. Diagnosticado con migraña. Ventolina prescrita, aspirina.",Migraña,"Ventolina, Aspirina"
+"El paciente informa dolor en el pecho, tos. Diagnosticado con bronquitis. Aspirina prescrita, atorvastatina.",Bronquitis,"Aspirina, Atorvastatina"
+"El paciente informa dolor en el pecho. Diagnosticado con anemia, asma. Ciprofloxacina prescrita, amoxicilina.","Anemia, Asma","Ciprofloxacina, Amoxicilina"
+"El paciente informa dolor en el pecho, náuseas. Diagnosticado con hipertensión. Prescrita atorvastatina.",Hipertensión,Atorvastatina
+"El paciente informa mareos, falta de aliento, fiebre. Diagnosticado con hipertensión. Lisinopril prescrito.",Hipertensión,Lisinopril
+"El paciente informa dolor en el pecho. Diagnosticado con bronquitis. Ciprofloxacina prescrita, amoxicilina.",Bronquitis,"Ciprofloxacina, Amoxicilina"
+"El paciente informa fatiga, dolor de cabeza, falta de aliento. Diagnosticado con anemia, asma. Aspirina prescrita.","Anemia, Asma",Aspirina
+El paciente informa la falta de aliento. Diagnosticado con bronquitis. Paracetamol prescrito.,Bronquitis,Paracetamol
+"El paciente informa dolor en el pecho, dolor de espalda, náuseas. Diagnosticado con enfermedad cardíaca. Paracetamol prescrito.",Cardiopatía,Paracetamol
+"El paciente informa dolor de cabeza, mareos. Diagnosticado con bronquitis. Metoprolol prescrito, paracetamol.",Bronquitis,"Metoprolol, Paracetamol"
+"El paciente informa la falta de aliento, el dolor de cabeza, la fatiga. Diagnosticado con artritis. Paracetamol prescrito.",Artritis,Paracetamol
+"El paciente informa dolor de espalda, falta de aliento, mareos. Diagnosticado con enfermedad cardíaca. Metformina prescrita.",Cardiopatía,Metformina
+"Pacientes informa dolor de garganta, náuseas. Diagnosticado con hipertensión. Metformina prescrita.",Hipertensión,Metformina
+"El paciente informa fatiga, dolor en el pecho. Diagnosticado con anemia. Ibuprofeno prescrito.",Anemia,Ibuprofeno
+"El paciente informa dolor de espalda. Diagnosticado con dolor crónico, migraña. Paracetamol prescrito, Lisinopril.","Dolor crónico, Migraña","Paracetamol, Lisinopril"
+"El paciente informa mareos, falta de aliento, dolor en el pecho. Diagnosticado con dolor crónico, enfermedad cardíaca. Metoprolol prescrito.","Dolor crónico, Cardiopatía",Metoprolol
+"El paciente informa fatiga, mareos. Diagnosticado con artritis, migraña. Ibuprofeno prescrito.","Artritis, Migraña",Ibuprofeno
+"El paciente informa dolor en el pecho, falta de aliento. Diagnosticado con artritis. Lisinopril prescrito.",Artritis,Lisinopril
+"El paciente informa náuseas, dolor de garganta, mareos. Diagnosticado con anemia. Lisinopril prescrito.",Anemia,Lisinopril
+"El paciente informa fatiga. Diagnosticado con obesidad, enfermedad cardíaca. Prescrita amoxicilina, aspirina.","Obesidad, Cardiopatía","Amoxicilina, Aspirina"
+"El paciente informa dolor de espalda, fatiga, dolor de garganta. Diagnosticado con bronquitis, dolor crónico. Aspirina prescrita.","Bronquitis, Dolor crónico",Aspirina
+"El paciente informa que la falta de aliento, tos. Diagnosticado con anemia. Paracetamol prescrito, ibuprofeno.",Anemia,"Paracetamol, Ibuprofeno"
+"El paciente informa fatiga, dolor de espalda. Diagnosticado con diabetes, migraña. Aspirina prescrita, metoprolol.","Diabetes, Migraña","Aspirina, Metoprolol"
+"Paciente informa náuseas, tos. Diagnosticado con obesidad, anemia. Ciprofloxacina prescrita.","Obesidad, Anemia",Ciprofloxacina
+"El paciente informa mareos. Diagnosticado con hipertensión. Metformina prescrita, metoprolol.",Hipertensión,"Metformina, Metoprolol"
+"Paciente informa fiebre. Diagnosticado con enfermedad cardíaca. Paracetamol prescrito, Lisinopril.",Cardiopatía,"Paracetamol, Lisinopril"
+"El paciente informa mareos, dificultad para respirar. Diagnosticado con dolor crónico. Ibuprofeno prescrito, paracetamol.",Dolor crónico,"Ibuprofeno, Paracetamol"
+"El paciente informa dolor de espalda, náuseas, tos. Diagnosticado con enfermedad cardíaca, migraña. Prescrito lisinopril, ibuprofeno.","Cardiopatía, Migraña","Lisinopril, Ibuprofeno"
+"El paciente informa mareos, fatiga, falta de aliento. Diagnosticado con obesidad, asma. Metoprolol prescrito.","Obesidad, Asma",Metoprolol
+"El paciente informa fatiga. Diagnosticado con artritis, asma. Ibuprofeno prescrito, ventolin.","Artritis, Asma","Ibuprofeno, Ventolina"
+"El paciente informa dolor de espalda, mareos. Diagnosticado con migraña, artritis. Metformina prescrita.","Migraña, Artritis",Metformina
+El paciente informa las náuseas. Diagnosticado con asma. Paracetamol prescrito.,Asma,Paracetamol
+"El paciente informa fatiga, dolor en el pecho, dolor de espalda. Diagnosticado con anemia. Metformina prescrita, amoxicilina.",Anemia,"Metformina, Amoxicilina"
+El paciente informa dolor de espalda. Diagnosticado con obesidad. Metformina prescrita.,Obesidad,Metformina
+"El paciente informa la falta de aliento. Diagnosticado con diabetes, hipertensión. Ventolina prescrita, aspirina.","Diabetes, Hipertensión","Ventolina, Aspirina"
+"El paciente informa tos, dolor de espalda. Diagnosticado con obesidad. Ventolin prescrito.",Obesidad,Ventolina
+"El paciente informa las náuseas. Diagnosticado con obesidad, diabetes. Ventolin prescrito.","Obesidad, Diabetes",Ventolina
+"Informes de pacientes dolor de garganta. Diagnosticado con migraña, diabetes. Prescrito ibuprofeno, aspirina.","Migraña, Diabetes","Ibuprofeno, Aspirina"
+"Informes de pacientes dolor de garganta, fatiga. Diagnosticado con obesidad. Metoprolol prescrito, ventolina.",Obesidad,"Metoprolol, Ventolina"
+"Tos de los informes del paciente. Diagnosticado con dolor crónico, bronquitis. Amoxicilina prescrita, Lisinopril.","Dolor crónico, Bronquitis","Amoxicilina, Lisinopril"
+El paciente informa fatiga. Diagnosticado con diabetes. Ibuprofeno prescrito.,Diabetes,Ibuprofeno
+"El paciente informa dolor en el pecho, dolor de cabeza. Diagnosticado con anemia, migraña. Ciprofloxacina prescrita, atorvastatina.","Anemia, Migraña","Ciprofloxacina, Atorvastatina"
+"El paciente informa dolor de espalda, fatiga. Diagnosticado con migraña, artritis. Paracetamol prescrito, ibuprofeno.","Migraña, Artritis","Paracetamol, Ibuprofeno"
+"El paciente informa dolor en el pecho, dolor de cabeza, náuseas. Diagnosticado con hipertensión. Ventolin prescrito, amoxicilina.",Hipertensión,"Ventolina, Amoxicilina"
+"Informes de pacientes dolor de garganta. Diagnosticado con dolor crónico, bronquitis. Metoprolol prescrito.","Dolor crónico, Bronquitis",Metoprolol
