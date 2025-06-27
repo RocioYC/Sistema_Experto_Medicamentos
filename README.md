@@ -10,7 +10,7 @@ Es un sistema experto de sustitución de medicamentos que, a partir de reglas cl
 Hemos generado un único ejecutable para Windows con PyInstaller. Ya no necesitas Python ni instalar dependencias: solo descarga el `.exe`.
 
 - **Ubicación del ejecutable**:  
-  `dist\SustituMedIA.exe`
+  `dist\Interfaz_principal.exe`
 
 ---
 
@@ -28,7 +28,7 @@ Hemos generado un único ejecutable para Windows con PyInstaller. Ya no necesita
 2. Desde el **Explorador de Windows**, haz doble clic sobre:
 ```
 
-dist\SustituMedIA.exe
+dist\Interfaz_principal.exe
 
 ```
 3. Se abrirá la ventana gráfica con la interfaz de sustitución de medicamentos.
@@ -56,7 +56,7 @@ dist\SustituMedIA.exe
 
 Proyecto\_Medicamentos\_Sustitutos/
 ├── dist/                             ← Aquí están los ejecutables compilados
-│   └── SustituMedIA.exe
+│   └── dist\Interfaz_principal.exe
 ├── Modelo/                           ← Código fuente y datos originales
 │   ├── 01Hechos/
 │   │   └── clinical\_data.csv
