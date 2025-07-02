@@ -96,7 +96,7 @@ Si quieres modificar o volver a compilar:
 2. Asegúrate de tener Python 3.11+ y PyInstaller instalado:
    ```bash
    pip install pyinstaller
-````
+   ```
 
 3. Desde la raíz del proyecto ejecuta:
 
