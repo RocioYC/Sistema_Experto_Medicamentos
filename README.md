@@ -75,6 +75,19 @@ Proyecto\_Medicamentos\_Sustitutos/
 
 ---
 
+## 📊 Datasets utilizados
+Este sistema experto se ha desarrollado y probado utilizando datasets públicos obtenidos desde Kaggle. A continuación, se detallan las fuentes principales:
+
+| Dataset            | Descripción breve                                                                                             | Enlace                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Clinical Data**  | Datos clínicos de pacientes: `patient_id`, `diagnoses`, `medications`, `clinical_notes`                       | [Ver en Kaggle](https://www.kaggle.com/datasets/rohitphalke1/clinical-data)                                        |
+| **250k Medicines** | Lista de más de 250,000 medicamentos con sustitutos y efectos secundarios (`substitute0-4`, `sideEffect0-40`) | [Ver en Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes) |
+| **Drug Dataset**   | Información farmacológica: nombre, composición, usos, efectos secundarios, y porcentaje de reseñas excelentes | [Ver en Kaggle](https://www.kaggle.com/datasets/aadyasingh55/drug-dataset)                                         |
+
+⚠️ Todos los datos han sido preprocesados y limpiados para su uso en la base de conocimiento interna del sistema.
+
+
+
 ## 🛠️ Desarrollo
 
 Si quieres modificar o volver a compilar:
