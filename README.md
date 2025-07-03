@@ -46,13 +46,15 @@ Se ha generado un único ejecutable para Windows con PyInstaller. No necesitas i
 ## 📋 Ejemplo rápido
 
 1. Selecciona motivo (alergia o desabastecimiento).  
-2. Completa síntomas, antecedentes, diagnóstico y medicamento actual.  
-3. Pulsa **Procesar**.  
-4. Visualiza:
+2. Completa síntomas, antecedentes, diagnóstico y medicamento actual. 
+3. Valida los datos ingresados
+4. Pulsa **Procesar**.  
+5. Visualiza:
    - Sustituto sugerido
    - Puntaje clínico y justificación
    - Efectos secundarios  
-5. Opcional: Pulsa **Análisis Detallado** para ver todo el razonamiento del sistema.
+![alt text](image-1.png)
+6. Opcional: Pulsa **Análisis Detallado** para ver todo el razonamiento del sistema.
 
 ---
 
