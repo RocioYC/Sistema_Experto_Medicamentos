@@ -54,7 +54,8 @@ Se ha generado un único ejecutable para Windows con PyInstaller. No necesitas i
    - Puntaje clínico y justificación
    - Efectos secundarios
      
-![alt text](image-1.png)
+     ![alt text](image-1.png)
+
 6. Opcional: Pulsa **Análisis Detallado** para ver todo el razonamiento del sistema.
 
 ---
