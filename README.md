@@ -52,7 +52,8 @@ Se ha generado un único ejecutable para Windows con PyInstaller. No necesitas i
 5. Visualiza:
    - Sustituto sugerido
    - Puntaje clínico y justificación
-   - Efectos secundarios  
+   - Efectos secundarios
+     
 ![alt text](image-1.png)
 6. Opcional: Pulsa **Análisis Detallado** para ver todo el razonamiento del sistema.
 
