@@ -1,104 +1,134 @@
+# Sistema Experto Medicamentos 🏥💊
 
-# Sistemas Experto Medicamentos 🏥💊
-
-Es un sistema experto de sustitución de medicamentos que, a partir de reglas clínicas y composición farmacológica, sugiere alternativas terapéuticas seguras y explicables.
+Sistema experto de sustitución de medicamentos que, a partir de reglas clínicas y composición farmacológica, sugiere alternativas terapéuticas seguras, explicables y adaptadas al perfil clínico del paciente.
 
 ---
 
 ## 📦 Distribución
 
-Hemos generado un único ejecutable para Windows con PyInstaller. Ya no necesitas Python ni instalar dependencias: solo descarga el `.exe`.
+Se ha generado un único ejecutable para Windows con PyInstaller. No necesitas instalar Python ni bibliotecas adicionales.
 
-- **Ubicación del ejecutable**:  
+- **Archivo ejecutable**:  
   `dist\Interfaz_principal.exe`
 
 ---
 
 ## 🔧 Requisitos del sistema
 
-- Windows 10 o superior (64-bit recomendado)  
-- CPU con soporte SSE2  
-- Opcional: antivirus que permita ejecutar aplicaciones no firmadas
+| Requisito                   | Detalle                                       |
+|----------------------------|-----------------------------------------------|
+| Sistema Operativo          | Windows 10 o superior (64-bit recomendado)    |
+| CPU                        | Compatible con SSE2                           |
+| RAM recomendada            | 4 GB o más                                    |
+| Espacio en disco           | 152 MB mínimo                                 |
+| Antivirus                  | Permitir ejecución de aplicaciones no firmadas |
+| Conectividad               | No se requiere conexión a internet            |
 
 ---
 
-## 🚀 Uso
+## 🚀 Uso básico del sistema
 
-1. Descarga el contenido completo del repositorio (o solo la carpeta `dist` si no vas a modificar nada).
-2. Desde el **Explorador de Windows**, haz doble clic sobre:
-```
+1. Descarga el repositorio completo o solo la carpeta `dist`.
+2. Ve al explorador de Windows y ejecuta:
 
-dist\Interfaz_principal.exe
+   ```
+   dist\Interfaz_principal.exe
+   ```
 
-```
-3. Se abrirá la ventana gráfica con la interfaz de sustitución de medicamentos.
+3. Se abrirá la interfaz gráfica.
+4. Ingresa los datos clínicos requeridos.
+5. Presiona **Validar** y luego **Procesar** para ver la recomendación priorizada.
 
-> **Nota**: Todos los CSV (base de conocimiento) se han empaquetado dentro del ejecutable, así que no tienes que preocuparte por rutas ni archivos adicionales.
+> 💡 Los archivos CSV han sido empaquetados dentro del `.exe`. No es necesario configurarlos manualmente.
 
 ---
 
 ## 📋 Ejemplo rápido
 
 1. Selecciona motivo (alergia o desabastecimiento).  
-2. Rellena síntomas, antecedentes, diagnóstico y nombre del medicamento.  
+2. Completa síntomas, antecedentes, diagnóstico y medicamento actual.  
 3. Pulsa **Procesar**.  
-4. Aparecerá la **Recomendación Principal** con:  
-- Composición destacada  
-- Score y justificación  
-- Efectos secundarios  
-5. Si quieres un detalle completo, pulsa **Análisis Detallado**.
+4. Visualiza:
+   - Sustituto sugerido
+   - Puntaje clínico y justificación
+   - Efectos secundarios  
+5. Opcional: Pulsa **Análisis Detallado** para ver todo el razonamiento del sistema.
 
 ---
 
 ## 📁 Estructura del repositorio
 
 ```
-
-Proyecto\_Medicamentos\_Sustitutos/
-├── dist/                             ← Aquí están los ejecutables compilados
-│   └── dist\Interfaz_principal.exe
-├── Modelo/                           ← Código fuente y datos originales
+Proyecto_Medicamentos_Sustitutos/
+├── dist/                            ← Ejecutable compilado (.exe)
+│   └── Interfaz_principal.exe
+├── Modelo/
 │   ├── 01Hechos/
-│   │   └── clinical\_data.csv
+│   │   └── clinical_data.csv
 │   ├── BaseConocimiento/
-│   │   ├── medicamentos\_info.csv
-│   │   └── sustitutos\_medicamentos.csv
+│   │   ├── medicamentos_info.csv
+│   │   └── sustitutos_medicamentos.csv
 │   └── ReglasClinicas/
-│       └── posibles\_alergenos.csv
+│       └── posibles_alergenos.csv
 ├── Vista/
-│   └── interfaz\_principal.py        ← Código GUI original
+│   └── interfaz_principal.py
 ├── Controlador/
-│   └── main.py                      ← Punto de entrada CLI (solo para desarrollo)
-└── README.md                        ← Este archivo
-
-````
+│   └── main.py
+├── Test/
+│   ├── test_Unitarias.py
+│   ├── test_Integracion.py
+│   └── test_Rendimiento.py
+└── README.md
+```
 
 ---
 
 ## 📊 Datasets utilizados
-Este sistema experto se ha desarrollado y probado utilizando datasets públicos obtenidos desde Kaggle. A continuación, se detallan las fuentes principales:
 
-| Dataset            | Descripción breve                                                                                             | Enlace                                                                                                             |
-| ------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Clinical Data**  | Datos clínicos de pacientes: `patient_id`, `diagnoses`, `medications`, `clinical_notes`                       | [Ver en Kaggle](https://www.kaggle.com/datasets/rohitphalke1/clinical-data)                                        |
-| **250k Medicines** | Lista de más de 250,000 medicamentos con sustitutos y efectos secundarios (`substitute0-4`, `sideEffect0-40`) | [Ver en Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes) |
-| **Drug Dataset**   | Información farmacológica: nombre, composición, usos, efectos secundarios, y porcentaje de reseñas excelentes | [Ver en Kaggle](https://www.kaggle.com/datasets/aadyasingh55/drug-dataset)                                         |
+| Dataset            | Descripción                                                                                                   | Enlace                                                                                                             |
+|--------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Clinical Data       | Casos clínicos simulados (`diagnoses`, `medications`, `clinical_notes`)                                      | [Ver en Kaggle](https://www.kaggle.com/datasets/rohitphalke1/clinical-data)                                       |
+| 250k Medicines      | Medicamentos con sustitutos y efectos secundarios (`substitute0-4`, `sideEffect0-40`, clases, etc.)           | [Ver en Kaggle](https://www.kaggle.com/datasets/shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes) |
+| Drug Dataset        | Composición, efectos, usos y reviews de cada medicamento                                                      | [Ver en Kaggle](https://www.kaggle.com/datasets/aadyasingh55/drug-dataset)                                        |
 
-⚠️ Todos los datos han sido preprocesados y limpiados para su uso en la base de conocimiento interna del sistema.
+⚠️ Todos los datos fueron traducidos, depurados y normalizados para el motor de inferencia.
 
+---
 
+## 🧪 Pruebas automatizadas
 
-## 🛠️ Desarrollo
+El sistema cuenta con pruebas **unitarias**, **de integración** y **de rendimiento**, utilizando `pytest`.
 
-Si quieres modificar o volver a compilar:
+### 🧬 Ejecutar todas las pruebas
 
-1. Clona el repositorio completo.
-2. Asegúrate de tener Python 3.11+ y PyInstaller instalado:
+Desde la raíz del proyecto:
+
+```bash
+python -m pytest -v
+```
+
+### 📂 Ejecutar pruebas por módulo
+
+```bash
+python -m pytest Test/test_Unitarias.py -v
+python -m pytest Test/test_Integracion.py -v
+python -m pytest Test/test_Rendimiento.py -v
+```
+
+> ✔️ Las pruebas se ejecutan correctamente desde `Proyecto_Medicamentos_Sustitutos/`
+
+---
+
+## 🛠️ Compilación personalizada
+
+Si deseas modificar el sistema y volver a compilarlo:
+
+1. Instala PyInstaller (requiere Python 3.11+):
    ```bash
    pip install pyinstaller
    ```
 
-3. Desde la raíz del proyecto ejecuta:
+2. Desde la raíz del proyecto, ejecuta:
 
    ```bash
    pyinstaller --onefile --windowed \
@@ -108,8 +138,9 @@ Si quieres modificar o volver a compilar:
      --add-data "Modelo/ReglasClinicas/posibles_alergenos.csv;Modelo/ReglasClinicas" \
      Vista/interfaz_principal.py
    ```
-4. El nuevo `.exe` aparecerá en `dist/`.
+
+3. El nuevo `.exe` se generará en la carpeta `dist/`.
 
 ---
 
-¡Listo! Con esto cualquiera podrá descargar el exe y probar tu sistema sin complicaciones.
+🎯 **Este sistema representa una solución viable y explicable para asistir a profesionales de salud en la sustitución de medicamentos, especialmente en zonas con infraestructura limitada.**
